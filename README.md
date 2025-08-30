@@ -1,7 +1,7 @@
 # Data-Analysis-Portfolio
 Welcome to my Data Analyst portfolio.
 This repository contains my practice work and projects using different 
-## data analysis tools:
+## data analysis tools
 
 SQL 🗄️ (DDL, DML, DQL)
 
