@@ -1,4 +1,15 @@
---DML
+
+/* =====================================================
+   Author: SaraAhmed
+   Database: SQL SERVER
+   Sample DB: Customers.csv
+   File: DML_Queries
+   Description: This file contains SQL Data Manipulation Language (DML) 
+                statements such as INSERT, UPDATE, DELETE, and SELECT 
+                used to manage and manipulate the data stored 
+                in the Customers table
+   ===================================================== */
+
 -- Insert new records into the customers table
 
 -- Insert a new record with full column values
