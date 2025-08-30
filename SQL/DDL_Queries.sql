@@ -1,4 +1,15 @@
---DDL
+
+
+/* =====================================================
+   Author: SaraAhmed
+   Database: SQL SERVER
+   Sample DB: infodb -- simple DB created by me
+   File: DDL_Queries
+   Description: This file contains SQL Data Definition Language (DDL) 
+                statements such as CREATE, ALTER, and DROP to define 
+                and manage the structure of the database objects.
+   ===================================================== */
+
 CREATE DATABASE infodb;
 
 
