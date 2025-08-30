@@ -1,2 +1,29 @@
 # Data-Analysis-Portfolio
-A portfolio of my Data Analysis projects using SQL, Python, Excel and Power BI
+Welcome to my Data Analyst portfolio.
+This repository contains my practice work and projects using different data analysis tools:
+
+SQL 🗄️ (DDL, DML, DQL)
+
+Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn)
+
+Excel 📑 (Functions, Pivot Tables, Dashboards)
+
+Repository Structure
+
+SQL/ – Queries and exercises for databases
+
+Python/ – Data cleaning, analysis, and visualization
+
+Excel/ – Dashboards and functions
+
+PowerBI/ – Interactive reports and dashboards
+
+Current Status
+
+📌 This portfolio is still under development.
+📌 More projects and exercises will be added soon.
+
+Contact
+LinkedIn: [Sara Ahmed](https://www.linkedin.com/in/sara-ahmed-713093206) 
+
+Email: [sara.ahmed.sief@gmail.com] (mailto:sara.ahmed.sief@gmail.com) 
