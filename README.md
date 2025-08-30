@@ -24,6 +24,6 @@ Current Status
 📌 More projects and exercises will be added soon.
 
 Contact
-LinkedIn: [Sara Ahmed](https://www.linkedin.com/in/sara-ahmed-713093206) 
+LinkedIn: [Sara Ahmed] (https://www.linkedin.com/in/sara-ahmed-713093206) 
 
 Email: [sara.ahmed.sief@gmail.com] (mailto:sara.ahmed.sief@gmail.com) 
