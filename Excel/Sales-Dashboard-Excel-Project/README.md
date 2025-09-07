@@ -5,7 +5,6 @@ slicers, and KPI summaries to analyze order details by product, sales rep, custo
 
 ## 📌 Project Objective
 
-You are given:
 - A fact table (`OrdersDetails.xlsx`) with sales orders per sales rep
 - Dimension tables (`SalesData.xlsx`) for Customers, Products, and Reps
 
@@ -28,6 +27,14 @@ You are given:
 - Company logo added for branding
 - User-friendly design with slicers and summaries
 
+## 🔍 Key Insights
+
+- 🏆 **Mexico** was the highest-grossing country, contributing a total of **57449000** in sales.
+- 🚲 **Bianche Bikes** generated the highest overall sales among all products.
+- 🧑‍💼 **King Robert** stood out as the top-performing sales representative.
+- 📈 Sales peaked in **August** and **December**, showing clear **seasonal patterns**.
+- 📊 The year **2014** recorded the **strongest sales performance** overall.
+
 
 ## 🖼️ Dashboard Preview
 
@@ -37,8 +44,6 @@ You are given:
 ## 🛠️ Tools Used
 
 - Microsoft Excel
-- PivotTables & PivotCharts
-- Excel formulas
 - Power Query
 
 ## 📎 Notes
