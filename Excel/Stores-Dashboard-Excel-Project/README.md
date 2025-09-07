@@ -53,7 +53,11 @@ The final dashboard includes a combination of **pivot tables**, **pivot charts**
 - ✅ All slicers are fully linked to all pivot tables and charts for a seamless user experience
 
 ---
+## 🖼️ Dashboard Preview
 
+![Dashboard Preview](Images/dashboard.png)
+
+---
 
 ## 🛠️ Tools Used
 
