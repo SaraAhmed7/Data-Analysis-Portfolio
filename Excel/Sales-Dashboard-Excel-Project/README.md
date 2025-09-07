@@ -29,6 +29,11 @@ You are given:
 - User-friendly design with slicers and summaries
 
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](SalesDashboardScreenshot.png)
+
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
