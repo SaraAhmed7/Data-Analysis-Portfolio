@@ -55,7 +55,7 @@ The final dashboard includes a combination of **pivot tables**, **pivot charts**
 ---
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Stores_Dashboard_Image.jpeg)
 
 ---
 
