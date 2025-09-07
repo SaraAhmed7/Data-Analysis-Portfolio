@@ -88,16 +88,6 @@ Group by Dname;
 
 --8.	For each department, retrieve the department name and the maximum salary of its employees. (hint use subquery)
 
---wrong answer
-SELECT Dname , 
-(
-select max(salary)
-from Departments as d join Employee as e
-on d.Dnum = e.Dno
-) as maxSalary
-from Departments
-
-
 SELECT Dname,
     (SELECT MAX(salary)
         FROM employee e
@@ -113,10 +103,3 @@ where Salary = (
 select Max(salary)
 )
 
-
-
-select * 
-from Departments join Employee on Departments.Dnum = Employee.Dno
-
-
-select * from Employee
