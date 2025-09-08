@@ -1,7 +1,6 @@
 # 📊 Excel Sales Dashboard Project
 
-This is an interactive sales dashboard project built using **Microsoft Excel**. It includes data modeling, pivot tables, charts,
-slicers, and KPI summaries to analyze order details by product, sales rep, customer country, and order date.
+This is an interactive sales dashboard project built using **Microsoft Excel**. It includes data modeling, pivot tables, charts and slicers.
 
 ## 📌 Project Objective
 
