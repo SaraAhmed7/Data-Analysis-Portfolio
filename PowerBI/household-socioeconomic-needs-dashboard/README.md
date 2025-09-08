@@ -16,7 +16,7 @@ This analysis provides actionable insights that can guide NGOs, policy makers, a
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Preview](هmage/household-socioeconomic-needs-dashboard.png)  
+![Dashboard Preview](Image/household-socioeconomic-needs-dashboard.png)  
 
 ## 📊 Key Insights  
 
