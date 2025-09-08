@@ -12,6 +12,11 @@ The main goal is to help:
 
 ---
 
+## 📷 Dashboard Preview  
+![Dashboard Screenshot](Image/hr-dashboard-image.jpeg)  
+
+---
+
 ## 📊 Key Insights  
 
 1. **Employee Distribution**  
@@ -35,18 +40,10 @@ The main goal is to help:
    - Offices are located across countries such as Italy and Japan.  
    - Mapping employees to countries highlights **regional hiring trends** and workforce distribution.  
 
----
-
-## 🚀 Conclusion  
-This project demonstrates how Power BI transforms raw HR data into a **decision-support system** for leadership, enabling:  
-- Salary and compensation planning  
-- Workforce allocation  
-- HR strategy optimization  
 
 ---
 
-## 📷 Dashboard Preview  
-![Dashboard Screenshot](Image/hr-dashboard-image.jpeg)  
 
-> Replace `dashboard.png` with the actual screenshot of your Power BI dashboard once exported.  
+
+
 
