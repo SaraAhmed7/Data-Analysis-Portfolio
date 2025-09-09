@@ -11,7 +11,9 @@ The main goal is to help:
 - Business leaders understand workforce demographics and identify areas for optimization.  
 
 ---
-
+## Dashboard Link
+https://app.powerbi.com/reportEmbed?reportId=27a68e44-4a08-447e-a681-3e5139d8e5bc&autoAuth=true&ctid=77255288-5298-4ea5-81aa-a13e604c30ac
+---
 ## 📷 Dashboard Preview  
 ![Dashboard Screenshot](Image/hr-dashboard-image.jpeg)  
 
