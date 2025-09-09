@@ -9,6 +9,8 @@ Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn)
 
 Excel 📑 (Functions, Pivot Tables, Dashboards)
 
+PowerBI 📑(DAX, Visualization)
+
 ## Repository Structure
 
 SQL/ – Queries and exercises for databases
