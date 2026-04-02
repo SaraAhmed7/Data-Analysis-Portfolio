@@ -12,6 +12,9 @@ This project was developed as part of a freelance engagement for a bakery busine
 * Evaluate marketing channel performance
 * Support data-driven decision-making
 
+  Screenshot 2025-12-30 121149.png
+  ![SweetRise-Bakery](Screenshot 2025-12-30 121149.png)
+
 ## 📊 Key Results
 
 * Total Revenue: **505.84K**
