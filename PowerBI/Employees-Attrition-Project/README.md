@@ -19,9 +19,9 @@ The dashboard highlights key metrics such as attrition rate, employee distributi
 ---
 
 ## 🛠️ Tools & Technologies  
-- **SQL** → Data extraction and transformation  
+- **SQL** → Data extraction and transformation
+- **Python** → Data cleaning and preprocessing  
 - **Power BI** → Data visualization and dashboard creation  
-- **Power Query** → Data cleaning and preprocessing  
 
 ---
 
