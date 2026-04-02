@@ -12,6 +12,8 @@ This project was delivered as part of a freelance engagement for a service-based
 * Evaluate customer acquisition channels
 * Support strategic business decisions
 
+  ![Handy-Pro-Hub-Project](Image/Dashboard.png)
+
 ## 📊 Key Insights
 
 * HVAC Repair and Plumbing are the top-performing service categories
