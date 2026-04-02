@@ -1,0 +1,2001 @@
+Date,TimeOfDay,AdSpend,Conversions,Revenue,ServiceType,Channel,CustomerType
+2024-08-17 00:00:00,Afternoon,38.68,5,153.03,Premium,Referral,New
+2024-07-18 00:00:00,Afternoon,10.12,0,226.56,Luxury,Walk-in,Returning
+2024-12-11 00:00:00,Morning,10.58,3,267.06,Premium,Referral,Returning
+2024-01-24 00:00:00,Afternoon,46.21,2,11.35,Basic,Referral,Returning
+2024-03-01 00:00:00,Evening,23.72,2,275.38,Basic,Google Ads,Returning
+2024-07-04 00:00:00,Evening,43.36,1,28.67,Basic,Google Ads,New
+2024-07-15 00:00:00,Evening,8.66,1,182.28,Basic,Instagram,Returning
+2024-11-14 00:00:00,Morning,47.61,3,172.2,Basic,Website,Returning
+2024-04-01 00:00:00,Morning,38.15,1,224.81,Basic,Google Ads,New
+2024-04-07 00:00:00,Morning,6.33,1,112.46,Premium,Instagram,New
+2024-05-05 00:00:00,Night,26.67,2,23.24,Premium,Website,Returning
+2024-09-25 00:00:00,Evening,23.04,3,192.97,Luxury,Walk-in,Returning
+2024-08-15 00:00:00,Morning,34.44,2,282.94,Luxury,Instagram,New
+2024-03-01 00:00:00,Evening,14.08,3,187.96,Premium,Walk-in,New
+2024-05-15 00:00:00,Night,31.43,0,45.72,Basic,Google Ads,New
+2024-09-12 00:00:00,Afternoon,41,4,153.87,Basic,Website,New
+2024-07-22 00:00:00,Afternoon,11.94,0,108.51,Luxury,Walk-in,New
+2024-05-05 00:00:00,Evening,36.68,1,247.24,Luxury,Referral,Returning
+2024-09-01 00:00:00,Morning,7.56,2,44.27,Premium,Website,New
+2024-09-30 00:00:00,Evening,39.08,4,45.25,Premium,Website,New
+2024-02-01 00:00:00,Afternoon,27.42,0,69.88,Luxury,Instagram,Returning
+2024-01-10 00:00:00,Evening,29.81,3,284.66,Basic,Website,New
+2024-10-07 00:00:00,Night,7.06,3,145.63,Luxury,Walk-in,New
+2024-04-09 00:00:00,Morning,44,2,11.92,Basic,Website,New
+2024-03-06 00:00:00,Evening,27.1,2,93.81,Premium,Google Ads,New
+2024-01-24 00:00:00,Afternoon,12.95,1,134.75,Basic,Website,New
+2024-11-15 00:00:00,Morning,44,3,94.55,Premium,Google Ads,New
+2024-10-06 00:00:00,Night,40.86,4,68.94,Luxury,Website,New
+2024-12-18 00:00:00,Evening,15.84,3,173.95,Basic,Referral,New
+2024-11-03 00:00:00,Evening,32.49,2,288.65,Premium,Google Ads,New
+2024-12-13 00:00:00,Night,26.26,2,283.61,Luxury,Walk-in,Returning
+2024-01-17 00:00:00,Morning,46.61,1,72.54,Basic,Referral,Returning
+2024-10-09 00:00:00,Evening,20.25,4,289.03,Basic,Referral,Returning
+2024-06-24 00:00:00,Night,48.34,0,55.28,Basic,Google Ads,Returning
+2024-04-11 00:00:00,Evening,37.44,2,144.11,Premium,Walk-in,New
+2024-09-29 00:00:00,Night,10.63,2,259.55,Luxury,Google Ads,New
+2024-09-02 00:00:00,Morning,17.72,3,214.56,Premium,Google Ads,New
+2024-05-22 00:00:00,Evening,16.01,0,260.38,Premium,Google Ads,Returning
+2024-10-07 00:00:00,Night,4.57,3,237.52,Basic,Referral,Returning
+2024-04-06 00:00:00,Morning,34.65,2,12.72,Luxury,Website,New
+2024-01-24 00:00:00,Morning,49.66,5,222.57,Luxury,Walk-in,New
+2024-12-04 00:00:00,Morning,35.31,1,158.13,Basic,Website,Returning
+2024-08-06 00:00:00,Night,21.62,3,134.3,Basic,Instagram,Returning
+2024-10-31 00:00:00,Evening,42.1,0,88.11,Premium,Google Ads,Returning
+2024-03-02 00:00:00,Morning,49.05,5,19.54,Basic,Walk-in,Returning
+2024-02-12 00:00:00,Evening,46.93,3,200.78,Luxury,Referral,New
+2024-10-29 00:00:00,Morning,17.29,2,241.76,Luxury,Instagram,New
+2024-05-10 00:00:00,Evening,1.51,7,143.7,Basic,Instagram,Returning
+2024-02-07 00:00:00,Morning,34.56,3,75.35,Premium,Referral,New
+2024-05-29 00:00:00,Afternoon,40.65,2,293.09,Premium,Google Ads,Returning
+2024-11-19 00:00:00,Afternoon,3.75,1,48.81,Premium,Walk-in,Returning
+2024-03-16 00:00:00,Evening,29.79,1,194.37,Luxury,Referral,New
+2024-02-12 00:00:00,Evening,26.64,2,77.14,Luxury,Walk-in,New
+2024-04-30 00:00:00,Night,4.96,1,60.06,Basic,Google Ads,Returning
+2024-06-13 00:00:00,Afternoon,46.05,3,241.38,Premium,Google Ads,New
+2024-11-30 00:00:00,Evening,10.51,0,152.41,Premium,Referral,New
+2024-06-26 00:00:00,Afternoon,21.13,2,219.79,Luxury,Walk-in,Returning
+2024-10-21 00:00:00,Night,22.6,4,158.14,Luxury,Instagram,New
+2024-03-16 00:00:00,Morning,21.56,1,177.23,Basic,Website,Returning
+2024-10-30 00:00:00,Night,38.25,1,289.36,Premium,Walk-in,Returning
+2024-03-01 00:00:00,Morning,29.75,1,165.1,Basic,Walk-in,New
+2024-10-18 00:00:00,Night,3.65,2,228.22,Basic,Website,New
+2024-05-13 00:00:00,Afternoon,12.92,4,258.65,Luxury,Referral,New
+2024-07-17 00:00:00,Evening,49.22,1,30.58,Luxury,Referral,Returning
+2024-02-11 00:00:00,Night,37.01,1,17.84,Premium,Website,Returning
+2024-05-29 00:00:00,Morning,9.54,6,287.33,Basic,Google Ads,Returning
+2024-03-16 00:00:00,Morning,25.09,3,109.24,Basic,Website,New
+2024-01-03 00:00:00,Morning,6.57,1,277.57,Basic,Walk-in,New
+2024-07-18 00:00:00,Night,1.06,1,127.51,Luxury,Walk-in,Returning
+2024-07-10 00:00:00,Morning,44.08,4,213.31,Premium,Walk-in,New
+2024-06-25 00:00:00,Night,32.01,1,23.78,Luxury,Google Ads,New
+2024-12-19 00:00:00,Morning,46.89,5,11.7,Luxury,Google Ads,New
+2024-06-20 00:00:00,Afternoon,39.02,0,48.05,Basic,Google Ads,Returning
+2024-04-05 00:00:00,Night,2.15,0,33.87,Premium,Website,New
+2024-07-02 00:00:00,Morning,35.8,2,96.37,Luxury,Website,Returning
+2024-09-13 00:00:00,Afternoon,1.13,1,266.69,Basic,Referral,Returning
+2024-07-08 00:00:00,Night,40.03,0,154.75,Premium,Website,New
+2024-11-07 00:00:00,Night,14.6,2,187.47,Premium,Walk-in,New
+2024-12-20 00:00:00,Morning,13.94,3,101.38,Basic,Referral,New
+2024-05-05 00:00:00,Morning,44.77,3,148.03,Luxury,Website,Returning
+2024-06-25 00:00:00,Evening,2.19,3,107.39,Luxury,Walk-in,New
+2024-01-07 00:00:00,Night,26.9,2,75.39,Luxury,Instagram,Returning
+2024-08-04 00:00:00,Morning,16.56,0,275.35,Luxury,Referral,New
+2024-06-04 00:00:00,Evening,15.71,2,50.07,Luxury,Referral,Returning
+2024-10-11 00:00:00,Afternoon,49.99,1,250.52,Basic,Walk-in,Returning
+2024-11-15 00:00:00,Night,36.55,3,143.37,Luxury,Walk-in,New
+2024-01-09 00:00:00,Afternoon,46.77,3,246.32,Premium,Referral,New
+2024-09-13 00:00:00,Morning,39.49,3,287.18,Premium,Referral,Returning
+2024-03-20 00:00:00,Night,34.89,5,289.95,Basic,Instagram,New
+2024-01-27 00:00:00,Morning,37.71,2,202.34,Luxury,Google Ads,Returning
+2024-07-29 00:00:00,Afternoon,30.4,0,152.82,Basic,Referral,Returning
+2024-04-24 00:00:00,Night,28.65,2,24.53,Luxury,Walk-in,New
+2024-12-18 00:00:00,Afternoon,14.34,1,244.49,Luxury,Referral,New
+2024-05-31 00:00:00,Morning,1.08,2,71.2,Premium,Referral,Returning
+2024-10-30 00:00:00,Morning,24.51,6,216.7,Basic,Walk-in,Returning
+2024-05-04 00:00:00,Morning,14.04,1,150.68,Premium,Website,New
+2024-01-05 00:00:00,Afternoon,40.41,2,146.24,Luxury,Instagram,New
+2024-01-27 00:00:00,Night,48.72,0,259.64,Basic,Google Ads,Returning
+2024-07-17 00:00:00,Afternoon,42.32,2,115.81,Basic,Website,New
+2024-02-11 00:00:00,Afternoon,14.19,4,27.81,Basic,Google Ads,Returning
+2024-12-25 00:00:00,Morning,21.78,2,123.84,Luxury,Instagram,New
+2024-02-02 00:00:00,Afternoon,26.33,1,27.28,Luxury,Walk-in,New
+2024-05-25 00:00:00,Night,11.53,1,130.49,Luxury,Referral,Returning
+2024-10-08 00:00:00,Night,49.87,2,214.52,Premium,Referral,Returning
+2024-10-07 00:00:00,Afternoon,43.14,0,111.6,Premium,Walk-in,Returning
+2024-02-02 00:00:00,Evening,1.97,3,63.44,Luxury,Google Ads,New
+2024-07-12 00:00:00,Morning,38.52,4,236.69,Basic,Instagram,New
+2024-01-11 00:00:00,Evening,21.45,1,210.21,Premium,Google Ads,Returning
+2024-11-01 00:00:00,Night,40.96,1,59.41,Luxury,Walk-in,New
+2024-12-15 00:00:00,Night,1.56,2,48.55,Premium,Walk-in,New
+2024-01-17 00:00:00,Night,13.74,1,241.48,Basic,Google Ads,Returning
+2024-05-27 00:00:00,Evening,11.88,0,264.25,Luxury,Instagram,Returning
+2024-07-25 00:00:00,Afternoon,37.04,1,33.33,Luxury,Google Ads,Returning
+2024-11-13 00:00:00,Morning,6.97,2,143.74,Premium,Website,Returning
+2024-11-18 00:00:00,Afternoon,32.66,4,125.7,Premium,Website,New
+2024-12-14 00:00:00,Night,29.5,2,189.2,Premium,Google Ads,Returning
+2024-04-27 00:00:00,Night,40.27,1,273.98,Premium,Instagram,New
+2024-06-12 00:00:00,Morning,34.63,0,226.71,Luxury,Website,New
+2024-10-01 00:00:00,Morning,42.29,1,95.25,Basic,Website,New
+2024-04-30 00:00:00,Evening,17.09,3,185.65,Basic,Referral,Returning
+2024-05-02 00:00:00,Night,36.42,3,228.25,Basic,Referral,New
+2024-04-01 00:00:00,Afternoon,15.41,2,223.94,Luxury,Instagram,New
+2024-04-07 00:00:00,Afternoon,32.28,0,281.72,Basic,Website,Returning
+2024-05-01 00:00:00,Afternoon,24.15,2,265.69,Premium,Google Ads,New
+2024-01-18 00:00:00,Night,9.99,1,186.21,Basic,Google Ads,New
+2024-07-01 00:00:00,Morning,8.32,3,55.13,Basic,Referral,New
+2024-12-15 00:00:00,Evening,9.48,2,138.63,Premium,Referral,Returning
+2024-03-01 00:00:00,Morning,36.93,1,240.7,Basic,Website,Returning
+2024-02-12 00:00:00,Night,24.63,3,215.34,Premium,Website,New
+2024-01-13 00:00:00,Night,37.15,4,224.28,Premium,Website,New
+2024-05-29 00:00:00,Afternoon,16.04,3,59.67,Luxury,Referral,New
+2024-12-23 00:00:00,Morning,21.96,2,233.75,Basic,Referral,New
+2024-10-27 00:00:00,Night,33.52,1,238.88,Premium,Walk-in,New
+2024-03-13 00:00:00,Evening,25.43,1,104.35,Premium,Website,New
+2024-02-06 00:00:00,Afternoon,37.39,0,187.58,Premium,Instagram,New
+2024-05-13 00:00:00,Morning,29.86,1,151.73,Luxury,Walk-in,Returning
+2024-07-19 00:00:00,Evening,1.23,0,157.05,Premium,Walk-in,New
+2024-11-28 00:00:00,Night,28.94,0,210.75,Basic,Referral,New
+2024-07-12 00:00:00,Night,28.87,5,182.9,Luxury,Website,Returning
+2024-06-09 00:00:00,Evening,33.7,2,127.1,Basic,Website,Returning
+2024-09-18 00:00:00,Night,10.3,2,253.86,Luxury,Referral,Returning
+2024-05-31 00:00:00,Night,29.47,3,21.59,Premium,Google Ads,New
+2024-01-17 00:00:00,Evening,27.67,4,166.47,Premium,Walk-in,New
+2024-03-01 00:00:00,Night,22.92,2,190.11,Premium,Referral,Returning
+2024-10-29 00:00:00,Morning,19.64,2,142.51,Luxury,Website,Returning
+2024-12-15 00:00:00,Night,1.29,3,28.74,Premium,Referral,New
+2024-11-20 00:00:00,Evening,5.46,4,267.68,Basic,Instagram,New
+2024-11-21 00:00:00,Afternoon,34.51,2,89.33,Luxury,Walk-in,Returning
+2024-04-17 00:00:00,Night,42.31,2,230.5,Basic,Website,Returning
+2024-02-15 00:00:00,Night,7.95,0,253.53,Basic,Google Ads,Returning
+2024-07-13 00:00:00,Evening,35.37,1,61.84,Luxury,Google Ads,Returning
+2024-11-01 00:00:00,Evening,7.41,2,150.48,Luxury,Instagram,New
+2024-11-12 00:00:00,Afternoon,28.34,1,173.32,Luxury,Referral,Returning
+2024-10-13 00:00:00,Evening,43.77,2,220.07,Luxury,Google Ads,Returning
+2024-03-06 00:00:00,Evening,7.54,3,287.14,Luxury,Walk-in,Returning
+2024-12-18 00:00:00,Evening,39.82,1,229.84,Basic,Instagram,Returning
+2024-06-13 00:00:00,Night,37.72,1,54.98,Luxury,Google Ads,Returning
+2024-03-09 00:00:00,Afternoon,43.9,2,225.14,Premium,Website,New
+2024-12-24 00:00:00,Evening,41.32,1,207.6,Basic,Walk-in,New
+2024-06-26 00:00:00,Afternoon,33.25,3,166.99,Premium,Instagram,Returning
+2024-09-05 00:00:00,Evening,4.06,1,211.23,Luxury,Walk-in,Returning
+2024-05-12 00:00:00,Afternoon,0.87,4,144.46,Luxury,Website,Returning
+2024-12-05 00:00:00,Morning,19.74,1,294.44,Luxury,Referral,New
+2024-03-21 00:00:00,Afternoon,12.11,2,18.06,Luxury,Website,Returning
+2024-12-01 00:00:00,Night,20.89,0,278.62,Luxury,Google Ads,New
+2024-08-08 00:00:00,Evening,41.48,4,136.78,Basic,Instagram,New
+2024-04-12 00:00:00,Morning,2.61,3,143.78,Premium,Walk-in,New
+2024-09-22 00:00:00,Morning,25.8,0,81.96,Basic,Google Ads,New
+2024-05-04 00:00:00,Evening,2.52,1,213.93,Basic,Referral,New
+2024-09-02 00:00:00,Night,45.97,0,231.51,Premium,Google Ads,New
+2024-10-26 00:00:00,Night,27.15,4,111.95,Luxury,Google Ads,Returning
+2024-11-13 00:00:00,Evening,4.44,4,57.89,Luxury,Walk-in,Returning
+2024-11-01 00:00:00,Night,3.22,3,43.34,Luxury,Walk-in,New
+2024-10-12 00:00:00,Afternoon,12.51,1,129.03,Basic,Referral,Returning
+2024-09-01 00:00:00,Evening,29.89,2,220.58,Basic,Walk-in,New
+2024-09-03 00:00:00,Night,37.33,1,241.44,Luxury,Referral,Returning
+2024-08-28 00:00:00,Afternoon,4.06,5,185.92,Basic,Instagram,New
+2024-08-10 00:00:00,Afternoon,25.53,2,109.26,Premium,Google Ads,New
+2024-03-04 00:00:00,Evening,44.98,1,132.87,Premium,Walk-in,New
+2024-09-26 00:00:00,Morning,26.45,4,164.99,Premium,Walk-in,New
+2024-12-18 00:00:00,Afternoon,11.54,1,181.93,Basic,Referral,Returning
+2024-09-07 00:00:00,Evening,4.79,3,205.93,Premium,Walk-in,New
+2024-05-19 00:00:00,Night,14.48,2,49.59,Premium,Referral,Returning
+2024-02-15 00:00:00,Morning,25.41,2,127.57,Premium,Google Ads,Returning
+2024-07-01 00:00:00,Morning,8.2,3,41.77,Basic,Referral,New
+2024-12-02 00:00:00,Morning,33.6,1,245.43,Basic,Walk-in,New
+2024-09-01 00:00:00,Afternoon,22.01,0,10.92,Premium,Walk-in,New
+2024-01-21 00:00:00,Morning,13.83,1,46.57,Premium,Google Ads,Returning
+2024-01-05 00:00:00,Afternoon,45.54,1,120.26,Luxury,Walk-in,Returning
+2024-06-10 00:00:00,Evening,44.55,0,280.73,Premium,Referral,New
+2024-12-17 00:00:00,Evening,10.33,4,150.27,Premium,Website,New
+2024-05-19 00:00:00,Morning,28.4,3,134.87,Luxury,Google Ads,New
+2024-01-31 00:00:00,Afternoon,23.9,4,78.21,Luxury,Walk-in,Returning
+2024-05-02 00:00:00,Morning,30.98,3,298.01,Premium,Website,Returning
+2024-04-30 00:00:00,Night,36.81,2,115.46,Basic,Instagram,Returning
+2024-12-19 00:00:00,Morning,34.38,0,240.77,Luxury,Referral,New
+2024-06-03 00:00:00,Afternoon,5.1,1,52.94,Basic,Walk-in,New
+2024-04-26 00:00:00,Afternoon,18.89,2,13.26,Basic,Referral,New
+2024-09-03 00:00:00,Afternoon,14.63,1,298.55,Basic,Referral,New
+2024-10-21 00:00:00,Morning,8.43,1,238.5,Basic,Referral,New
+2024-04-07 00:00:00,Night,32.43,1,182.89,Luxury,Walk-in,Returning
+2024-08-13 00:00:00,Night,33.37,1,155.85,Premium,Website,New
+2024-08-14 00:00:00,Night,45.24,4,198.83,Luxury,Website,New
+2024-06-26 00:00:00,Night,36.85,3,193.62,Basic,Instagram,New
+2024-02-12 00:00:00,Night,33.17,4,212.48,Basic,Walk-in,New
+2024-04-06 00:00:00,Afternoon,20.92,1,230.07,Luxury,Website,Returning
+2024-09-30 00:00:00,Night,45.91,2,257.85,Premium,Google Ads,Returning
+2024-08-20 00:00:00,Morning,27.72,2,267.54,Premium,Referral,Returning
+2024-12-26 00:00:00,Evening,12.63,2,51.51,Basic,Walk-in,New
+2024-07-13 00:00:00,Night,20.13,2,269.32,Premium,Walk-in,New
+2024-06-02 00:00:00,Evening,44.22,4,232.64,Premium,Referral,New
+2024-02-13 00:00:00,Night,43.33,2,105.6,Basic,Instagram,New
+2024-02-18 00:00:00,Night,48.92,0,187.71,Luxury,Walk-in,New
+2024-10-02 00:00:00,Morning,10.56,5,64.29,Premium,Walk-in,New
+2024-04-11 00:00:00,Afternoon,25.68,0,107.11,Luxury,Walk-in,Returning
+2024-11-11 00:00:00,Afternoon,44,6,154.32,Premium,Google Ads,New
+2024-02-06 00:00:00,Afternoon,12.09,1,197.8,Premium,Google Ads,Returning
+2024-05-31 00:00:00,Morning,37.96,2,96.8,Luxury,Website,Returning
+2024-10-17 00:00:00,Afternoon,14.57,0,46.67,Basic,Google Ads,New
+2024-06-30 00:00:00,Evening,7.99,2,172.36,Premium,Website,Returning
+2024-07-30 00:00:00,Night,21.59,0,119.66,Basic,Walk-in,New
+2024-03-21 00:00:00,Morning,40.5,3,227.78,Luxury,Referral,Returning
+2024-09-19 00:00:00,Night,37.24,4,289.05,Basic,Google Ads,Returning
+2024-01-26 00:00:00,Morning,47.63,2,219.46,Basic,Google Ads,New
+2024-12-08 00:00:00,Night,49.28,3,143.42,Premium,Referral,New
+2024-09-10 00:00:00,Morning,1.5,2,129.64,Basic,Website,Returning
+2024-07-12 00:00:00,Morning,18.63,2,234.79,Luxury,Instagram,Returning
+2024-04-17 00:00:00,Night,37.04,1,152.41,Premium,Google Ads,Returning
+2024-05-19 00:00:00,Evening,23.61,2,144.85,Premium,Walk-in,Returning
+2024-04-07 00:00:00,Afternoon,5.92,2,198.38,Premium,Referral,New
+2024-07-06 00:00:00,Afternoon,36.37,0,19.8,Premium,Referral,Returning
+2024-05-12 00:00:00,Afternoon,34.55,1,114.15,Basic,Instagram,New
+2024-03-18 00:00:00,Afternoon,7.75,1,199.49,Basic,Referral,New
+2024-03-23 00:00:00,Afternoon,49.45,3,66.58,Basic,Website,New
+2024-05-16 00:00:00,Morning,43.01,1,249.48,Premium,Google Ads,New
+2024-05-20 00:00:00,Morning,33.67,2,259.67,Basic,Google Ads,Returning
+2024-07-01 00:00:00,Night,22.1,3,137.4,Premium,Google Ads,New
+2024-04-21 00:00:00,Evening,37.34,2,268.88,Luxury,Referral,New
+2024-12-11 00:00:00,Night,15.39,2,110.91,Basic,Website,New
+2024-01-27 00:00:00,Night,0.76,3,87.32,Luxury,Referral,New
+2024-10-27 00:00:00,Night,35.81,1,106.38,Basic,Instagram,Returning
+2024-05-30 00:00:00,Afternoon,37.39,1,295.47,Luxury,Website,Returning
+2024-10-24 00:00:00,Afternoon,21.71,1,225.11,Basic,Website,Returning
+2024-11-05 00:00:00,Afternoon,13.23,2,74.86,Premium,Walk-in,New
+2024-07-04 00:00:00,Afternoon,1.51,1,104.29,Luxury,Walk-in,New
+2024-10-09 00:00:00,Evening,10.61,1,262.18,Premium,Instagram,Returning
+2024-10-09 00:00:00,Evening,12.99,6,286.31,Luxury,Walk-in,New
+2024-10-06 00:00:00,Afternoon,16.69,4,143.72,Premium,Instagram,Returning
+2024-08-28 00:00:00,Evening,36.42,1,270.16,Luxury,Google Ads,New
+2024-05-23 00:00:00,Afternoon,8.73,0,200.56,Luxury,Instagram,Returning
+2024-01-02 00:00:00,Afternoon,18.93,6,181.83,Premium,Walk-in,Returning
+2024-08-09 00:00:00,Morning,6.38,2,160.33,Luxury,Google Ads,New
+2024-01-29 00:00:00,Morning,13.56,1,221.68,Luxury,Instagram,Returning
+2024-04-09 00:00:00,Evening,6.78,1,62.03,Luxury,Website,Returning
+2024-09-06 00:00:00,Evening,40.96,5,83.77,Luxury,Instagram,Returning
+2024-06-26 00:00:00,Afternoon,10.18,1,71.76,Luxury,Instagram,New
+2024-02-15 00:00:00,Night,24.57,5,254.43,Luxury,Instagram,Returning
+2024-10-05 00:00:00,Afternoon,31.83,2,222.51,Luxury,Google Ads,New
+2024-11-17 00:00:00,Evening,4.98,3,274.5,Luxury,Instagram,Returning
+2024-05-15 00:00:00,Evening,43.3,4,95.84,Premium,Instagram,New
+2024-06-28 00:00:00,Afternoon,3.14,0,214.08,Premium,Website,New
+2024-06-04 00:00:00,Evening,9.02,2,237.64,Premium,Walk-in,Returning
+2024-03-29 00:00:00,Afternoon,21.01,2,163.64,Basic,Google Ads,New
+2024-09-29 00:00:00,Afternoon,46.05,4,257.32,Luxury,Website,New
+2024-12-19 00:00:00,Morning,26.93,2,45.09,Basic,Walk-in,New
+2024-12-28 00:00:00,Morning,17.08,0,228.15,Premium,Referral,New
+2024-08-02 00:00:00,Night,15.39,0,186.49,Basic,Instagram,New
+2024-11-06 00:00:00,Morning,27.99,1,53.38,Basic,Referral,New
+2024-04-15 00:00:00,Morning,31.58,2,183.96,Premium,Website,New
+2024-03-20 00:00:00,Night,36.69,1,186.43,Basic,Walk-in,Returning
+2024-09-12 00:00:00,Afternoon,17.54,1,19.39,Premium,Referral,New
+2024-09-25 00:00:00,Morning,8.83,5,30.55,Luxury,Referral,Returning
+2024-07-11 00:00:00,Morning,24.75,2,231.19,Basic,Website,New
+2024-05-02 00:00:00,Evening,24.41,4,94.84,Luxury,Google Ads,New
+2024-07-11 00:00:00,Evening,2.42,1,229.53,Premium,Walk-in,Returning
+2024-07-04 00:00:00,Night,2.96,4,108.37,Premium,Instagram,Returning
+2024-08-15 00:00:00,Evening,13.17,1,290.97,Luxury,Referral,New
+2024-05-29 00:00:00,Night,4.87,2,38.81,Premium,Walk-in,Returning
+2024-04-11 00:00:00,Morning,38.25,0,69.49,Basic,Referral,Returning
+2024-06-20 00:00:00,Night,39.21,3,29,Basic,Referral,New
+2024-01-30 00:00:00,Morning,41.84,2,191.62,Basic,Instagram,New
+2024-05-09 00:00:00,Evening,11.45,4,16.9,Premium,Referral,Returning
+2024-07-20 00:00:00,Evening,11.05,1,125.38,Basic,Walk-in,Returning
+2024-09-07 00:00:00,Evening,1.78,2,110.8,Luxury,Referral,New
+2024-10-27 00:00:00,Afternoon,46.83,2,68.37,Luxury,Referral,Returning
+2024-09-24 00:00:00,Night,48.83,4,142.56,Basic,Google Ads,Returning
+2024-02-12 00:00:00,Afternoon,37.4,4,259.94,Basic,Instagram,New
+2024-09-04 00:00:00,Morning,0.95,1,227.16,Luxury,Walk-in,New
+2024-03-12 00:00:00,Evening,16.35,5,95.38,Premium,Referral,New
+2024-05-05 00:00:00,Morning,20.25,3,81.29,Basic,Website,New
+2024-02-26 00:00:00,Afternoon,49.65,2,36.53,Luxury,Referral,Returning
+2024-12-26 00:00:00,Afternoon,41.78,2,25.08,Luxury,Instagram,New
+2024-03-25 00:00:00,Evening,49.29,2,160.57,Premium,Instagram,New
+2024-01-06 00:00:00,Night,2.62,1,294.07,Premium,Walk-in,New
+2024-05-04 00:00:00,Afternoon,2.25,2,56.6,Premium,Website,New
+2024-11-20 00:00:00,Night,33.75,1,55.45,Luxury,Google Ads,Returning
+2024-04-29 00:00:00,Morning,34.19,0,109.67,Premium,Referral,New
+2024-07-12 00:00:00,Night,40.97,2,175.98,Basic,Google Ads,New
+2024-11-25 00:00:00,Night,49.75,2,17.65,Luxury,Website,New
+2024-05-17 00:00:00,Afternoon,2.43,1,164.02,Basic,Website,New
+2024-04-08 00:00:00,Afternoon,44.28,1,22.81,Premium,Walk-in,New
+2024-06-17 00:00:00,Evening,24.01,1,267.59,Basic,Instagram,New
+2024-12-02 00:00:00,Evening,11.62,1,13.25,Luxury,Walk-in,New
+2024-08-30 00:00:00,Afternoon,24.48,1,178.17,Premium,Walk-in,New
+2024-08-26 00:00:00,Evening,48.77,1,235.79,Basic,Website,New
+2024-03-02 00:00:00,Morning,43.93,1,179,Basic,Website,Returning
+2024-03-02 00:00:00,Evening,33.66,1,176.3,Luxury,Website,New
+2024-04-26 00:00:00,Morning,32.63,1,85.4,Basic,Website,New
+2024-09-30 00:00:00,Afternoon,0.05,3,25.68,Premium,Instagram,Returning
+2024-12-02 00:00:00,Night,23.56,0,181.63,Luxury,Referral,New
+2024-12-19 00:00:00,Night,43.91,3,294.03,Basic,Referral,Returning
+2024-03-19 00:00:00,Afternoon,46.66,3,240.16,Luxury,Website,Returning
+2024-04-18 00:00:00,Morning,37.47,1,229.15,Basic,Referral,New
+2024-08-06 00:00:00,Morning,0.55,2,126.76,Luxury,Instagram,Returning
+2024-07-23 00:00:00,Afternoon,1.23,2,248.58,Basic,Referral,Returning
+2024-01-22 00:00:00,Morning,3.1,1,172.7,Premium,Referral,New
+2024-09-24 00:00:00,Evening,12.96,3,281.46,Basic,Instagram,Returning
+2024-06-14 00:00:00,Evening,38.87,1,73.33,Premium,Referral,Returning
+2024-12-26 00:00:00,Night,19.33,1,126.81,Basic,Google Ads,Returning
+2024-01-05 00:00:00,Evening,13.48,6,294.94,Basic,Website,New
+2024-06-15 00:00:00,Night,20.37,2,167.5,Basic,Google Ads,Returning
+2024-01-02 00:00:00,Evening,33.34,2,204.58,Basic,Walk-in,New
+2024-01-16 00:00:00,Evening,18.37,2,189.6,Premium,Instagram,Returning
+2024-11-19 00:00:00,Evening,34.34,3,286.81,Luxury,Google Ads,Returning
+2024-01-26 00:00:00,Night,11.09,1,185.7,Premium,Google Ads,New
+2024-08-01 00:00:00,Night,13.62,0,10.84,Premium,Walk-in,Returning
+2024-09-13 00:00:00,Evening,31,0,189.28,Luxury,Walk-in,New
+2024-03-15 00:00:00,Morning,34.75,2,205.94,Premium,Referral,Returning
+2024-01-09 00:00:00,Evening,45.22,4,181.69,Premium,Instagram,New
+2024-02-21 00:00:00,Morning,16.72,2,74.9,Basic,Walk-in,Returning
+2024-04-09 00:00:00,Night,5.67,2,59.43,Luxury,Website,New
+2024-03-03 00:00:00,Morning,24.59,3,283.97,Luxury,Website,Returning
+2024-09-12 00:00:00,Morning,34.63,0,204.25,Basic,Referral,Returning
+2024-06-05 00:00:00,Night,12.44,1,267.24,Luxury,Google Ads,Returning
+2024-01-16 00:00:00,Evening,13.35,1,294.74,Basic,Walk-in,New
+2024-10-25 00:00:00,Night,33.74,1,93.16,Premium,Google Ads,Returning
+2024-10-22 00:00:00,Afternoon,9.11,3,77.17,Basic,Instagram,Returning
+2024-08-14 00:00:00,Afternoon,17.83,1,107.81,Luxury,Referral,Returning
+2024-04-16 00:00:00,Night,46.16,1,54.42,Premium,Google Ads,Returning
+2024-09-21 00:00:00,Afternoon,14.76,0,75.15,Basic,Walk-in,Returning
+2024-07-15 00:00:00,Morning,13.29,2,257.91,Premium,Walk-in,Returning
+2024-12-15 00:00:00,Night,19.02,3,281.48,Premium,Referral,Returning
+2024-05-16 00:00:00,Night,33.85,2,174.07,Luxury,Walk-in,Returning
+2024-08-29 00:00:00,Night,32.74,2,137.94,Premium,Google Ads,Returning
+2024-11-25 00:00:00,Afternoon,1.11,0,142.48,Luxury,Website,New
+2024-11-07 00:00:00,Evening,10.57,3,299.91,Premium,Website,Returning
+2024-09-05 00:00:00,Morning,49.78,2,104,Luxury,Google Ads,Returning
+2024-10-29 00:00:00,Evening,9.11,1,18.53,Premium,Website,New
+2024-09-23 00:00:00,Morning,46.8,1,238.51,Luxury,Google Ads,New
+2024-11-09 00:00:00,Morning,27.2,3,167.98,Luxury,Google Ads,New
+2024-02-08 00:00:00,Morning,18.92,5,55.82,Premium,Referral,Returning
+2024-06-13 00:00:00,Morning,31.9,3,16.53,Luxury,Referral,New
+2024-07-21 00:00:00,Night,13.93,1,173.16,Premium,Google Ads,New
+2024-01-03 00:00:00,Morning,12.63,3,216.58,Basic,Google Ads,Returning
+2024-09-05 00:00:00,Night,1.42,1,24.33,Basic,Referral,Returning
+2024-04-30 00:00:00,Night,6.6,0,15.91,Luxury,Google Ads,Returning
+2024-11-25 00:00:00,Evening,12.1,1,74.5,Premium,Instagram,New
+2024-10-12 00:00:00,Evening,6.61,3,293.61,Luxury,Instagram,New
+2024-05-26 00:00:00,Morning,45.08,5,229.35,Basic,Referral,New
+2024-09-11 00:00:00,Morning,10.9,2,279.9,Luxury,Referral,Returning
+2024-12-02 00:00:00,Evening,20.9,2,296.1,Basic,Walk-in,New
+2024-03-08 00:00:00,Evening,3.21,2,293.09,Premium,Walk-in,New
+2024-01-28 00:00:00,Afternoon,7.84,2,247.26,Basic,Referral,Returning
+2024-05-27 00:00:00,Morning,37.48,3,239.8,Basic,Website,New
+2024-07-12 00:00:00,Afternoon,18.88,2,184.29,Basic,Instagram,Returning
+2024-03-07 00:00:00,Morning,9.95,1,83.95,Premium,Instagram,Returning
+2024-07-06 00:00:00,Evening,23.79,4,54.95,Basic,Website,New
+2024-03-31 00:00:00,Evening,38.9,1,211.99,Basic,Google Ads,New
+2024-06-19 00:00:00,Night,15.11,3,236.82,Premium,Google Ads,Returning
+2024-10-06 00:00:00,Evening,31.86,2,168.97,Premium,Website,Returning
+2024-08-15 00:00:00,Night,49.83,2,102.71,Premium,Google Ads,Returning
+2024-02-26 00:00:00,Afternoon,21,1,96.11,Basic,Instagram,Returning
+2024-02-10 00:00:00,Night,29.32,2,62.43,Luxury,Referral,New
+2024-01-27 00:00:00,Evening,38.91,1,35.18,Luxury,Google Ads,New
+2024-04-16 00:00:00,Afternoon,9.84,2,67.43,Premium,Walk-in,New
+2024-09-16 00:00:00,Afternoon,43.78,3,175.98,Luxury,Google Ads,New
+2024-11-27 00:00:00,Evening,4.42,1,214.08,Luxury,Google Ads,Returning
+2024-08-15 00:00:00,Night,46.8,1,18.47,Luxury,Walk-in,New
+2024-01-23 00:00:00,Evening,2.85,0,102.1,Basic,Google Ads,New
+2024-12-30 00:00:00,Night,34.12,1,148.67,Premium,Walk-in,Returning
+2024-01-04 00:00:00,Afternoon,34.63,2,225.39,Luxury,Website,New
+2024-04-13 00:00:00,Evening,47.08,0,110.96,Luxury,Instagram,New
+2024-05-09 00:00:00,Night,15.32,0,179.54,Basic,Instagram,New
+2024-05-12 00:00:00,Afternoon,4.14,2,135.58,Premium,Referral,Returning
+2024-11-17 00:00:00,Morning,7.93,1,227.75,Basic,Website,New
+2024-08-30 00:00:00,Night,1.27,4,183.83,Luxury,Referral,Returning
+2024-06-09 00:00:00,Morning,29.41,0,43.12,Luxury,Walk-in,Returning
+2024-03-20 00:00:00,Night,9.9,3,212.6,Premium,Google Ads,Returning
+2024-01-23 00:00:00,Night,9.96,0,295.1,Premium,Walk-in,Returning
+2024-09-13 00:00:00,Evening,40.56,1,168.98,Luxury,Google Ads,Returning
+2024-08-08 00:00:00,Morning,44.49,1,278.96,Basic,Referral,New
+2024-06-12 00:00:00,Afternoon,11.61,2,286.51,Premium,Walk-in,New
+2024-05-02 00:00:00,Evening,48.03,2,46.75,Luxury,Website,Returning
+2024-01-29 00:00:00,Evening,32.14,0,141.3,Premium,Walk-in,Returning
+2024-09-04 00:00:00,Morning,38.16,2,93.76,Basic,Website,Returning
+2024-09-13 00:00:00,Afternoon,26.76,2,90.8,Luxury,Referral,New
+2024-07-29 00:00:00,Afternoon,47.77,4,23.72,Premium,Referral,Returning
+2024-07-19 00:00:00,Morning,6.65,1,69.65,Basic,Google Ads,New
+2024-05-23 00:00:00,Afternoon,11.5,0,33.51,Luxury,Google Ads,New
+2024-11-10 00:00:00,Morning,3.51,1,78.04,Luxury,Instagram,New
+2024-10-14 00:00:00,Afternoon,43.03,1,181.88,Luxury,Instagram,New
+2024-07-13 00:00:00,Night,35.66,1,57.12,Premium,Google Ads,Returning
+2024-08-11 00:00:00,Morning,7.32,2,122.69,Luxury,Walk-in,Returning
+2024-12-16 00:00:00,Morning,21.32,1,212.52,Luxury,Website,Returning
+2024-06-14 00:00:00,Night,42.66,4,157.28,Premium,Website,New
+2024-01-22 00:00:00,Afternoon,44.59,0,282.9,Premium,Walk-in,Returning
+2024-05-19 00:00:00,Afternoon,15.5,3,161.96,Premium,Instagram,New
+2024-07-20 00:00:00,Night,47.64,0,186.96,Basic,Google Ads,New
+2024-06-06 00:00:00,Evening,28.28,0,277.59,Luxury,Website,New
+2024-11-20 00:00:00,Evening,7.03,2,184.8,Luxury,Instagram,Returning
+2024-09-10 00:00:00,Afternoon,38.69,4,214.55,Basic,Walk-in,Returning
+2024-01-05 00:00:00,Night,3.21,2,87.9,Premium,Referral,New
+2024-08-18 00:00:00,Night,44.74,2,43.43,Premium,Instagram,New
+2024-01-15 00:00:00,Afternoon,12.32,1,274.39,Premium,Instagram,Returning
+2024-09-07 00:00:00,Evening,48.24,2,283.54,Premium,Walk-in,New
+2024-02-22 00:00:00,Night,48.1,2,231.84,Premium,Google Ads,Returning
+2024-08-28 00:00:00,Night,44.71,6,164.15,Premium,Walk-in,New
+2024-04-14 00:00:00,Afternoon,4.71,0,153.56,Basic,Website,New
+2024-07-31 00:00:00,Evening,5.35,2,17.04,Luxury,Instagram,New
+2024-01-29 00:00:00,Afternoon,17.64,2,237.73,Premium,Instagram,Returning
+2024-08-15 00:00:00,Night,15.14,0,167.21,Basic,Google Ads,Returning
+2024-12-16 00:00:00,Morning,23.72,4,184.55,Luxury,Website,New
+2024-01-30 00:00:00,Night,42.74,3,66.86,Luxury,Website,Returning
+2024-09-17 00:00:00,Morning,44.35,5,179.53,Luxury,Website,Returning
+2024-12-06 00:00:00,Night,3.22,5,267.32,Basic,Google Ads,Returning
+2024-08-18 00:00:00,Morning,44.78,0,143.17,Luxury,Instagram,Returning
+2024-10-07 00:00:00,Morning,47.78,2,103.57,Basic,Website,New
+2024-11-22 00:00:00,Morning,25.21,2,69.8,Luxury,Referral,Returning
+2024-12-26 00:00:00,Morning,18.82,1,291.98,Premium,Referral,New
+2024-12-27 00:00:00,Evening,9.79,1,72.38,Basic,Google Ads,Returning
+2024-10-02 00:00:00,Evening,26.36,3,60.26,Basic,Google Ads,New
+2024-02-11 00:00:00,Afternoon,19.85,3,233.8,Premium,Google Ads,Returning
+2024-08-17 00:00:00,Morning,15.37,3,270.03,Luxury,Walk-in,Returning
+2024-10-23 00:00:00,Afternoon,35.16,3,159.24,Luxury,Google Ads,New
+2024-05-13 00:00:00,Night,0.04,2,63.84,Luxury,Google Ads,Returning
+2024-11-16 00:00:00,Afternoon,39.03,0,113.08,Premium,Referral,Returning
+2024-08-27 00:00:00,Night,16.08,2,187.01,Premium,Google Ads,Returning
+2024-04-22 00:00:00,Afternoon,0.18,2,231.8,Luxury,Walk-in,Returning
+2024-09-17 00:00:00,Night,43.01,1,243.41,Premium,Website,Returning
+2024-04-15 00:00:00,Morning,25.36,1,278.75,Luxury,Walk-in,Returning
+2024-03-27 00:00:00,Morning,38.63,1,106.93,Premium,Walk-in,Returning
+2024-08-02 00:00:00,Morning,30.75,0,294.24,Premium,Referral,Returning
+2024-02-10 00:00:00,Afternoon,27.89,2,183.22,Premium,Instagram,Returning
+2024-04-20 00:00:00,Evening,32.99,1,135.98,Luxury,Walk-in,New
+2024-06-08 00:00:00,Morning,10.3,3,21.76,Basic,Google Ads,Returning
+2024-09-22 00:00:00,Evening,38.25,3,204.01,Basic,Walk-in,New
+2024-12-12 00:00:00,Morning,7.46,1,140.69,Premium,Instagram,Returning
+2024-05-01 00:00:00,Evening,19.69,1,153.17,Basic,Website,Returning
+2024-11-27 00:00:00,Afternoon,41.85,3,32.9,Luxury,Instagram,Returning
+2024-01-20 00:00:00,Morning,19.36,1,220.81,Premium,Walk-in,New
+2024-04-10 00:00:00,Morning,1.4,1,248.6,Luxury,Google Ads,Returning
+2024-07-10 00:00:00,Morning,2.23,3,48.26,Basic,Google Ads,Returning
+2024-05-03 00:00:00,Afternoon,19.53,1,222.78,Luxury,Google Ads,Returning
+2024-06-07 00:00:00,Afternoon,30.19,2,124.06,Luxury,Website,New
+2024-01-11 00:00:00,Morning,1.71,3,204.14,Basic,Walk-in,New
+2024-06-09 00:00:00,Afternoon,28.97,2,211.24,Premium,Website,New
+2024-05-12 00:00:00,Evening,12.85,4,250.94,Luxury,Walk-in,New
+2024-03-18 00:00:00,Night,42.65,0,269.02,Premium,Instagram,New
+2024-11-08 00:00:00,Morning,6.91,2,27.91,Luxury,Walk-in,New
+2024-07-30 00:00:00,Afternoon,10.21,6,231.2,Basic,Instagram,Returning
+2024-05-12 00:00:00,Afternoon,6.34,1,194.33,Basic,Website,Returning
+2024-02-21 00:00:00,Evening,25.28,1,229.12,Basic,Walk-in,New
+2024-11-30 00:00:00,Morning,10.32,1,233.47,Basic,Walk-in,New
+2024-10-27 00:00:00,Night,23.11,3,148.81,Basic,Website,Returning
+2024-10-03 00:00:00,Morning,26.91,1,290.14,Premium,Google Ads,New
+2024-01-04 00:00:00,Night,12.61,2,22.78,Basic,Walk-in,Returning
+2024-03-04 00:00:00,Afternoon,4.07,3,245.45,Luxury,Instagram,New
+2024-12-15 00:00:00,Evening,40.53,1,42.63,Premium,Instagram,New
+2024-10-11 00:00:00,Night,2.72,0,92.82,Premium,Referral,Returning
+2024-04-28 00:00:00,Evening,41.72,1,186.62,Basic,Instagram,Returning
+2024-02-19 00:00:00,Morning,49.8,3,287.52,Luxury,Referral,Returning
+2024-03-14 00:00:00,Morning,0.83,4,207.88,Luxury,Walk-in,Returning
+2024-06-10 00:00:00,Morning,23.1,2,101.07,Luxury,Instagram,Returning
+2024-06-16 00:00:00,Morning,32.61,0,282.63,Basic,Website,Returning
+2024-02-19 00:00:00,Evening,34.64,2,52.65,Premium,Referral,New
+2024-11-04 00:00:00,Morning,9.58,2,289.33,Premium,Referral,New
+2024-02-27 00:00:00,Morning,35.86,5,55.9,Basic,Referral,Returning
+2024-07-18 00:00:00,Evening,0.35,3,256.7,Basic,Instagram,Returning
+2024-06-30 00:00:00,Evening,6.96,2,167.15,Premium,Instagram,Returning
+2024-03-08 00:00:00,Afternoon,7.72,5,171.28,Luxury,Walk-in,New
+2024-04-17 00:00:00,Morning,14.57,1,219.73,Luxury,Referral,Returning
+2024-05-02 00:00:00,Night,44.85,1,176.17,Luxury,Google Ads,Returning
+2024-09-22 00:00:00,Night,41.12,4,29.81,Basic,Referral,New
+2024-03-09 00:00:00,Night,43.09,5,175.56,Luxury,Google Ads,New
+2024-05-04 00:00:00,Evening,27.36,4,40.61,Premium,Walk-in,Returning
+2024-04-26 00:00:00,Evening,7.37,4,183.62,Basic,Walk-in,Returning
+2024-09-01 00:00:00,Afternoon,46.16,2,83.4,Premium,Website,New
+2024-03-12 00:00:00,Night,47.62,2,165.58,Premium,Referral,New
+2024-02-06 00:00:00,Afternoon,29.51,0,14.79,Premium,Referral,Returning
+2024-09-17 00:00:00,Night,22.53,2,136.2,Premium,Referral,Returning
+2024-12-04 00:00:00,Night,20.93,3,151.5,Premium,Google Ads,New
+2024-12-08 00:00:00,Afternoon,9.6,3,211.55,Premium,Google Ads,New
+2024-04-02 00:00:00,Afternoon,44.49,4,166.23,Basic,Instagram,New
+2024-11-30 00:00:00,Afternoon,13.05,2,252.93,Luxury,Instagram,New
+2024-08-22 00:00:00,Evening,42.75,1,273.45,Luxury,Instagram,New
+2024-07-15 00:00:00,Night,16.79,3,187.92,Basic,Website,Returning
+2024-05-17 00:00:00,Afternoon,11.37,8,81.1,Basic,Google Ads,New
+2024-07-16 00:00:00,Afternoon,39.63,1,27.49,Luxury,Referral,Returning
+2024-01-01 00:00:00,Evening,32.39,3,116,Luxury,Referral,Returning
+2024-11-13 00:00:00,Evening,41.99,0,253.99,Luxury,Referral,New
+2024-07-02 00:00:00,Morning,10.36,2,247.4,Luxury,Referral,Returning
+2024-02-18 00:00:00,Night,43.58,0,172.23,Luxury,Instagram,New
+2024-07-10 00:00:00,Evening,38.81,2,180.31,Premium,Walk-in,Returning
+2024-01-30 00:00:00,Morning,23.97,1,160.83,Premium,Google Ads,New
+2024-06-29 00:00:00,Evening,10.1,2,210.34,Premium,Website,New
+2024-08-24 00:00:00,Evening,24.06,0,128.41,Basic,Referral,Returning
+2024-03-27 00:00:00,Morning,32.14,1,295.28,Luxury,Website,Returning
+2024-02-10 00:00:00,Night,35.64,7,30.9,Luxury,Website,New
+2024-08-24 00:00:00,Afternoon,40.62,3,110.49,Luxury,Referral,New
+2024-12-25 00:00:00,Afternoon,35.25,1,193.6,Premium,Walk-in,Returning
+2024-02-27 00:00:00,Afternoon,29.9,1,245.25,Premium,Referral,Returning
+2024-06-18 00:00:00,Night,20.83,3,294.71,Luxury,Walk-in,Returning
+2024-12-10 00:00:00,Evening,13.42,1,147.81,Luxury,Instagram,Returning
+2024-05-27 00:00:00,Night,20.97,3,195.89,Basic,Instagram,New
+2024-10-17 00:00:00,Evening,48.39,1,209.46,Basic,Website,Returning
+2024-08-20 00:00:00,Evening,42.56,2,299.55,Basic,Referral,Returning
+2024-10-25 00:00:00,Night,33.6,1,221.08,Luxury,Walk-in,Returning
+2024-10-02 00:00:00,Night,40.86,2,276.29,Basic,Referral,Returning
+2024-05-08 00:00:00,Afternoon,22.67,1,131.91,Luxury,Walk-in,Returning
+2024-12-25 00:00:00,Evening,28.6,1,102.93,Premium,Walk-in,Returning
+2024-02-10 00:00:00,Night,8.99,4,97.52,Premium,Referral,New
+2024-05-15 00:00:00,Night,39.6,4,180.14,Luxury,Instagram,New
+2024-12-05 00:00:00,Evening,24.37,0,191.57,Basic,Referral,Returning
+2024-10-24 00:00:00,Morning,17.85,3,22.55,Luxury,Instagram,Returning
+2024-10-08 00:00:00,Night,38.23,4,78.8,Premium,Instagram,New
+2024-03-25 00:00:00,Evening,19.98,2,59.55,Basic,Referral,Returning
+2024-02-19 00:00:00,Evening,14.94,4,37.11,Premium,Website,New
+2024-07-18 00:00:00,Morning,41.48,2,46.76,Luxury,Instagram,Returning
+2024-10-19 00:00:00,Morning,36.64,3,115.56,Basic,Referral,New
+2024-05-07 00:00:00,Evening,41.42,2,265.85,Luxury,Referral,New
+2024-11-30 00:00:00,Afternoon,14.61,2,287.28,Premium,Walk-in,New
+2024-07-30 00:00:00,Evening,30.56,2,83.26,Luxury,Website,Returning
+2024-01-26 00:00:00,Evening,32.71,0,237.14,Basic,Google Ads,New
+2024-11-21 00:00:00,Evening,41.17,0,289.17,Basic,Walk-in,New
+2024-05-09 00:00:00,Night,25.37,2,93.89,Basic,Google Ads,New
+2024-03-18 00:00:00,Night,28.85,1,161.42,Luxury,Instagram,New
+2024-02-01 00:00:00,Evening,36.33,3,106.11,Basic,Referral,Returning
+2024-06-17 00:00:00,Morning,12.92,1,86.6,Basic,Google Ads,New
+2024-02-15 00:00:00,Night,16.4,4,32.07,Luxury,Website,Returning
+2024-09-02 00:00:00,Morning,9.89,1,145.24,Premium,Walk-in,New
+2024-10-04 00:00:00,Morning,1.22,0,161.69,Basic,Website,New
+2024-12-21 00:00:00,Morning,23.25,6,85.3,Basic,Google Ads,New
+2024-06-07 00:00:00,Afternoon,43.57,0,109.31,Premium,Instagram,Returning
+2024-07-19 00:00:00,Night,48.39,1,109.73,Luxury,Website,New
+2024-12-04 00:00:00,Morning,40.01,2,266.63,Luxury,Instagram,Returning
+2024-01-08 00:00:00,Night,33.75,3,110.6,Basic,Walk-in,Returning
+2024-12-17 00:00:00,Evening,44.14,2,260.25,Basic,Walk-in,New
+2024-10-06 00:00:00,Night,17.6,3,201.41,Luxury,Referral,Returning
+2024-12-27 00:00:00,Night,35.59,3,124.21,Basic,Walk-in,New
+2024-10-02 00:00:00,Evening,15.21,2,260.21,Premium,Referral,New
+2024-07-12 00:00:00,Afternoon,15.35,4,136.18,Luxury,Website,New
+2024-07-06 00:00:00,Night,37.11,1,110.87,Luxury,Website,New
+2024-10-11 00:00:00,Night,26.67,1,209.48,Basic,Website,Returning
+2024-06-09 00:00:00,Afternoon,38.61,1,139.96,Basic,Google Ads,Returning
+2024-11-11 00:00:00,Evening,28.66,5,145.02,Basic,Instagram,New
+2024-11-25 00:00:00,Evening,20.02,0,135.7,Basic,Google Ads,New
+2024-03-23 00:00:00,Night,18.52,1,173.49,Premium,Website,Returning
+2024-09-16 00:00:00,Night,1.75,3,118.13,Luxury,Referral,Returning
+2024-03-13 00:00:00,Evening,49.22,1,213.6,Basic,Website,Returning
+2024-10-16 00:00:00,Evening,39.07,1,264.05,Basic,Website,Returning
+2024-06-19 00:00:00,Night,47.17,3,105.98,Luxury,Walk-in,New
+2024-09-10 00:00:00,Afternoon,13.37,1,215.9,Basic,Google Ads,New
+2024-03-10 00:00:00,Afternoon,39.83,2,126.55,Basic,Instagram,New
+2024-07-30 00:00:00,Morning,10.55,4,244.22,Basic,Google Ads,Returning
+2024-04-11 00:00:00,Afternoon,37.64,3,272.51,Basic,Walk-in,Returning
+2024-03-30 00:00:00,Night,44.14,2,174.5,Basic,Instagram,Returning
+2024-10-05 00:00:00,Morning,30.34,0,83.14,Premium,Website,New
+2024-06-20 00:00:00,Morning,41.36,1,216.84,Luxury,Website,Returning
+2024-06-18 00:00:00,Morning,34.18,0,215.64,Luxury,Google Ads,Returning
+2024-07-11 00:00:00,Evening,9.74,4,29.9,Basic,Instagram,New
+2024-12-15 00:00:00,Afternoon,46.8,2,104.16,Luxury,Referral,New
+2024-02-25 00:00:00,Night,41.46,2,269.15,Basic,Google Ads,New
+2024-01-01 00:00:00,Night,39.38,4,26.88,Basic,Website,New
+2024-04-18 00:00:00,Afternoon,10.37,2,17.39,Luxury,Referral,New
+2024-11-20 00:00:00,Morning,15.61,1,23.64,Luxury,Google Ads,New
+2024-05-27 00:00:00,Morning,31.24,1,17.92,Luxury,Google Ads,New
+2024-03-08 00:00:00,Morning,26.69,0,287.45,Luxury,Website,Returning
+2024-12-09 00:00:00,Evening,31.54,0,213.64,Basic,Website,Returning
+2024-05-24 00:00:00,Afternoon,42.75,4,160.69,Basic,Referral,New
+2024-08-05 00:00:00,Afternoon,42.86,2,40.85,Basic,Website,Returning
+2024-06-17 00:00:00,Afternoon,46.25,1,80.24,Premium,Referral,Returning
+2024-04-25 00:00:00,Morning,40.69,3,269.22,Basic,Website,Returning
+2024-08-18 00:00:00,Evening,44.35,1,145.24,Basic,Website,Returning
+2024-01-28 00:00:00,Morning,45.57,1,279.72,Luxury,Instagram,Returning
+2024-06-27 00:00:00,Morning,40.8,3,57.66,Basic,Referral,Returning
+2024-10-29 00:00:00,Evening,47.36,3,59.61,Premium,Website,Returning
+2024-05-09 00:00:00,Evening,13.43,6,292.72,Luxury,Instagram,New
+2024-04-01 00:00:00,Afternoon,33.87,2,205.38,Premium,Google Ads,New
+2024-03-18 00:00:00,Afternoon,1.47,2,229.46,Luxury,Instagram,Returning
+2024-11-24 00:00:00,Morning,14.3,1,19.95,Basic,Google Ads,Returning
+2024-11-10 00:00:00,Evening,30.38,0,89.04,Basic,Google Ads,Returning
+2024-10-10 00:00:00,Night,7.59,1,274.03,Luxury,Walk-in,Returning
+2024-10-05 00:00:00,Evening,27.95,1,92.5,Basic,Website,New
+2024-03-11 00:00:00,Night,14.26,4,224.59,Premium,Google Ads,Returning
+2024-04-04 00:00:00,Night,3.75,2,208.95,Basic,Instagram,Returning
+2024-08-26 00:00:00,Evening,38.66,3,133.59,Basic,Website,Returning
+2024-10-11 00:00:00,Morning,40.05,1,79.96,Basic,Walk-in,New
+2024-05-20 00:00:00,Afternoon,5.72,3,193.47,Basic,Walk-in,Returning
+2024-02-17 00:00:00,Evening,43.71,0,178.11,Premium,Instagram,Returning
+2024-09-19 00:00:00,Afternoon,31.95,2,45.31,Luxury,Referral,New
+2024-06-01 00:00:00,Morning,23.04,1,286.35,Basic,Walk-in,New
+2024-08-29 00:00:00,Morning,12.44,5,123.77,Basic,Referral,New
+2024-08-06 00:00:00,Night,48.08,3,130.89,Basic,Google Ads,Returning
+2024-08-03 00:00:00,Evening,6.59,3,63.17,Luxury,Website,Returning
+2024-10-23 00:00:00,Night,9.41,1,93.28,Premium,Referral,New
+2024-10-05 00:00:00,Night,6.12,3,93.2,Luxury,Instagram,New
+2024-04-15 00:00:00,Morning,49.82,4,10.93,Basic,Google Ads,New
+2024-05-10 00:00:00,Night,20.53,1,76.97,Basic,Website,Returning
+2024-07-22 00:00:00,Morning,5.1,2,231.64,Luxury,Instagram,Returning
+2024-05-17 00:00:00,Morning,20.03,1,274.68,Luxury,Instagram,Returning
+2024-03-17 00:00:00,Evening,28.63,2,84.46,Premium,Referral,New
+2024-05-04 00:00:00,Evening,23.99,2,196.48,Premium,Referral,Returning
+2024-10-20 00:00:00,Afternoon,47.47,4,67.57,Premium,Website,New
+2024-08-18 00:00:00,Morning,8.09,2,156.82,Luxury,Instagram,Returning
+2024-06-21 00:00:00,Night,5.38,3,38.87,Basic,Instagram,New
+2024-06-21 00:00:00,Night,34.5,1,279.23,Premium,Google Ads,New
+2024-03-05 00:00:00,Morning,12.02,4,255.11,Luxury,Website,Returning
+2024-12-15 00:00:00,Evening,22.51,2,54.85,Luxury,Website,New
+2024-05-21 00:00:00,Night,26.16,3,125.39,Luxury,Website,Returning
+2024-11-21 00:00:00,Night,17.68,3,140.31,Premium,Instagram,New
+2024-02-27 00:00:00,Afternoon,42.42,6,177.81,Premium,Google Ads,Returning
+2024-06-06 00:00:00,Morning,25.92,3,145.2,Basic,Instagram,New
+2024-03-05 00:00:00,Morning,20.06,1,293.75,Premium,Google Ads,New
+2024-02-14 00:00:00,Afternoon,13.7,2,81.14,Basic,Walk-in,Returning
+2024-02-03 00:00:00,Evening,37.81,2,127.18,Luxury,Instagram,New
+2024-10-23 00:00:00,Night,44.93,2,106.53,Premium,Instagram,New
+2024-03-08 00:00:00,Morning,9.16,4,264.41,Basic,Walk-in,Returning
+2024-03-20 00:00:00,Night,25.88,2,126.13,Luxury,Instagram,Returning
+2024-07-20 00:00:00,Evening,49.26,1,62.88,Premium,Website,New
+2024-08-31 00:00:00,Night,8.89,2,226.99,Premium,Google Ads,New
+2024-11-04 00:00:00,Morning,14.18,2,108.98,Premium,Google Ads,New
+2024-03-01 00:00:00,Evening,40.7,0,76.91,Basic,Referral,New
+2024-02-21 00:00:00,Evening,28.82,1,253.05,Premium,Instagram,New
+2024-07-14 00:00:00,Afternoon,39.14,0,159.95,Premium,Google Ads,Returning
+2024-11-18 00:00:00,Afternoon,32.64,1,215.76,Luxury,Referral,Returning
+2024-11-18 00:00:00,Morning,49.57,3,186.37,Luxury,Walk-in,Returning
+2024-04-03 00:00:00,Evening,5.18,4,136.32,Luxury,Instagram,New
+2024-11-30 00:00:00,Night,19.52,3,180.85,Basic,Instagram,Returning
+2024-09-27 00:00:00,Evening,4.84,2,73.02,Premium,Walk-in,Returning
+2024-10-21 00:00:00,Morning,33.96,0,78.35,Luxury,Website,Returning
+2024-12-26 00:00:00,Afternoon,39.75,1,109.22,Premium,Walk-in,Returning
+2024-02-22 00:00:00,Morning,39.58,0,110.93,Premium,Referral,New
+2024-11-25 00:00:00,Evening,0.53,3,228.24,Luxury,Google Ads,Returning
+2024-11-12 00:00:00,Evening,2.41,1,82.24,Premium,Google Ads,Returning
+2024-04-01 00:00:00,Night,36.36,1,134.14,Premium,Referral,New
+2024-05-07 00:00:00,Night,43.1,4,216.89,Basic,Referral,New
+2024-04-26 00:00:00,Morning,17.93,0,97.01,Luxury,Walk-in,New
+2024-09-14 00:00:00,Afternoon,35.18,2,247.72,Premium,Website,New
+2024-07-06 00:00:00,Night,3.96,2,86.88,Basic,Google Ads,Returning
+2024-09-20 00:00:00,Afternoon,7.48,0,220.63,Premium,Instagram,New
+2024-10-15 00:00:00,Evening,10.22,2,239.43,Basic,Referral,Returning
+2024-04-20 00:00:00,Afternoon,40.61,2,244.49,Luxury,Referral,New
+2024-02-16 00:00:00,Afternoon,12.2,5,131.46,Premium,Referral,Returning
+2024-09-23 00:00:00,Evening,47.08,0,267.32,Premium,Referral,New
+2024-04-25 00:00:00,Morning,45.81,0,218.59,Premium,Referral,Returning
+2024-05-01 00:00:00,Morning,6.92,8,134.18,Basic,Instagram,Returning
+2024-09-15 00:00:00,Afternoon,11.04,2,283.65,Basic,Website,Returning
+2024-05-20 00:00:00,Evening,8.42,2,247.8,Basic,Walk-in,New
+2024-03-26 00:00:00,Afternoon,46.12,1,181.54,Premium,Website,Returning
+2024-06-29 00:00:00,Afternoon,8.57,2,206.41,Premium,Instagram,Returning
+2024-11-11 00:00:00,Afternoon,20.63,2,215.9,Luxury,Referral,New
+2024-04-01 00:00:00,Afternoon,35.11,4,29.6,Basic,Referral,Returning
+2024-03-31 00:00:00,Afternoon,21.8,2,20.41,Premium,Instagram,Returning
+2024-01-02 00:00:00,Night,17.54,3,208.09,Luxury,Referral,Returning
+2024-06-18 00:00:00,Evening,17.16,2,181.35,Basic,Website,New
+2024-01-27 00:00:00,Evening,20.97,4,288.14,Luxury,Referral,New
+2024-06-06 00:00:00,Night,37.53,6,140.42,Luxury,Walk-in,New
+2024-02-21 00:00:00,Night,21.25,2,292.68,Luxury,Google Ads,Returning
+2024-06-20 00:00:00,Night,0.87,1,99.8,Luxury,Website,Returning
+2024-02-17 00:00:00,Night,39.74,1,298.69,Luxury,Instagram,Returning
+2024-03-30 00:00:00,Afternoon,36.98,3,260.84,Luxury,Website,New
+2024-07-12 00:00:00,Evening,33.22,0,256.91,Luxury,Walk-in,New
+2024-07-29 00:00:00,Night,39.15,0,124.23,Basic,Walk-in,New
+2024-09-20 00:00:00,Evening,45.55,2,294.22,Premium,Website,New
+2024-02-09 00:00:00,Afternoon,21.54,0,181.94,Luxury,Website,Returning
+2024-04-28 00:00:00,Night,13.2,2,82.75,Basic,Website,Returning
+2024-06-01 00:00:00,Morning,37.98,2,189.04,Premium,Google Ads,New
+2024-05-19 00:00:00,Night,38.07,3,84.15,Premium,Instagram,Returning
+2024-06-05 00:00:00,Afternoon,45.08,1,16.85,Basic,Website,Returning
+2024-10-25 00:00:00,Afternoon,18.54,3,297.63,Luxury,Instagram,Returning
+2024-01-29 00:00:00,Afternoon,37.17,0,88.9,Basic,Website,New
+2024-06-19 00:00:00,Evening,6.78,3,175.99,Premium,Website,Returning
+2024-07-22 00:00:00,Night,47.98,3,47.93,Luxury,Website,Returning
+2024-11-10 00:00:00,Evening,19.38,2,196.92,Premium,Walk-in,New
+2024-07-21 00:00:00,Morning,37.16,1,178,Basic,Website,New
+2024-05-11 00:00:00,Morning,24.36,1,50.06,Luxury,Google Ads,New
+2024-05-25 00:00:00,Afternoon,33.09,1,51.99,Premium,Google Ads,Returning
+2024-04-16 00:00:00,Morning,23.47,1,66.39,Luxury,Google Ads,New
+2024-11-29 00:00:00,Afternoon,36.78,4,168.35,Luxury,Instagram,New
+2024-04-02 00:00:00,Evening,37.76,1,172.76,Luxury,Instagram,Returning
+2024-08-05 00:00:00,Evening,18.92,1,269.77,Luxury,Google Ads,New
+2024-06-16 00:00:00,Night,14.44,0,163.51,Premium,Walk-in,New
+2024-09-29 00:00:00,Afternoon,49.77,5,144.75,Premium,Referral,Returning
+2024-08-14 00:00:00,Night,13.67,4,262.11,Premium,Referral,Returning
+2024-02-08 00:00:00,Night,39.67,0,281.5,Basic,Referral,Returning
+2024-12-22 00:00:00,Afternoon,31.92,1,272.09,Luxury,Referral,New
+2024-07-28 00:00:00,Afternoon,17.02,4,166.91,Luxury,Walk-in,New
+2024-05-12 00:00:00,Afternoon,28.53,2,246.82,Basic,Walk-in,Returning
+2024-03-29 00:00:00,Afternoon,8.57,1,292.04,Luxury,Google Ads,Returning
+2024-07-17 00:00:00,Evening,17.39,1,106.31,Basic,Google Ads,New
+2024-06-17 00:00:00,Night,13.07,3,228.56,Premium,Walk-in,New
+2024-08-25 00:00:00,Afternoon,49.71,3,279.46,Luxury,Google Ads,Returning
+2024-10-31 00:00:00,Morning,36.02,1,290.73,Premium,Website,Returning
+2024-06-28 00:00:00,Morning,11.14,1,160.64,Luxury,Website,Returning
+2024-05-07 00:00:00,Evening,15.97,3,150.22,Basic,Referral,Returning
+2024-11-01 00:00:00,Afternoon,29.58,3,221.11,Basic,Website,Returning
+2024-07-10 00:00:00,Evening,10.8,4,167.51,Premium,Walk-in,Returning
+2024-09-06 00:00:00,Morning,27.5,4,281.11,Basic,Referral,Returning
+2024-11-06 00:00:00,Night,19.35,2,253.94,Luxury,Google Ads,New
+2024-11-23 00:00:00,Morning,35.75,3,165.91,Basic,Walk-in,New
+2024-01-30 00:00:00,Morning,12.18,5,112.52,Basic,Website,New
+2024-05-30 00:00:00,Evening,11.21,2,49.83,Premium,Instagram,New
+2024-12-27 00:00:00,Evening,29.14,1,257.45,Basic,Referral,Returning
+2024-12-23 00:00:00,Evening,36.64,2,204.88,Premium,Instagram,New
+2024-03-09 00:00:00,Night,44.18,0,222.47,Basic,Walk-in,New
+2024-01-14 00:00:00,Night,12.96,0,191.43,Luxury,Google Ads,New
+2024-06-17 00:00:00,Night,0.01,0,283.45,Premium,Walk-in,Returning
+2024-08-01 00:00:00,Afternoon,19.53,0,202.34,Luxury,Google Ads,New
+2024-11-27 00:00:00,Afternoon,15.95,1,41.57,Basic,Instagram,New
+2024-06-10 00:00:00,Afternoon,20.45,1,23.3,Luxury,Google Ads,Returning
+2024-07-30 00:00:00,Night,29.08,0,188.8,Basic,Walk-in,New
+2024-02-14 00:00:00,Evening,37.62,2,249.11,Basic,Walk-in,New
+2024-02-16 00:00:00,Night,11.52,1,234.26,Basic,Google Ads,Returning
+2024-05-11 00:00:00,Afternoon,35.99,1,112.38,Luxury,Google Ads,New
+2024-08-02 00:00:00,Night,17.36,3,224.87,Premium,Website,Returning
+2024-05-27 00:00:00,Afternoon,38.7,5,197.29,Premium,Google Ads,New
+2024-09-19 00:00:00,Afternoon,33.92,5,287.57,Basic,Website,Returning
+2024-05-09 00:00:00,Afternoon,44.03,2,40,Luxury,Google Ads,Returning
+2024-11-04 00:00:00,Morning,23.82,4,238.08,Basic,Google Ads,New
+2024-08-11 00:00:00,Afternoon,10.41,3,243.09,Premium,Referral,Returning
+2024-03-31 00:00:00,Afternoon,35.6,1,289.24,Basic,Walk-in,New
+2024-07-25 00:00:00,Morning,44.7,2,293.16,Premium,Referral,New
+2024-06-15 00:00:00,Night,26.13,2,30.57,Basic,Website,Returning
+2024-05-06 00:00:00,Night,23.32,2,72.96,Premium,Instagram,New
+2024-08-29 00:00:00,Afternoon,11.96,0,242.83,Luxury,Walk-in,Returning
+2024-08-16 00:00:00,Morning,9.14,3,156.03,Basic,Google Ads,Returning
+2024-07-31 00:00:00,Afternoon,45.56,1,283.65,Basic,Website,Returning
+2024-08-12 00:00:00,Evening,5.44,3,97.94,Luxury,Walk-in,Returning
+2024-02-15 00:00:00,Afternoon,49.43,2,138.14,Premium,Instagram,New
+2024-01-08 00:00:00,Afternoon,9.71,1,126.46,Luxury,Google Ads,New
+2024-12-30 00:00:00,Evening,42.6,1,156.46,Basic,Referral,New
+2024-08-13 00:00:00,Morning,7.66,0,79.48,Basic,Referral,Returning
+2024-02-23 00:00:00,Afternoon,20.87,1,96.91,Luxury,Referral,Returning
+2024-01-04 00:00:00,Evening,29.06,1,17.39,Premium,Referral,Returning
+2024-01-05 00:00:00,Evening,38.32,1,132.41,Premium,Walk-in,Returning
+2024-07-23 00:00:00,Afternoon,13.36,3,233.19,Basic,Referral,New
+2024-04-10 00:00:00,Evening,5.97,1,175.28,Luxury,Google Ads,Returning
+2024-05-02 00:00:00,Evening,2.82,7,153.49,Basic,Walk-in,Returning
+2024-08-28 00:00:00,Morning,42.2,3,99.8,Basic,Referral,New
+2024-03-15 00:00:00,Afternoon,6.09,3,285.79,Luxury,Google Ads,Returning
+2024-02-06 00:00:00,Morning,30.48,1,109.82,Basic,Referral,Returning
+2024-04-15 00:00:00,Night,34.77,2,19.18,Premium,Instagram,New
+2024-07-13 00:00:00,Morning,44.76,2,49.32,Luxury,Google Ads,New
+2024-09-07 00:00:00,Morning,0.48,2,233.55,Luxury,Google Ads,Returning
+2024-10-04 00:00:00,Night,18.87,3,256.64,Luxury,Google Ads,New
+2024-03-19 00:00:00,Evening,11.99,2,144.13,Premium,Instagram,New
+2024-03-17 00:00:00,Afternoon,27.68,4,115.4,Basic,Google Ads,New
+2024-08-28 00:00:00,Night,17.34,3,125.48,Premium,Referral,New
+2024-04-08 00:00:00,Evening,26.44,3,52.88,Premium,Website,New
+2024-11-13 00:00:00,Morning,1.68,0,67.13,Luxury,Instagram,Returning
+2024-11-13 00:00:00,Evening,30.44,0,208.13,Basic,Instagram,New
+2024-09-16 00:00:00,Morning,29.55,1,188.01,Basic,Referral,Returning
+2024-06-14 00:00:00,Night,0.62,2,103.47,Luxury,Walk-in,New
+2024-09-16 00:00:00,Afternoon,21.01,5,141.37,Luxury,Walk-in,Returning
+2024-11-09 00:00:00,Morning,48.68,0,255.94,Basic,Google Ads,New
+2024-04-27 00:00:00,Afternoon,11.17,6,242.45,Luxury,Instagram,Returning
+2024-04-25 00:00:00,Afternoon,3.4,3,71.38,Luxury,Google Ads,Returning
+2024-07-13 00:00:00,Night,43.29,3,83.94,Basic,Google Ads,Returning
+2024-07-02 00:00:00,Afternoon,47.44,2,216.84,Luxury,Walk-in,Returning
+2024-11-01 00:00:00,Morning,37.74,0,256.41,Luxury,Website,Returning
+2024-08-27 00:00:00,Morning,40.71,1,152.46,Basic,Instagram,Returning
+2024-12-04 00:00:00,Night,47.46,3,206.43,Luxury,Website,Returning
+2024-06-18 00:00:00,Evening,48.76,4,96.14,Luxury,Referral,Returning
+2024-01-24 00:00:00,Evening,35.05,2,130.54,Basic,Instagram,Returning
+2024-01-12 00:00:00,Night,4.32,1,60.94,Premium,Google Ads,New
+2024-04-28 00:00:00,Afternoon,26.22,4,274.65,Premium,Referral,Returning
+2024-01-13 00:00:00,Morning,47.77,3,217.52,Basic,Referral,New
+2024-05-30 00:00:00,Afternoon,32.3,3,270.74,Luxury,Website,Returning
+2024-11-09 00:00:00,Morning,20.71,4,202.31,Premium,Instagram,New
+2024-08-11 00:00:00,Evening,36.73,2,116.34,Premium,Referral,Returning
+2024-09-18 00:00:00,Afternoon,47.17,0,90.79,Luxury,Walk-in,New
+2024-12-20 00:00:00,Night,22.04,3,189.24,Luxury,Referral,New
+2024-05-18 00:00:00,Afternoon,23.43,2,93.82,Premium,Instagram,Returning
+2024-05-13 00:00:00,Night,39.83,1,210.4,Basic,Website,Returning
+2024-02-11 00:00:00,Evening,21.29,2,146.1,Basic,Walk-in,New
+2024-11-18 00:00:00,Evening,42.06,3,199.16,Premium,Walk-in,New
+2024-10-26 00:00:00,Afternoon,48.97,3,81.48,Luxury,Website,New
+2024-02-29 00:00:00,Evening,46.5,2,249.93,Luxury,Walk-in,Returning
+2024-06-13 00:00:00,Evening,26.3,1,288.2,Luxury,Walk-in,New
+2024-06-07 00:00:00,Night,28.62,2,87.6,Luxury,Referral,Returning
+2024-01-29 00:00:00,Night,44.53,7,108.24,Luxury,Google Ads,New
+2024-06-07 00:00:00,Afternoon,8.76,3,72.92,Luxury,Website,New
+2024-12-07 00:00:00,Night,32.46,2,286.25,Luxury,Website,Returning
+2024-12-27 00:00:00,Morning,37.41,2,24.88,Luxury,Google Ads,New
+2024-10-01 00:00:00,Evening,6.4,2,172.77,Basic,Walk-in,Returning
+2024-08-05 00:00:00,Evening,12.34,1,75.02,Basic,Website,New
+2024-04-20 00:00:00,Morning,35.03,2,180.36,Basic,Instagram,New
+2024-01-12 00:00:00,Morning,23.08,4,125.73,Premium,Walk-in,Returning
+2024-08-08 00:00:00,Afternoon,32.97,1,280.11,Premium,Walk-in,New
+2024-08-08 00:00:00,Afternoon,29.82,1,154.3,Basic,Google Ads,New
+2024-06-02 00:00:00,Evening,41.85,3,65.62,Luxury,Google Ads,New
+2024-01-31 00:00:00,Morning,14.5,1,137.05,Luxury,Website,New
+2024-05-28 00:00:00,Morning,12.64,3,252.17,Premium,Referral,New
+2024-04-24 00:00:00,Night,42.18,1,25.53,Premium,Google Ads,New
+2024-03-30 00:00:00,Evening,35.29,1,187.88,Premium,Instagram,Returning
+2024-02-10 00:00:00,Afternoon,31.46,2,58.14,Basic,Walk-in,New
+2024-11-04 00:00:00,Night,32.89,3,48.29,Basic,Referral,Returning
+2024-04-07 00:00:00,Evening,2.95,3,283.71,Basic,Google Ads,Returning
+2024-06-18 00:00:00,Night,24.34,2,153.71,Basic,Walk-in,New
+2024-05-04 00:00:00,Night,0.29,1,140.37,Premium,Instagram,Returning
+2024-06-20 00:00:00,Evening,49.17,2,75.94,Luxury,Website,New
+2024-03-15 00:00:00,Night,23.76,2,129.25,Basic,Google Ads,Returning
+2024-10-09 00:00:00,Afternoon,8.12,1,125.61,Basic,Google Ads,Returning
+2024-06-10 00:00:00,Morning,13.57,1,244.81,Basic,Instagram,Returning
+2024-05-01 00:00:00,Afternoon,31.71,1,28.98,Premium,Google Ads,New
+2024-02-01 00:00:00,Evening,26.92,0,280.14,Luxury,Walk-in,Returning
+2024-03-10 00:00:00,Evening,6.23,0,267.21,Luxury,Google Ads,New
+2024-01-27 00:00:00,Night,13,1,290.33,Premium,Walk-in,New
+2024-12-10 00:00:00,Night,28.95,2,296.2,Basic,Referral,Returning
+2024-03-13 00:00:00,Afternoon,30.89,4,55.07,Basic,Instagram,New
+2024-06-12 00:00:00,Morning,41.4,2,263.57,Luxury,Referral,Returning
+2024-07-26 00:00:00,Evening,36.32,1,156.02,Basic,Instagram,Returning
+2024-02-14 00:00:00,Afternoon,7.42,5,265.53,Premium,Walk-in,Returning
+2024-02-12 00:00:00,Morning,48.57,3,178.01,Premium,Referral,New
+2024-01-25 00:00:00,Evening,24.97,3,90.47,Basic,Walk-in,Returning
+2024-08-23 00:00:00,Evening,45.7,1,30.52,Premium,Website,New
+2024-02-02 00:00:00,Morning,1.74,6,183.89,Premium,Referral,New
+2024-11-28 00:00:00,Night,8.3,0,86.29,Luxury,Instagram,Returning
+2024-09-06 00:00:00,Afternoon,24.83,2,165.5,Premium,Google Ads,New
+2024-06-27 00:00:00,Afternoon,12.15,3,243.73,Premium,Referral,New
+2024-08-11 00:00:00,Afternoon,14.03,3,299.58,Luxury,Website,New
+2024-08-25 00:00:00,Evening,10.26,3,176.55,Premium,Google Ads,New
+2024-02-13 00:00:00,Night,8.94,2,42.06,Luxury,Website,Returning
+2024-02-01 00:00:00,Night,6.04,0,28.64,Basic,Referral,Returning
+2024-12-23 00:00:00,Night,1.57,4,216.1,Premium,Instagram,New
+2024-01-18 00:00:00,Evening,24.14,2,262.17,Basic,Walk-in,Returning
+2024-06-30 00:00:00,Morning,31.03,4,229.47,Basic,Website,Returning
+2024-08-01 00:00:00,Evening,24.53,1,102.55,Luxury,Website,Returning
+2024-06-23 00:00:00,Evening,7.02,2,138.44,Premium,Referral,New
+2024-12-28 00:00:00,Afternoon,37.54,2,35.91,Premium,Referral,New
+2024-08-07 00:00:00,Morning,10.86,2,230.14,Premium,Walk-in,New
+2024-09-22 00:00:00,Morning,5.37,1,128.42,Basic,Referral,Returning
+2024-07-21 00:00:00,Afternoon,11.17,3,293.79,Luxury,Website,Returning
+2024-08-29 00:00:00,Evening,16.68,3,161.56,Basic,Google Ads,Returning
+2024-03-27 00:00:00,Evening,4.52,3,258.73,Basic,Website,New
+2024-08-02 00:00:00,Evening,1.7,2,180.65,Premium,Referral,New
+2024-01-31 00:00:00,Morning,29.49,0,29.98,Premium,Walk-in,New
+2024-02-18 00:00:00,Night,13.91,5,272.77,Basic,Google Ads,New
+2024-02-29 00:00:00,Evening,13.4,1,226.82,Premium,Instagram,Returning
+2024-05-09 00:00:00,Afternoon,31.73,1,115.15,Luxury,Instagram,Returning
+2024-04-30 00:00:00,Evening,48.8,1,22.04,Luxury,Instagram,Returning
+2024-02-28 00:00:00,Morning,42.04,1,82.42,Basic,Walk-in,New
+2024-01-08 00:00:00,Afternoon,18.79,1,295.62,Premium,Website,Returning
+2024-01-18 00:00:00,Morning,47.16,1,159.25,Luxury,Walk-in,New
+2024-08-17 00:00:00,Morning,26.8,0,41.93,Premium,Google Ads,Returning
+2024-05-15 00:00:00,Evening,11.78,3,107.16,Premium,Google Ads,New
+2024-10-14 00:00:00,Evening,22.55,3,266.03,Premium,Instagram,Returning
+2024-07-15 00:00:00,Evening,25.91,1,206.68,Basic,Referral,New
+2024-06-14 00:00:00,Afternoon,21.16,2,44.29,Premium,Website,New
+2024-07-04 00:00:00,Morning,14.17,1,54.17,Luxury,Instagram,New
+2024-10-15 00:00:00,Morning,38.24,1,229.88,Premium,Instagram,Returning
+2024-11-21 00:00:00,Afternoon,22.14,0,14.83,Luxury,Referral,New
+2024-10-28 00:00:00,Afternoon,17.17,1,26.38,Luxury,Website,New
+2024-03-29 00:00:00,Afternoon,22.73,4,215.48,Luxury,Google Ads,New
+2024-11-24 00:00:00,Evening,21.76,0,262.58,Premium,Referral,New
+2024-03-17 00:00:00,Morning,21.69,2,287.19,Basic,Walk-in,New
+2024-06-23 00:00:00,Morning,48.81,2,58.62,Basic,Instagram,Returning
+2024-07-07 00:00:00,Morning,26.02,2,24.79,Luxury,Walk-in,New
+2024-01-24 00:00:00,Evening,6.17,1,219.15,Premium,Google Ads,Returning
+2024-10-17 00:00:00,Night,16.07,5,115.77,Premium,Google Ads,Returning
+2024-02-20 00:00:00,Morning,35.16,3,63.77,Basic,Referral,New
+2024-11-13 00:00:00,Evening,40.39,2,284.9,Basic,Google Ads,New
+2024-07-04 00:00:00,Afternoon,8.63,0,69.91,Premium,Google Ads,New
+2024-07-11 00:00:00,Night,37.26,2,116.04,Premium,Instagram,New
+2024-05-12 00:00:00,Night,4.37,2,270.66,Premium,Referral,Returning
+2024-04-25 00:00:00,Afternoon,13.53,1,121.08,Premium,Google Ads,Returning
+2024-08-26 00:00:00,Night,47.85,0,141.36,Premium,Referral,New
+2024-03-05 00:00:00,Night,15.96,2,251.9,Luxury,Walk-in,Returning
+2024-12-11 00:00:00,Evening,10.06,2,251.36,Premium,Website,Returning
+2024-03-17 00:00:00,Evening,31.32,3,68.32,Basic,Google Ads,New
+2024-12-11 00:00:00,Night,27.59,2,214.26,Premium,Referral,New
+2024-06-20 00:00:00,Afternoon,6.13,1,267.47,Premium,Walk-in,Returning
+2024-08-28 00:00:00,Evening,41.86,4,64.87,Basic,Instagram,New
+2024-04-14 00:00:00,Morning,3.35,3,119.16,Luxury,Referral,New
+2024-12-26 00:00:00,Afternoon,45.3,2,61.1,Premium,Website,New
+2024-11-05 00:00:00,Night,9.05,3,93.58,Luxury,Instagram,Returning
+2024-10-14 00:00:00,Morning,13.07,3,257.98,Basic,Referral,Returning
+2024-08-13 00:00:00,Afternoon,22.92,0,115.34,Luxury,Walk-in,New
+2024-04-20 00:00:00,Morning,1.55,2,143.26,Basic,Google Ads,New
+2024-12-14 00:00:00,Night,34.24,4,283.47,Luxury,Referral,New
+2024-06-07 00:00:00,Evening,25.5,2,293.05,Basic,Instagram,Returning
+2024-03-07 00:00:00,Afternoon,33.93,4,11.08,Basic,Website,Returning
+2024-08-27 00:00:00,Morning,48.46,2,266.22,Luxury,Referral,New
+2024-10-04 00:00:00,Morning,43.04,4,295.15,Luxury,Walk-in,Returning
+2024-08-16 00:00:00,Morning,27.77,0,249.38,Basic,Walk-in,New
+2024-11-21 00:00:00,Evening,40.95,1,35.2,Luxury,Google Ads,New
+2024-03-11 00:00:00,Night,29.06,3,138.06,Luxury,Instagram,New
+2024-07-04 00:00:00,Night,3.76,1,151.16,Basic,Referral,Returning
+2024-02-06 00:00:00,Night,35.55,1,12.79,Basic,Website,New
+2024-01-06 00:00:00,Morning,47.09,0,277.78,Premium,Instagram,New
+2024-03-26 00:00:00,Afternoon,30.71,2,248.84,Luxury,Website,New
+2024-10-06 00:00:00,Afternoon,28.38,0,62.01,Premium,Instagram,Returning
+2024-03-15 00:00:00,Afternoon,27.36,1,159.79,Premium,Website,New
+2024-05-30 00:00:00,Night,9.46,3,60.64,Premium,Referral,New
+2024-06-06 00:00:00,Night,6.71,0,95.26,Basic,Referral,Returning
+2024-02-26 00:00:00,Night,27.07,3,243.26,Premium,Instagram,Returning
+2024-10-17 00:00:00,Evening,13.97,2,103.24,Luxury,Website,Returning
+2024-06-19 00:00:00,Evening,12.47,2,110.69,Basic,Instagram,Returning
+2024-11-26 00:00:00,Afternoon,8.15,0,115.34,Luxury,Google Ads,New
+2024-05-06 00:00:00,Afternoon,7.25,2,67.19,Basic,Website,Returning
+2024-08-11 00:00:00,Afternoon,25.06,2,97.86,Basic,Walk-in,New
+2024-04-23 00:00:00,Evening,5.08,1,278.08,Luxury,Walk-in,New
+2024-03-30 00:00:00,Evening,27.27,1,253.25,Basic,Instagram,Returning
+2024-07-22 00:00:00,Night,47.86,3,186.85,Luxury,Website,New
+2024-12-27 00:00:00,Morning,28.71,0,227.71,Premium,Instagram,Returning
+2024-05-08 00:00:00,Night,11.11,2,244.58,Basic,Referral,Returning
+2024-02-21 00:00:00,Afternoon,8.38,3,296.74,Basic,Website,New
+2024-02-16 00:00:00,Evening,38.1,2,69.53,Premium,Walk-in,New
+2024-11-20 00:00:00,Night,48.02,0,15.72,Basic,Referral,New
+2024-10-22 00:00:00,Evening,12.63,2,258,Luxury,Referral,New
+2024-11-10 00:00:00,Night,1.66,2,176.46,Luxury,Referral,New
+2024-06-21 00:00:00,Evening,43.02,4,283.48,Basic,Google Ads,New
+2024-06-05 00:00:00,Morning,32.65,1,39.43,Basic,Google Ads,Returning
+2024-12-08 00:00:00,Morning,20.98,0,167.56,Luxury,Referral,New
+2024-01-02 00:00:00,Morning,3.96,2,106.61,Basic,Walk-in,New
+2024-10-19 00:00:00,Evening,5.67,1,253.76,Luxury,Google Ads,Returning
+2024-08-04 00:00:00,Evening,27.7,2,246.93,Luxury,Walk-in,New
+2024-11-25 00:00:00,Afternoon,30.81,1,23.41,Luxury,Google Ads,New
+2024-04-06 00:00:00,Evening,15.31,2,275.05,Premium,Website,New
+2024-04-01 00:00:00,Afternoon,17.26,4,125.05,Premium,Walk-in,New
+2024-03-21 00:00:00,Morning,22.19,2,27.85,Basic,Google Ads,New
+2024-04-21 00:00:00,Afternoon,22.59,1,209.87,Premium,Referral,Returning
+2024-05-21 00:00:00,Evening,10.47,3,266.1,Basic,Website,New
+2024-07-11 00:00:00,Evening,43.91,3,171.61,Basic,Instagram,Returning
+2024-02-19 00:00:00,Afternoon,32.29,4,21.79,Premium,Referral,Returning
+2024-07-26 00:00:00,Morning,8.45,1,278.34,Premium,Instagram,New
+2024-09-16 00:00:00,Evening,47.82,3,64.89,Basic,Google Ads,New
+2024-10-29 00:00:00,Afternoon,22.24,2,91.73,Basic,Google Ads,New
+2024-07-07 00:00:00,Evening,42.5,2,261.36,Luxury,Referral,New
+2024-08-22 00:00:00,Afternoon,33.73,2,292.3,Premium,Referral,Returning
+2024-06-13 00:00:00,Afternoon,3.29,4,205.52,Basic,Google Ads,Returning
+2024-02-25 00:00:00,Morning,7.36,3,170.26,Basic,Website,Returning
+2024-03-29 00:00:00,Afternoon,1.14,3,15.32,Premium,Website,Returning
+2024-02-11 00:00:00,Night,2.52,1,82.14,Basic,Instagram,Returning
+2024-11-15 00:00:00,Evening,17.07,0,78.15,Premium,Google Ads,New
+2024-07-04 00:00:00,Afternoon,31.17,1,241.55,Basic,Google Ads,New
+2024-01-28 00:00:00,Afternoon,37.13,3,173.02,Basic,Walk-in,Returning
+2024-11-19 00:00:00,Afternoon,35.63,3,223,Luxury,Website,Returning
+2024-09-30 00:00:00,Night,45.74,2,175.15,Luxury,Website,Returning
+2024-04-02 00:00:00,Afternoon,7.54,1,210.87,Premium,Referral,New
+2024-11-03 00:00:00,Morning,17.21,1,197.14,Luxury,Instagram,New
+2024-12-09 00:00:00,Morning,42.88,0,115.01,Basic,Referral,New
+2024-01-08 00:00:00,Evening,24.97,2,263.16,Luxury,Referral,New
+2024-12-25 00:00:00,Morning,19.51,2,256.73,Basic,Referral,New
+2024-11-09 00:00:00,Afternoon,33.88,1,294.05,Luxury,Referral,New
+2024-12-28 00:00:00,Evening,42.55,1,126.98,Premium,Walk-in,Returning
+2024-02-17 00:00:00,Evening,30.43,0,128.37,Luxury,Website,New
+2024-04-11 00:00:00,Afternoon,33.39,2,146.9,Basic,Website,New
+2024-04-07 00:00:00,Afternoon,27.09,3,46.31,Premium,Referral,New
+2024-11-26 00:00:00,Night,35.9,3,229.68,Basic,Website,Returning
+2024-02-02 00:00:00,Afternoon,29.97,2,216.01,Premium,Google Ads,New
+2024-11-12 00:00:00,Afternoon,0.94,1,129.37,Luxury,Referral,New
+2024-12-16 00:00:00,Afternoon,11.07,1,63.06,Luxury,Walk-in,Returning
+2024-08-29 00:00:00,Afternoon,3.03,0,245.1,Premium,Google Ads,Returning
+2024-08-19 00:00:00,Morning,0.95,1,17.07,Premium,Walk-in,Returning
+2024-03-16 00:00:00,Evening,7.26,1,238.77,Premium,Walk-in,New
+2024-01-08 00:00:00,Morning,20.09,1,209.88,Premium,Instagram,New
+2024-07-22 00:00:00,Afternoon,40.46,1,271.88,Luxury,Instagram,Returning
+2024-11-19 00:00:00,Night,47.45,0,119.82,Basic,Walk-in,New
+2024-10-05 00:00:00,Afternoon,47.89,3,234.73,Basic,Website,New
+2024-04-26 00:00:00,Morning,3.75,4,155.99,Premium,Walk-in,Returning
+2024-01-13 00:00:00,Afternoon,38.33,2,116.94,Basic,Referral,New
+2024-04-15 00:00:00,Evening,30.39,4,97.66,Premium,Google Ads,New
+2024-02-19 00:00:00,Evening,16.59,2,52.06,Basic,Referral,Returning
+2024-11-18 00:00:00,Evening,49.37,3,160.29,Luxury,Referral,New
+2024-03-09 00:00:00,Afternoon,21.86,2,36.55,Premium,Referral,Returning
+2024-12-02 00:00:00,Afternoon,32.9,2,163.3,Premium,Google Ads,Returning
+2024-11-13 00:00:00,Morning,18.86,3,39.28,Luxury,Referral,Returning
+2024-03-17 00:00:00,Afternoon,29.45,2,242.06,Premium,Website,Returning
+2024-07-12 00:00:00,Night,45.17,1,169.3,Luxury,Google Ads,New
+2024-04-27 00:00:00,Night,37.71,2,10.07,Basic,Google Ads,New
+2024-12-05 00:00:00,Morning,47.73,3,298.25,Luxury,Instagram,Returning
+2024-05-15 00:00:00,Night,46.58,2,17.46,Luxury,Referral,New
+2024-01-14 00:00:00,Afternoon,43.03,4,228.04,Premium,Walk-in,New
+2024-08-17 00:00:00,Night,49.04,2,224.46,Basic,Google Ads,Returning
+2024-10-02 00:00:00,Evening,27.09,2,147.08,Luxury,Website,New
+2024-10-21 00:00:00,Night,14.19,1,201.25,Basic,Referral,New
+2024-04-08 00:00:00,Night,18.53,1,85.51,Basic,Instagram,New
+2024-09-10 00:00:00,Morning,31.07,0,160.4,Premium,Walk-in,New
+2024-05-11 00:00:00,Evening,26.92,0,49.51,Premium,Google Ads,New
+2024-10-18 00:00:00,Evening,2.44,2,93.22,Luxury,Google Ads,Returning
+2024-08-25 00:00:00,Afternoon,27.94,1,226.04,Premium,Referral,New
+2024-03-29 00:00:00,Night,29.56,0,263.15,Premium,Referral,Returning
+2024-08-26 00:00:00,Morning,7.37,4,27.23,Basic,Website,New
+2024-05-18 00:00:00,Night,38.5,1,264.77,Premium,Instagram,New
+2024-08-31 00:00:00,Night,27.23,2,273.35,Luxury,Referral,New
+2024-10-16 00:00:00,Morning,5.03,2,99.27,Basic,Google Ads,Returning
+2024-08-07 00:00:00,Morning,22.44,1,76.6,Luxury,Google Ads,New
+2024-11-18 00:00:00,Morning,10.63,1,199.06,Luxury,Instagram,Returning
+2024-02-10 00:00:00,Afternoon,21.73,2,132.36,Premium,Walk-in,Returning
+2024-02-16 00:00:00,Morning,43.3,3,11.64,Basic,Referral,Returning
+2024-01-26 00:00:00,Night,45.95,1,177.82,Luxury,Walk-in,Returning
+2024-01-19 00:00:00,Evening,30.71,2,149.43,Premium,Website,Returning
+2024-12-15 00:00:00,Afternoon,33.6,1,92.77,Premium,Instagram,Returning
+2024-07-26 00:00:00,Evening,43.46,1,227.58,Premium,Google Ads,New
+2024-01-21 00:00:00,Morning,46.09,2,205.6,Basic,Google Ads,Returning
+2024-03-18 00:00:00,Evening,3.62,2,138.56,Luxury,Website,New
+2024-09-15 00:00:00,Evening,46.53,2,13.81,Basic,Google Ads,Returning
+2024-02-02 00:00:00,Evening,29.46,2,261.48,Basic,Referral,New
+2024-12-25 00:00:00,Morning,17.43,1,123.84,Luxury,Referral,Returning
+2024-01-25 00:00:00,Night,8.35,2,71.59,Premium,Instagram,Returning
+2024-07-04 00:00:00,Evening,42.22,1,117.39,Basic,Instagram,Returning
+2024-09-08 00:00:00,Afternoon,26.21,1,142.41,Luxury,Referral,New
+2024-11-17 00:00:00,Morning,26.84,1,76.94,Premium,Website,Returning
+2024-10-31 00:00:00,Night,34.63,1,59.35,Luxury,Walk-in,New
+2024-01-09 00:00:00,Afternoon,18.43,1,255.33,Luxury,Instagram,Returning
+2024-05-10 00:00:00,Evening,31.32,0,286.65,Luxury,Instagram,New
+2024-07-13 00:00:00,Night,6.78,3,277.75,Premium,Website,Returning
+2024-10-21 00:00:00,Evening,1.18,3,72.9,Premium,Instagram,New
+2024-07-20 00:00:00,Night,37.31,2,274.32,Basic,Instagram,Returning
+2024-11-06 00:00:00,Afternoon,44.06,3,183.31,Basic,Website,Returning
+2024-03-12 00:00:00,Afternoon,16.1,2,156.04,Premium,Instagram,Returning
+2024-10-12 00:00:00,Afternoon,4.28,7,12.08,Basic,Instagram,New
+2024-10-19 00:00:00,Night,16.64,1,153.16,Basic,Website,New
+2024-05-12 00:00:00,Evening,18.85,2,129.16,Luxury,Referral,Returning
+2024-09-05 00:00:00,Morning,22.87,2,272.54,Premium,Google Ads,Returning
+2024-06-10 00:00:00,Evening,1.6,0,11.94,Basic,Referral,New
+2024-09-28 00:00:00,Afternoon,36.13,1,259.08,Premium,Instagram,Returning
+2024-03-11 00:00:00,Evening,35.61,4,63.97,Luxury,Instagram,Returning
+2024-05-26 00:00:00,Night,22.13,1,277.74,Premium,Google Ads,New
+2024-11-05 00:00:00,Evening,32.78,0,64.32,Luxury,Website,Returning
+2024-06-04 00:00:00,Afternoon,8.1,1,206.51,Luxury,Referral,Returning
+2024-10-25 00:00:00,Morning,10.58,1,136.08,Luxury,Walk-in,New
+2024-04-12 00:00:00,Night,22.29,3,190.97,Luxury,Google Ads,New
+2024-10-16 00:00:00,Night,17.4,2,131.52,Premium,Instagram,Returning
+2024-03-08 00:00:00,Morning,2.17,0,142.95,Luxury,Website,New
+2024-08-31 00:00:00,Evening,5.27,1,34.62,Premium,Instagram,New
+2024-11-24 00:00:00,Morning,22,4,72.14,Luxury,Google Ads,New
+2024-03-24 00:00:00,Night,34.25,2,33.66,Premium,Walk-in,Returning
+2024-03-11 00:00:00,Night,9.69,3,53.57,Premium,Instagram,New
+2024-05-30 00:00:00,Night,9.84,1,123.81,Premium,Instagram,New
+2024-05-01 00:00:00,Night,26.04,2,191.59,Premium,Walk-in,New
+2024-12-17 00:00:00,Morning,25.45,1,68.42,Premium,Referral,New
+2024-03-08 00:00:00,Night,29.95,2,209.96,Basic,Website,Returning
+2024-07-21 00:00:00,Morning,14.14,0,285.32,Basic,Walk-in,Returning
+2024-05-05 00:00:00,Night,31.92,0,144.58,Premium,Walk-in,Returning
+2024-07-27 00:00:00,Evening,9.81,3,232.63,Luxury,Google Ads,New
+2024-01-22 00:00:00,Afternoon,3.87,2,153.14,Basic,Website,New
+2024-02-06 00:00:00,Morning,45.13,2,164.15,Luxury,Instagram,New
+2024-03-13 00:00:00,Morning,35.33,0,77.92,Premium,Website,New
+2024-11-24 00:00:00,Night,22.33,4,214.59,Basic,Referral,Returning
+2024-08-13 00:00:00,Morning,47.71,0,244.61,Basic,Instagram,Returning
+2024-03-11 00:00:00,Night,41.8,4,240.73,Basic,Google Ads,Returning
+2024-11-02 00:00:00,Afternoon,30.8,4,21.67,Basic,Referral,New
+2024-07-16 00:00:00,Evening,22.81,1,112.52,Luxury,Instagram,New
+2024-05-01 00:00:00,Evening,31.38,2,229.21,Premium,Google Ads,Returning
+2024-11-04 00:00:00,Evening,23.81,1,54.1,Premium,Instagram,New
+2024-03-15 00:00:00,Morning,38.66,1,154.87,Luxury,Referral,New
+2024-11-17 00:00:00,Evening,46.85,1,105.93,Premium,Referral,New
+2024-04-29 00:00:00,Afternoon,20.77,2,195.25,Luxury,Google Ads,Returning
+2024-08-03 00:00:00,Night,48.41,2,75.84,Luxury,Google Ads,New
+2024-12-30 00:00:00,Evening,12.46,2,207.27,Premium,Walk-in,Returning
+2024-08-21 00:00:00,Night,28.77,5,248.57,Luxury,Google Ads,New
+2024-09-19 00:00:00,Evening,40.87,1,227.59,Luxury,Instagram,New
+2024-09-19 00:00:00,Afternoon,10.2,3,192.05,Premium,Website,Returning
+2024-11-30 00:00:00,Afternoon,38.57,2,108.43,Premium,Instagram,Returning
+2024-09-24 00:00:00,Afternoon,2.34,1,20.97,Luxury,Walk-in,New
+2024-07-08 00:00:00,Night,2.21,2,281.68,Premium,Walk-in,New
+2024-09-20 00:00:00,Evening,1.13,3,252.64,Premium,Walk-in,Returning
+2024-06-27 00:00:00,Afternoon,40.13,4,216.96,Luxury,Walk-in,New
+2024-06-21 00:00:00,Afternoon,4.84,1,151.49,Luxury,Google Ads,Returning
+2024-06-27 00:00:00,Evening,22.78,0,291.88,Basic,Google Ads,Returning
+2024-05-05 00:00:00,Night,19.57,1,221.97,Luxury,Referral,New
+2024-08-04 00:00:00,Night,11.09,3,169.24,Luxury,Walk-in,Returning
+2024-05-10 00:00:00,Afternoon,46.62,3,154.54,Luxury,Walk-in,New
+2024-02-29 00:00:00,Afternoon,45.94,2,270.82,Luxury,Website,New
+2024-10-02 00:00:00,Morning,23.86,1,168.69,Premium,Referral,Returning
+2024-05-31 00:00:00,Afternoon,38.45,0,26.48,Premium,Google Ads,Returning
+2024-10-05 00:00:00,Morning,31.09,2,110.79,Basic,Referral,New
+2024-08-23 00:00:00,Morning,25.59,2,187.94,Luxury,Website,Returning
+2024-06-10 00:00:00,Morning,35.77,2,179.02,Basic,Instagram,Returning
+2024-01-26 00:00:00,Afternoon,26.2,2,184.21,Luxury,Referral,Returning
+2024-03-27 00:00:00,Night,42.77,5,20.85,Luxury,Website,Returning
+2024-10-26 00:00:00,Evening,13.78,1,55.05,Basic,Instagram,New
+2024-10-03 00:00:00,Night,9.68,5,167.24,Luxury,Walk-in,New
+2024-10-18 00:00:00,Evening,5.25,3,138.1,Basic,Google Ads,Returning
+2024-08-26 00:00:00,Night,11.16,3,278.69,Luxury,Google Ads,New
+2024-11-12 00:00:00,Evening,11.63,2,165.64,Basic,Walk-in,New
+2024-12-16 00:00:00,Evening,16.02,2,199.62,Premium,Walk-in,Returning
+2024-09-16 00:00:00,Evening,29,1,70.45,Basic,Google Ads,New
+2024-12-13 00:00:00,Morning,25.44,2,267.6,Premium,Google Ads,New
+2024-04-29 00:00:00,Night,47.28,3,100.87,Basic,Walk-in,New
+2024-09-03 00:00:00,Night,7.79,1,13.21,Basic,Referral,New
+2024-10-08 00:00:00,Afternoon,25.4,3,167.54,Premium,Instagram,Returning
+2024-01-01 00:00:00,Morning,35.73,3,287.61,Basic,Referral,Returning
+2024-11-14 00:00:00,Night,29.12,1,268.73,Luxury,Referral,New
+2024-12-05 00:00:00,Morning,17.41,1,261,Basic,Google Ads,New
+2024-09-05 00:00:00,Afternoon,33.25,1,194.52,Luxury,Referral,Returning
+2024-02-03 00:00:00,Evening,27.95,1,25.82,Premium,Google Ads,New
+2024-07-06 00:00:00,Morning,1.33,0,66.01,Basic,Website,Returning
+2024-11-24 00:00:00,Morning,19.63,2,198.08,Basic,Instagram,Returning
+2024-07-22 00:00:00,Morning,45.37,0,141.45,Premium,Google Ads,New
+2024-11-09 00:00:00,Morning,24.53,2,145.11,Premium,Walk-in,Returning
+2024-05-29 00:00:00,Evening,4.46,3,155.85,Premium,Instagram,New
+2024-01-01 00:00:00,Night,20.99,1,59.97,Basic,Website,New
+2024-03-21 00:00:00,Afternoon,28.46,2,240.73,Basic,Instagram,Returning
+2024-02-16 00:00:00,Night,21.65,2,166.82,Premium,Google Ads,New
+2024-07-05 00:00:00,Evening,27.92,2,204.25,Basic,Google Ads,New
+2024-12-20 00:00:00,Afternoon,25.71,1,199.86,Premium,Instagram,New
+2024-09-16 00:00:00,Night,31.09,1,97.38,Luxury,Walk-in,New
+2024-08-15 00:00:00,Evening,19.14,1,93.81,Basic,Instagram,Returning
+2024-08-07 00:00:00,Morning,26.26,3,224.5,Basic,Walk-in,New
+2024-05-29 00:00:00,Afternoon,46.19,1,50.82,Luxury,Website,New
+2024-04-15 00:00:00,Evening,31.54,1,18.7,Luxury,Walk-in,New
+2024-12-10 00:00:00,Night,7.77,0,62.22,Luxury,Website,Returning
+2024-01-19 00:00:00,Evening,12.64,3,43.85,Premium,Website,Returning
+2024-05-05 00:00:00,Evening,30.6,4,132.74,Luxury,Google Ads,New
+2024-07-18 00:00:00,Morning,34.43,2,46.45,Premium,Website,Returning
+2024-10-04 00:00:00,Night,19.18,3,255.44,Basic,Google Ads,New
+2024-11-06 00:00:00,Afternoon,3.71,0,249.19,Premium,Referral,Returning
+2024-05-17 00:00:00,Evening,49.07,3,251.55,Basic,Google Ads,Returning
+2024-06-29 00:00:00,Evening,40.43,4,85.9,Premium,Website,New
+2024-04-07 00:00:00,Morning,39.68,2,30.05,Basic,Walk-in,Returning
+2024-05-15 00:00:00,Morning,9.56,2,145.71,Basic,Walk-in,New
+2024-07-26 00:00:00,Afternoon,9.23,0,180.79,Basic,Instagram,Returning
+2024-08-29 00:00:00,Afternoon,16.62,4,117.9,Luxury,Instagram,Returning
+2024-04-27 00:00:00,Afternoon,17.39,4,146.19,Luxury,Website,New
+2024-04-21 00:00:00,Night,30.88,2,210.85,Basic,Walk-in,New
+2024-03-08 00:00:00,Morning,48.24,1,38.37,Luxury,Google Ads,Returning
+2024-05-06 00:00:00,Morning,41.95,1,134.44,Luxury,Walk-in,New
+2024-03-16 00:00:00,Night,27.22,3,228.15,Premium,Instagram,Returning
+2024-12-11 00:00:00,Afternoon,33.23,3,261.47,Premium,Referral,New
+2024-08-18 00:00:00,Afternoon,19.23,2,121.68,Basic,Google Ads,Returning
+2024-04-30 00:00:00,Night,12.24,1,52.99,Basic,Walk-in,New
+2024-02-18 00:00:00,Afternoon,37.73,3,285.99,Basic,Walk-in,Returning
+2024-03-14 00:00:00,Night,15.99,3,200.9,Basic,Instagram,New
+2024-07-18 00:00:00,Evening,38.39,2,155.71,Luxury,Referral,New
+2024-12-06 00:00:00,Afternoon,16.76,4,49.59,Luxury,Website,Returning
+2024-08-30 00:00:00,Night,27.55,0,172.89,Premium,Instagram,Returning
+2024-04-20 00:00:00,Evening,15.64,2,261.75,Luxury,Google Ads,Returning
+2024-10-31 00:00:00,Afternoon,20.78,5,34.09,Basic,Referral,Returning
+2024-12-28 00:00:00,Evening,44.28,2,227.52,Basic,Referral,Returning
+2024-02-01 00:00:00,Afternoon,7.05,2,230.73,Luxury,Walk-in,New
+2024-02-13 00:00:00,Evening,8.59,3,14.57,Premium,Walk-in,Returning
+2024-05-12 00:00:00,Evening,2.42,1,250.38,Premium,Referral,New
+2024-07-07 00:00:00,Night,40.42,0,170.56,Luxury,Google Ads,New
+2024-08-28 00:00:00,Morning,42.99,0,230.44,Basic,Instagram,New
+2024-02-03 00:00:00,Night,37.95,4,38.6,Basic,Referral,Returning
+2024-09-03 00:00:00,Morning,45.03,2,187.47,Premium,Referral,Returning
+2024-12-24 00:00:00,Afternoon,8.55,2,288.71,Premium,Instagram,Returning
+2024-02-10 00:00:00,Afternoon,31.18,2,194.76,Basic,Instagram,New
+2024-02-18 00:00:00,Morning,43.55,2,25.39,Basic,Google Ads,New
+2024-11-19 00:00:00,Afternoon,44.9,1,127.3,Basic,Google Ads,New
+2024-07-04 00:00:00,Afternoon,35.76,3,196.87,Luxury,Instagram,Returning
+2024-01-13 00:00:00,Afternoon,15.52,1,247.33,Basic,Google Ads,Returning
+2024-05-16 00:00:00,Morning,34.96,2,82.42,Luxury,Walk-in,Returning
+2024-07-16 00:00:00,Afternoon,35.8,4,169.24,Premium,Instagram,New
+2024-06-16 00:00:00,Afternoon,45.21,5,259.02,Premium,Google Ads,New
+2024-04-05 00:00:00,Morning,29.07,5,11.3,Premium,Referral,New
+2024-01-25 00:00:00,Morning,20.92,0,215.85,Basic,Google Ads,New
+2024-06-02 00:00:00,Evening,46.27,1,201.54,Premium,Referral,Returning
+2024-12-16 00:00:00,Evening,5.04,2,233.8,Basic,Referral,Returning
+2024-04-12 00:00:00,Night,31.61,3,52.83,Basic,Website,New
+2024-12-09 00:00:00,Afternoon,10.29,0,124.67,Luxury,Walk-in,New
+2024-07-17 00:00:00,Night,35.23,0,82.71,Premium,Referral,New
+2024-12-14 00:00:00,Morning,35.83,2,45.39,Luxury,Walk-in,Returning
+2024-02-01 00:00:00,Afternoon,39.86,1,195.41,Luxury,Walk-in,New
+2024-05-08 00:00:00,Morning,32.85,2,103.07,Luxury,Google Ads,Returning
+2024-06-12 00:00:00,Afternoon,44.3,3,67.01,Basic,Instagram,New
+2024-08-22 00:00:00,Evening,17.76,1,63.71,Premium,Website,New
+2024-03-14 00:00:00,Morning,15.67,3,273.32,Luxury,Walk-in,New
+2024-08-07 00:00:00,Evening,1.06,0,232.89,Luxury,Referral,Returning
+2024-10-29 00:00:00,Night,6.51,0,251.12,Premium,Referral,Returning
+2024-10-11 00:00:00,Night,40.71,1,162.35,Basic,Google Ads,Returning
+2024-06-23 00:00:00,Afternoon,28.78,0,182.52,Luxury,Referral,Returning
+2024-02-09 00:00:00,Afternoon,42.85,1,56.77,Basic,Instagram,Returning
+2024-07-10 00:00:00,Night,47.45,1,30.78,Basic,Instagram,New
+2024-12-26 00:00:00,Night,27.21,3,279.55,Basic,Google Ads,Returning
+2024-11-25 00:00:00,Afternoon,27.17,2,142.75,Basic,Website,Returning
+2024-02-01 00:00:00,Afternoon,9.67,1,57.63,Premium,Walk-in,New
+2024-02-05 00:00:00,Morning,41.02,2,153.09,Basic,Instagram,Returning
+2024-01-05 00:00:00,Evening,8.31,5,181.42,Basic,Instagram,Returning
+2024-10-05 00:00:00,Morning,37.22,2,91.03,Premium,Walk-in,Returning
+2024-01-08 00:00:00,Evening,26.83,3,236.16,Luxury,Referral,New
+2024-01-13 00:00:00,Afternoon,40.41,3,280.55,Basic,Google Ads,Returning
+2024-05-26 00:00:00,Night,23.21,1,204.18,Luxury,Referral,New
+2024-04-25 00:00:00,Evening,4.04,3,72.8,Luxury,Walk-in,Returning
+2024-02-26 00:00:00,Night,32.26,6,148.5,Premium,Walk-in,New
+2024-10-28 00:00:00,Evening,36.27,2,63.08,Luxury,Google Ads,New
+2024-06-04 00:00:00,Morning,6.13,3,268.2,Basic,Referral,Returning
+2024-06-13 00:00:00,Night,34.35,4,219.84,Basic,Walk-in,Returning
+2024-02-10 00:00:00,Night,28.56,1,238.45,Luxury,Google Ads,Returning
+2024-12-10 00:00:00,Evening,46.7,2,207.3,Premium,Website,Returning
+2024-06-02 00:00:00,Evening,49.72,3,184.88,Luxury,Instagram,Returning
+2024-03-03 00:00:00,Night,32.98,2,47.35,Premium,Walk-in,New
+2024-08-27 00:00:00,Night,0.94,1,77.23,Premium,Website,New
+2024-06-14 00:00:00,Night,5.8,3,112.33,Basic,Website,Returning
+2024-10-30 00:00:00,Morning,29.55,1,144.87,Luxury,Instagram,New
+2024-09-07 00:00:00,Evening,0.38,6,294.93,Premium,Walk-in,New
+2024-12-30 00:00:00,Night,36.9,2,102.11,Basic,Walk-in,New
+2024-07-02 00:00:00,Afternoon,36.08,1,241.6,Luxury,Referral,Returning
+2024-10-11 00:00:00,Evening,10.96,1,157.1,Premium,Google Ads,Returning
+2024-11-05 00:00:00,Evening,12.29,5,216.67,Basic,Referral,New
+2024-12-14 00:00:00,Morning,12.6,2,189.46,Premium,Google Ads,New
+2024-05-18 00:00:00,Afternoon,23.52,4,217.72,Luxury,Instagram,New
+2024-02-22 00:00:00,Night,46.8,6,50.19,Premium,Google Ads,New
+2024-11-04 00:00:00,Evening,40.23,2,297.89,Premium,Referral,Returning
+2024-04-19 00:00:00,Afternoon,32.2,4,29.38,Luxury,Walk-in,Returning
+2024-05-16 00:00:00,Afternoon,38.56,0,233.17,Premium,Website,Returning
+2024-12-16 00:00:00,Night,25.36,1,232.16,Premium,Google Ads,Returning
+2024-08-16 00:00:00,Night,11.66,1,106.66,Basic,Website,New
+2024-03-31 00:00:00,Morning,19.29,2,48.63,Basic,Referral,New
+2024-10-30 00:00:00,Evening,1.67,3,230.38,Basic,Referral,Returning
+2024-07-05 00:00:00,Night,13.82,1,165.36,Premium,Instagram,Returning
+2024-06-07 00:00:00,Morning,8.65,0,116.66,Luxury,Google Ads,New
+2024-04-23 00:00:00,Afternoon,1.99,2,66.28,Premium,Referral,New
+2024-11-03 00:00:00,Morning,40.49,1,232.85,Basic,Website,New
+2024-09-30 00:00:00,Morning,39.59,2,273.91,Basic,Google Ads,New
+2024-01-16 00:00:00,Afternoon,41.86,3,159.3,Luxury,Walk-in,New
+2024-12-08 00:00:00,Night,10.11,0,29.67,Basic,Google Ads,New
+2024-01-11 00:00:00,Afternoon,13.07,2,71.19,Luxury,Google Ads,New
+2024-03-07 00:00:00,Night,42.74,1,263.6,Premium,Instagram,New
+2024-09-06 00:00:00,Night,11.03,0,85.38,Luxury,Website,New
+2024-07-19 00:00:00,Morning,7.98,4,140.43,Basic,Referral,New
+2024-07-01 00:00:00,Afternoon,11.87,0,263.8,Premium,Referral,Returning
+2024-09-04 00:00:00,Morning,39.78,0,284.85,Luxury,Referral,New
+2024-03-12 00:00:00,Morning,23.2,3,245.71,Premium,Instagram,Returning
+2024-04-16 00:00:00,Evening,30.26,4,136.67,Luxury,Referral,New
+2024-03-09 00:00:00,Night,36.64,1,241.78,Basic,Website,New
+2024-12-13 00:00:00,Morning,6.03,3,44.74,Premium,Website,New
+2024-11-14 00:00:00,Afternoon,12.21,2,23.48,Basic,Referral,New
+2024-07-14 00:00:00,Afternoon,7.06,1,139.98,Premium,Walk-in,Returning
+2024-02-05 00:00:00,Afternoon,36.83,0,168.91,Premium,Referral,Returning
+2024-03-16 00:00:00,Afternoon,45.96,3,52.52,Premium,Referral,Returning
+2024-08-17 00:00:00,Evening,6.64,2,203.67,Luxury,Walk-in,New
+2024-01-29 00:00:00,Evening,8.7,3,123.14,Basic,Referral,Returning
+2024-11-14 00:00:00,Afternoon,33.05,1,204.32,Basic,Website,Returning
+2024-07-24 00:00:00,Morning,12.34,2,287.55,Luxury,Website,Returning
+2024-06-06 00:00:00,Evening,40.89,3,249.47,Premium,Walk-in,Returning
+2024-02-05 00:00:00,Afternoon,1.67,2,64.22,Basic,Google Ads,New
+2024-10-13 00:00:00,Afternoon,11.47,1,158.21,Basic,Google Ads,Returning
+2024-12-12 00:00:00,Evening,30.95,4,241,Luxury,Website,Returning
+2024-11-09 00:00:00,Night,39.78,2,191.44,Basic,Instagram,Returning
+2024-04-15 00:00:00,Morning,36.6,3,260.29,Luxury,Google Ads,New
+2024-01-13 00:00:00,Morning,19.37,3,150.21,Luxury,Instagram,New
+2024-07-29 00:00:00,Afternoon,44.07,0,251.24,Basic,Website,New
+2024-01-10 00:00:00,Morning,49.5,1,55.41,Premium,Instagram,New
+2024-03-01 00:00:00,Night,16.72,1,179.14,Premium,Walk-in,Returning
+2024-02-22 00:00:00,Evening,31.66,0,115.61,Basic,Website,New
+2024-10-25 00:00:00,Night,13.64,2,129.51,Luxury,Referral,Returning
+2024-10-19 00:00:00,Evening,7.73,3,172.12,Luxury,Walk-in,New
+2024-01-05 00:00:00,Afternoon,11.03,3,11.83,Basic,Website,Returning
+2024-04-04 00:00:00,Morning,13.76,3,218.31,Luxury,Instagram,Returning
+2024-06-03 00:00:00,Afternoon,43.39,1,221.57,Basic,Google Ads,Returning
+2024-02-27 00:00:00,Afternoon,24.39,1,12.94,Basic,Google Ads,New
+2024-10-26 00:00:00,Night,33.99,1,75.4,Premium,Instagram,New
+2024-04-28 00:00:00,Evening,9.97,1,259.39,Luxury,Instagram,Returning
+2024-09-11 00:00:00,Evening,1.87,3,76.1,Premium,Google Ads,New
+2024-11-21 00:00:00,Morning,49,1,215.24,Luxury,Instagram,New
+2024-01-29 00:00:00,Night,9.81,2,273.72,Basic,Referral,New
+2024-04-06 00:00:00,Night,34.95,2,84.36,Luxury,Walk-in,New
+2024-05-08 00:00:00,Night,11.14,2,10.83,Premium,Google Ads,Returning
+2024-09-14 00:00:00,Afternoon,25.99,2,242.55,Luxury,Instagram,New
+2024-01-21 00:00:00,Night,44.92,3,30.93,Basic,Walk-in,Returning
+2024-11-30 00:00:00,Afternoon,14.62,0,243.79,Luxury,Website,Returning
+2024-12-18 00:00:00,Night,19.93,5,223.69,Premium,Walk-in,New
+2024-03-12 00:00:00,Morning,17.72,3,175.18,Basic,Website,New
+2024-09-06 00:00:00,Night,10.49,4,41.48,Basic,Referral,New
+2024-04-26 00:00:00,Evening,7.61,1,137.48,Premium,Website,Returning
+2024-02-02 00:00:00,Night,44.32,1,213.24,Basic,Walk-in,Returning
+2024-04-02 00:00:00,Afternoon,15.86,1,278.28,Luxury,Walk-in,Returning
+2024-07-30 00:00:00,Evening,6.7,0,43.96,Premium,Instagram,Returning
+2024-04-01 00:00:00,Night,9.1,2,108.88,Luxury,Website,Returning
+2024-06-09 00:00:00,Afternoon,9.78,0,141.1,Luxury,Google Ads,New
+2024-05-25 00:00:00,Night,1.11,1,195.69,Basic,Walk-in,New
+2024-01-27 00:00:00,Night,45.85,4,239.07,Luxury,Walk-in,Returning
+2024-10-27 00:00:00,Afternoon,20.21,1,60.62,Premium,Referral,New
+2024-10-28 00:00:00,Evening,10.44,4,291.97,Luxury,Google Ads,Returning
+2024-01-11 00:00:00,Evening,30.81,0,273.09,Basic,Instagram,New
+2024-07-20 00:00:00,Morning,15.56,6,195.07,Luxury,Referral,New
+2024-06-11 00:00:00,Evening,13.3,1,193.75,Basic,Website,New
+2024-03-03 00:00:00,Morning,44.35,2,26.53,Luxury,Google Ads,New
+2024-01-25 00:00:00,Night,4.44,3,33.78,Luxury,Website,New
+2024-03-21 00:00:00,Night,2.43,1,234.02,Premium,Google Ads,New
+2024-08-09 00:00:00,Night,49.97,1,170.94,Luxury,Referral,Returning
+2024-03-03 00:00:00,Afternoon,2.52,4,52.02,Basic,Referral,New
+2024-01-25 00:00:00,Night,46.33,1,167.39,Luxury,Google Ads,Returning
+2024-11-17 00:00:00,Morning,42.6,1,59.7,Basic,Website,Returning
+2024-08-13 00:00:00,Morning,22.48,2,146.01,Luxury,Walk-in,New
+2024-10-03 00:00:00,Night,18.97,1,190.9,Basic,Referral,Returning
+2024-05-12 00:00:00,Evening,16.76,2,120.58,Basic,Google Ads,Returning
+2024-01-10 00:00:00,Morning,12.12,1,214.14,Premium,Google Ads,Returning
+2024-02-14 00:00:00,Morning,9.97,2,126.72,Basic,Referral,New
+2024-08-19 00:00:00,Evening,15.12,1,248.56,Luxury,Website,New
+2024-02-07 00:00:00,Afternoon,42.91,1,53.46,Premium,Website,Returning
+2024-06-23 00:00:00,Evening,25.44,0,94.36,Luxury,Referral,New
+2024-02-18 00:00:00,Night,3.89,0,158.16,Basic,Instagram,New
+2024-05-10 00:00:00,Evening,47.05,3,255.26,Premium,Referral,New
+2024-03-16 00:00:00,Night,37.36,1,132.15,Premium,Instagram,Returning
+2024-12-27 00:00:00,Evening,41.53,1,119.08,Luxury,Referral,New
+2024-05-11 00:00:00,Evening,6.68,1,233.51,Luxury,Walk-in,Returning
+2024-04-21 00:00:00,Night,15.08,3,179.01,Luxury,Instagram,New
+2024-03-12 00:00:00,Afternoon,9.04,1,65.43,Luxury,Referral,New
+2024-11-05 00:00:00,Afternoon,12.46,1,109.27,Luxury,Walk-in,Returning
+2024-01-17 00:00:00,Night,36.01,4,102.89,Premium,Walk-in,Returning
+2024-02-26 00:00:00,Morning,17.48,1,150.77,Premium,Referral,New
+2024-07-22 00:00:00,Night,49.94,0,80.63,Luxury,Website,Returning
+2024-06-11 00:00:00,Morning,31.67,1,261.19,Luxury,Walk-in,New
+2024-03-30 00:00:00,Night,24.65,2,284.46,Premium,Instagram,New
+2024-10-11 00:00:00,Evening,37.11,1,59.86,Basic,Walk-in,New
+2024-08-28 00:00:00,Morning,43.44,2,94.44,Basic,Google Ads,New
+2024-09-09 00:00:00,Morning,16.83,3,98.63,Basic,Referral,New
+2024-10-09 00:00:00,Afternoon,36.58,2,265.46,Premium,Referral,New
+2024-11-27 00:00:00,Morning,8.59,2,223.22,Luxury,Google Ads,New
+2024-11-22 00:00:00,Evening,24.3,2,33.56,Basic,Google Ads,Returning
+2024-09-20 00:00:00,Night,2.22,2,260.76,Luxury,Google Ads,New
+2024-02-04 00:00:00,Afternoon,0.08,1,117.92,Premium,Google Ads,Returning
+2024-08-02 00:00:00,Night,19.59,1,255.29,Luxury,Instagram,Returning
+2024-02-11 00:00:00,Night,42.21,4,15.08,Basic,Referral,Returning
+2024-05-27 00:00:00,Evening,1.16,3,292.87,Premium,Website,New
+2024-12-08 00:00:00,Afternoon,10.85,2,53.83,Premium,Google Ads,Returning
+2024-01-14 00:00:00,Night,32.38,4,157.51,Luxury,Website,New
+2024-07-02 00:00:00,Evening,18.45,2,249.82,Luxury,Referral,Returning
+2024-11-11 00:00:00,Night,33.06,2,17.04,Premium,Referral,New
+2024-03-01 00:00:00,Afternoon,24.89,1,67.23,Premium,Instagram,Returning
+2024-02-04 00:00:00,Night,38.78,1,162.81,Luxury,Google Ads,Returning
+2024-01-13 00:00:00,Night,39.01,0,275.64,Basic,Walk-in,New
+2024-11-22 00:00:00,Afternoon,19.45,3,109.46,Basic,Referral,Returning
+2024-04-20 00:00:00,Night,9.2,4,181.61,Basic,Google Ads,Returning
+2024-01-20 00:00:00,Night,34.69,0,20.23,Luxury,Instagram,Returning
+2024-11-09 00:00:00,Morning,3.64,2,94.18,Basic,Website,New
+2024-07-22 00:00:00,Afternoon,18.18,1,147.09,Basic,Website,Returning
+2024-12-27 00:00:00,Afternoon,33.61,2,193.13,Basic,Website,New
+2024-10-16 00:00:00,Morning,40.89,3,282.6,Premium,Instagram,Returning
+2024-09-07 00:00:00,Evening,38.45,1,255.63,Premium,Website,New
+2024-01-30 00:00:00,Night,28.39,2,223.73,Premium,Website,New
+2024-12-27 00:00:00,Afternoon,11.65,3,195.2,Basic,Walk-in,Returning
+2024-11-27 00:00:00,Afternoon,14.73,1,297.27,Luxury,Walk-in,Returning
+2024-08-20 00:00:00,Evening,45.42,3,143.59,Luxury,Instagram,New
+2024-04-06 00:00:00,Afternoon,40.78,2,72.72,Premium,Google Ads,New
+2024-08-07 00:00:00,Night,22.24,2,127.99,Basic,Website,New
+2024-04-15 00:00:00,Evening,19.26,3,171.85,Premium,Instagram,New
+2024-03-23 00:00:00,Night,31.56,2,79.16,Basic,Instagram,New
+2024-02-24 00:00:00,Afternoon,42.61,0,212.75,Luxury,Walk-in,Returning
+2024-03-18 00:00:00,Afternoon,49.51,1,127.78,Basic,Website,New
+2024-12-24 00:00:00,Morning,47.16,4,234.85,Premium,Google Ads,Returning
+2024-10-12 00:00:00,Morning,44.81,0,51.39,Luxury,Referral,New
+2024-05-30 00:00:00,Evening,35.92,1,91.52,Premium,Website,New
+2024-05-10 00:00:00,Afternoon,7.21,1,140.27,Luxury,Instagram,New
+2024-05-22 00:00:00,Evening,7.19,6,74.07,Luxury,Walk-in,Returning
+2024-02-29 00:00:00,Night,19.91,1,248.57,Luxury,Website,New
+2024-08-02 00:00:00,Night,48.65,2,222.66,Premium,Walk-in,New
+2024-02-16 00:00:00,Afternoon,49.11,2,284.58,Luxury,Walk-in,New
+2024-12-18 00:00:00,Night,16.12,2,267.47,Basic,Website,Returning
+2024-01-16 00:00:00,Night,20.45,3,230.81,Luxury,Google Ads,Returning
+2024-07-16 00:00:00,Afternoon,10.63,0,17.92,Luxury,Referral,New
+2024-01-15 00:00:00,Afternoon,30.24,1,234.9,Luxury,Referral,Returning
+2024-01-07 00:00:00,Night,32.47,0,33.7,Premium,Instagram,New
+2024-05-10 00:00:00,Morning,7.47,3,80.33,Basic,Google Ads,New
+2024-01-13 00:00:00,Night,7.48,2,70.96,Luxury,Walk-in,New
+2024-02-11 00:00:00,Afternoon,35.9,2,285.54,Premium,Google Ads,Returning
+2024-06-01 00:00:00,Morning,37.17,3,98.68,Basic,Website,New
+2024-10-07 00:00:00,Morning,20.09,1,166.98,Premium,Walk-in,New
+2024-09-16 00:00:00,Morning,25.35,1,295.17,Basic,Instagram,Returning
+2024-10-13 00:00:00,Morning,48.97,3,211.77,Luxury,Website,New
+2024-11-30 00:00:00,Morning,32.82,1,276.54,Luxury,Website,New
+2024-11-12 00:00:00,Morning,43.27,1,225.74,Luxury,Instagram,Returning
+2024-04-09 00:00:00,Afternoon,45.27,2,174.01,Luxury,Google Ads,New
+2024-01-26 00:00:00,Morning,38.99,2,233.94,Basic,Walk-in,New
+2024-09-15 00:00:00,Night,10.08,3,72.69,Luxury,Referral,Returning
+2024-12-06 00:00:00,Night,47.73,1,141.21,Basic,Instagram,Returning
+2024-04-18 00:00:00,Night,1,2,260.14,Premium,Website,New
+2024-09-17 00:00:00,Evening,33.7,4,84.56,Luxury,Google Ads,New
+2024-11-12 00:00:00,Afternoon,26.98,2,31.03,Premium,Walk-in,Returning
+2024-08-23 00:00:00,Evening,39.8,2,198.59,Basic,Instagram,New
+2024-07-22 00:00:00,Night,15.43,4,106.13,Premium,Instagram,New
+2024-01-12 00:00:00,Afternoon,31.17,4,156.98,Premium,Website,New
+2024-04-17 00:00:00,Evening,3.03,1,71.8,Luxury,Google Ads,New
+2024-07-02 00:00:00,Morning,21.04,2,18.97,Luxury,Referral,New
+2024-11-09 00:00:00,Night,19.6,1,164.97,Premium,Instagram,Returning
+2024-03-29 00:00:00,Afternoon,38.47,4,277.15,Luxury,Walk-in,New
+2024-04-07 00:00:00,Afternoon,0.81,2,231.24,Premium,Instagram,Returning
+2024-05-20 00:00:00,Morning,31.7,2,207.91,Luxury,Instagram,New
+2024-10-21 00:00:00,Evening,17.27,1,155.17,Premium,Referral,New
+2024-05-19 00:00:00,Afternoon,40.9,1,287.02,Premium,Google Ads,New
+2024-04-17 00:00:00,Afternoon,9.26,7,255.64,Premium,Walk-in,New
+2024-09-20 00:00:00,Afternoon,5.44,1,235.18,Basic,Google Ads,Returning
+2024-03-29 00:00:00,Afternoon,39.14,2,258.13,Basic,Instagram,New
+2024-05-13 00:00:00,Afternoon,4.85,1,258.18,Luxury,Referral,New
+2024-06-18 00:00:00,Afternoon,14.44,3,98.94,Premium,Instagram,Returning
+2024-05-26 00:00:00,Night,42.67,3,102.04,Premium,Website,Returning
+2024-06-08 00:00:00,Afternoon,27.81,1,271.49,Basic,Instagram,Returning
+2024-08-13 00:00:00,Afternoon,21.15,2,241.82,Luxury,Referral,New
+2024-11-05 00:00:00,Morning,34.96,1,250.5,Luxury,Referral,Returning
+2024-12-29 00:00:00,Morning,46.61,2,215.82,Premium,Google Ads,Returning
+2024-04-19 00:00:00,Afternoon,42.73,2,208.23,Basic,Instagram,Returning
+2024-05-20 00:00:00,Afternoon,15.57,3,208.43,Premium,Google Ads,New
+2024-06-19 00:00:00,Evening,11.19,2,258.52,Premium,Referral,New
+2024-02-14 00:00:00,Night,37.15,1,138.34,Basic,Instagram,Returning
+2024-02-17 00:00:00,Morning,16.53,2,73.96,Premium,Instagram,Returning
+2024-11-30 00:00:00,Evening,8.51,3,109.01,Premium,Google Ads,New
+2024-04-16 00:00:00,Evening,10.09,1,253.89,Basic,Instagram,New
+2024-06-25 00:00:00,Morning,45.92,1,24.52,Premium,Instagram,Returning
+2024-08-12 00:00:00,Afternoon,20.21,0,114.19,Premium,Instagram,New
+2024-11-16 00:00:00,Afternoon,37.51,3,192.57,Basic,Instagram,Returning
+2024-08-05 00:00:00,Evening,26.79,1,61.08,Luxury,Walk-in,Returning
+2024-11-10 00:00:00,Evening,15.51,1,91.02,Basic,Referral,New
+2024-02-13 00:00:00,Evening,10.98,1,250.16,Basic,Instagram,Returning
+2024-07-08 00:00:00,Afternoon,46.7,3,172.67,Premium,Referral,New
+2024-06-30 00:00:00,Morning,30.35,4,22.04,Premium,Google Ads,Returning
+2024-01-20 00:00:00,Night,19.69,1,18.88,Basic,Walk-in,New
+2024-04-08 00:00:00,Afternoon,8.71,3,272.61,Luxury,Instagram,Returning
+2024-09-20 00:00:00,Night,2.89,0,97.48,Basic,Website,Returning
+2024-04-25 00:00:00,Evening,31.23,3,166.16,Luxury,Google Ads,Returning
+2024-11-19 00:00:00,Night,21.93,1,176.64,Premium,Website,Returning
+2024-02-08 00:00:00,Afternoon,46.41,2,262.66,Premium,Google Ads,Returning
+2024-01-21 00:00:00,Morning,1.62,2,25.62,Luxury,Google Ads,New
+2024-01-02 00:00:00,Afternoon,16.18,3,63.33,Luxury,Google Ads,Returning
+2024-05-12 00:00:00,Afternoon,42.69,1,112.05,Basic,Referral,New
+2024-03-02 00:00:00,Evening,1.44,2,127.61,Luxury,Referral,Returning
+2024-11-25 00:00:00,Night,33.36,3,298.17,Basic,Website,New
+2024-08-19 00:00:00,Morning,21.25,4,152.7,Luxury,Website,Returning
+2024-10-31 00:00:00,Morning,31.98,1,77.4,Premium,Walk-in,New
+2024-10-23 00:00:00,Morning,35.27,0,252.34,Basic,Referral,New
+2024-11-03 00:00:00,Afternoon,41.18,5,276.12,Basic,Referral,New
+2024-09-02 00:00:00,Morning,9.34,3,270.56,Luxury,Website,New
+2024-05-18 00:00:00,Afternoon,12.53,4,238.44,Basic,Website,Returning
+2024-04-21 00:00:00,Afternoon,36.19,1,222.26,Basic,Walk-in,Returning
+2024-05-11 00:00:00,Evening,19.1,2,125.09,Luxury,Walk-in,New
+2024-05-05 00:00:00,Afternoon,0.62,1,125.43,Premium,Walk-in,Returning
+2024-02-02 00:00:00,Afternoon,25.47,2,87.64,Basic,Google Ads,New
+2024-09-02 00:00:00,Evening,3.51,0,17.1,Luxury,Website,Returning
+2024-07-26 00:00:00,Evening,5.28,3,217.51,Luxury,Instagram,Returning
+2024-10-25 00:00:00,Morning,36.03,2,246.89,Basic,Instagram,Returning
+2024-03-02 00:00:00,Afternoon,9.92,5,254.61,Basic,Google Ads,New
+2024-03-30 00:00:00,Afternoon,16.32,3,98.17,Basic,Google Ads,Returning
+2024-12-04 00:00:00,Afternoon,31.26,3,158.2,Luxury,Website,New
+2024-10-01 00:00:00,Morning,5.78,4,201.09,Premium,Walk-in,Returning
+2024-08-17 00:00:00,Morning,39.89,5,286.69,Basic,Referral,New
+2024-06-01 00:00:00,Afternoon,13.72,1,78.28,Basic,Website,New
+2024-10-07 00:00:00,Afternoon,31.52,4,162.84,Basic,Referral,Returning
+2024-11-21 00:00:00,Evening,17.82,0,232.45,Basic,Website,New
+2024-03-20 00:00:00,Afternoon,15.75,5,83.09,Basic,Walk-in,New
+2024-10-12 00:00:00,Evening,20.61,4,78.57,Basic,Website,Returning
+2024-01-08 00:00:00,Evening,6.09,4,39.91,Premium,Website,Returning
+2024-05-22 00:00:00,Evening,4.42,1,195.41,Basic,Referral,Returning
+2024-12-13 00:00:00,Night,19.15,0,38.28,Premium,Google Ads,New
+2024-03-08 00:00:00,Morning,5.05,2,54.61,Basic,Instagram,Returning
+2024-05-25 00:00:00,Afternoon,0.37,2,126.51,Basic,Walk-in,New
+2024-07-10 00:00:00,Afternoon,47.34,3,96.08,Luxury,Instagram,New
+2024-05-09 00:00:00,Night,15.16,0,229.15,Basic,Website,New
+2024-06-19 00:00:00,Afternoon,1.9,2,201.08,Basic,Google Ads,New
+2024-10-12 00:00:00,Evening,43.86,2,168.85,Luxury,Instagram,New
+2024-04-01 00:00:00,Afternoon,12.09,0,108.9,Basic,Google Ads,New
+2024-03-23 00:00:00,Night,39.41,3,148.58,Premium,Walk-in,Returning
+2024-12-07 00:00:00,Morning,18.2,3,88.78,Luxury,Website,New
+2024-11-09 00:00:00,Night,16.6,3,80.36,Premium,Google Ads,New
+2024-02-15 00:00:00,Night,1.54,3,114.56,Luxury,Website,New
+2024-02-11 00:00:00,Night,23.97,6,57.62,Luxury,Referral,Returning
+2024-04-06 00:00:00,Afternoon,26.55,1,154.77,Premium,Google Ads,Returning
+2024-01-05 00:00:00,Evening,24.93,1,23.89,Premium,Instagram,Returning
+2024-02-04 00:00:00,Night,21.13,5,271.99,Premium,Website,New
+2024-08-09 00:00:00,Night,40.53,1,79.61,Luxury,Referral,Returning
+2024-09-24 00:00:00,Afternoon,30.72,2,83.41,Basic,Referral,New
+2024-10-20 00:00:00,Morning,14.97,1,150.79,Basic,Website,Returning
+2024-11-10 00:00:00,Evening,2.05,3,222.44,Premium,Website,Returning
+2024-12-24 00:00:00,Morning,2.77,2,287.87,Premium,Google Ads,Returning
+2024-03-12 00:00:00,Morning,28.56,4,22.93,Premium,Website,Returning
+2024-08-05 00:00:00,Evening,31.14,1,282.15,Premium,Instagram,Returning
+2024-03-03 00:00:00,Night,7.14,2,162.49,Premium,Walk-in,Returning
+2024-12-08 00:00:00,Afternoon,18.28,2,272.87,Luxury,Website,New
+2024-02-20 00:00:00,Morning,37.79,9,195.18,Basic,Walk-in,Returning
+2024-07-07 00:00:00,Evening,10.75,1,286.6,Premium,Google Ads,Returning
+2024-11-02 00:00:00,Night,8.7,2,205.8,Luxury,Instagram,Returning
+2024-10-22 00:00:00,Afternoon,34.18,2,221.23,Luxury,Referral,New
+2024-03-30 00:00:00,Night,7.89,3,46.78,Premium,Website,New
+2024-09-21 00:00:00,Evening,9.75,1,181.19,Basic,Walk-in,New
+2024-12-16 00:00:00,Morning,4.57,2,289.18,Basic,Website,New
+2024-04-04 00:00:00,Night,40.79,2,16.32,Basic,Website,Returning
+2024-01-22 00:00:00,Morning,32.67,1,15.2,Basic,Referral,New
+2024-08-21 00:00:00,Afternoon,33.06,0,269.84,Basic,Referral,Returning
+2024-10-05 00:00:00,Night,49.17,1,13.49,Basic,Referral,New
+2024-05-14 00:00:00,Evening,37.3,3,44.74,Basic,Referral,Returning
+2024-09-01 00:00:00,Afternoon,4.08,3,258.73,Premium,Google Ads,New
+2024-06-18 00:00:00,Night,21.76,2,219.59,Premium,Walk-in,Returning
+2024-09-18 00:00:00,Afternoon,5.44,5,159.31,Luxury,Walk-in,Returning
+2024-11-10 00:00:00,Afternoon,24.74,1,287.75,Luxury,Referral,New
+2024-11-21 00:00:00,Afternoon,40.56,2,111.45,Premium,Walk-in,New
+2024-11-12 00:00:00,Morning,8.71,1,96.2,Luxury,Website,Returning
+2024-08-07 00:00:00,Evening,35.92,2,139.18,Premium,Google Ads,New
+2024-01-10 00:00:00,Morning,1.54,1,159.75,Basic,Referral,New
+2024-01-27 00:00:00,Evening,17.38,1,287.37,Luxury,Walk-in,Returning
+2024-12-02 00:00:00,Afternoon,34.49,3,96.97,Luxury,Walk-in,New
+2024-06-25 00:00:00,Evening,3.91,1,44.83,Premium,Walk-in,Returning
+2024-09-03 00:00:00,Afternoon,12.82,0,111.41,Premium,Google Ads,New
+2024-08-23 00:00:00,Morning,26.15,1,128.33,Premium,Website,Returning
+2024-01-13 00:00:00,Afternoon,23.39,3,271.07,Basic,Instagram,New
+2024-09-23 00:00:00,Afternoon,8.53,0,265.38,Basic,Walk-in,Returning
+2024-08-21 00:00:00,Afternoon,42.67,3,271.85,Premium,Website,New
+2024-02-13 00:00:00,Night,16.2,6,31.6,Premium,Website,New
+2024-05-03 00:00:00,Morning,38.18,3,250.2,Premium,Referral,New
+2024-02-28 00:00:00,Afternoon,45.15,3,35.74,Basic,Google Ads,New
+2024-07-25 00:00:00,Evening,11.89,2,202.23,Premium,Instagram,Returning
+2024-01-23 00:00:00,Evening,30.35,2,119.69,Basic,Instagram,Returning
+2024-07-28 00:00:00,Evening,13.43,3,174.87,Basic,Google Ads,New
+2024-12-10 00:00:00,Morning,43.96,1,110.34,Premium,Google Ads,Returning
+2024-10-06 00:00:00,Morning,12.9,2,219.43,Basic,Referral,Returning
+2024-08-29 00:00:00,Night,6.78,2,112.07,Basic,Website,New
+2024-09-29 00:00:00,Evening,30.16,5,188.09,Premium,Instagram,New
+2024-10-07 00:00:00,Afternoon,44.38,0,282.79,Premium,Instagram,New
+2024-05-08 00:00:00,Morning,14.04,3,271.87,Basic,Referral,New
+2024-02-02 00:00:00,Morning,24.27,3,272.16,Basic,Instagram,Returning
+2024-02-23 00:00:00,Morning,7.68,0,167.06,Premium,Instagram,Returning
+2024-01-07 00:00:00,Night,46.62,1,173.99,Premium,Referral,Returning
+2024-07-22 00:00:00,Night,17.87,2,46.08,Luxury,Website,Returning
+2024-04-06 00:00:00,Evening,17.41,1,153.82,Luxury,Referral,Returning
+2024-09-15 00:00:00,Afternoon,40.14,1,41.85,Premium,Referral,Returning
+2024-05-19 00:00:00,Evening,48.5,3,15.97,Premium,Walk-in,Returning
+2024-01-11 00:00:00,Evening,15.76,4,180.8,Luxury,Walk-in,Returning
+2024-04-28 00:00:00,Evening,38.61,3,79.3,Basic,Google Ads,New
+2024-10-08 00:00:00,Night,39.75,3,238.26,Basic,Website,New
+2024-08-19 00:00:00,Afternoon,43.34,3,39.36,Basic,Referral,Returning
+2024-08-05 00:00:00,Evening,45.67,2,137.88,Premium,Walk-in,Returning
+2024-03-19 00:00:00,Afternoon,16.52,2,42.52,Basic,Instagram,Returning
+2024-12-25 00:00:00,Evening,44.31,1,111.87,Premium,Google Ads,Returning
+2024-12-19 00:00:00,Afternoon,4.74,2,28.16,Premium,Website,New
+2024-12-13 00:00:00,Afternoon,19.7,3,145.45,Luxury,Website,Returning
+2024-11-03 00:00:00,Night,41.38,2,82.49,Luxury,Google Ads,Returning
+2024-04-06 00:00:00,Evening,31.13,1,119.89,Basic,Referral,Returning
+2024-07-15 00:00:00,Afternoon,2.55,3,249.49,Premium,Walk-in,New
+2024-10-26 00:00:00,Afternoon,19.45,2,262.4,Basic,Website,Returning
+2024-08-08 00:00:00,Morning,27.43,1,128.21,Premium,Google Ads,Returning
+2024-03-02 00:00:00,Morning,43.81,2,216.82,Premium,Google Ads,Returning
+2024-03-20 00:00:00,Morning,8.04,6,157.32,Basic,Referral,Returning
+2024-04-04 00:00:00,Afternoon,17.53,2,93.2,Basic,Walk-in,New
+2024-11-26 00:00:00,Evening,21.04,6,113.83,Basic,Instagram,Returning
+2024-10-08 00:00:00,Evening,19.5,4,64.48,Luxury,Walk-in,New
+2024-03-26 00:00:00,Morning,24.35,0,52.95,Luxury,Website,Returning
+2024-05-24 00:00:00,Evening,28.14,1,198.6,Premium,Google Ads,Returning
+2024-10-17 00:00:00,Morning,12.95,3,119.82,Luxury,Referral,New
+2024-06-16 00:00:00,Morning,10.86,1,94.31,Basic,Google Ads,New
+2024-07-25 00:00:00,Morning,31.8,2,171.58,Premium,Referral,New
+2024-12-02 00:00:00,Afternoon,19.17,2,281.74,Basic,Referral,Returning
+2024-08-24 00:00:00,Night,28.92,6,277.58,Basic,Website,Returning
+2024-10-03 00:00:00,Night,3.96,4,205.54,Luxury,Google Ads,Returning
+2024-08-16 00:00:00,Morning,2.71,1,286.4,Luxury,Google Ads,New
+2024-08-31 00:00:00,Afternoon,28.46,3,136.04,Luxury,Referral,Returning
+2024-09-03 00:00:00,Night,12.3,2,16.12,Luxury,Referral,Returning
+2024-12-18 00:00:00,Evening,30.08,1,54.57,Premium,Referral,New
+2024-04-05 00:00:00,Morning,3.68,4,113.94,Luxury,Referral,Returning
+2024-05-13 00:00:00,Night,20.9,3,63.18,Basic,Referral,Returning
+2024-04-14 00:00:00,Afternoon,3.96,1,258.56,Luxury,Website,Returning
+2024-08-07 00:00:00,Afternoon,18.44,0,24.41,Luxury,Google Ads,Returning
+2024-08-22 00:00:00,Evening,18.81,3,193.52,Premium,Instagram,New
+2024-09-02 00:00:00,Morning,41.13,4,73.14,Luxury,Google Ads,New
+2024-10-22 00:00:00,Night,16.19,3,213.22,Luxury,Instagram,Returning
+2024-01-26 00:00:00,Afternoon,5.21,0,236.68,Luxury,Instagram,Returning
+2024-09-17 00:00:00,Afternoon,25.93,3,106.24,Luxury,Instagram,Returning
+2024-08-18 00:00:00,Morning,40.01,4,53.92,Premium,Walk-in,New
+2024-11-28 00:00:00,Morning,5.48,2,37.98,Premium,Referral,New
+2024-03-28 00:00:00,Afternoon,46.21,3,237.13,Basic,Referral,New
+2024-06-05 00:00:00,Evening,31.98,3,172.29,Premium,Referral,New
+2024-12-09 00:00:00,Evening,29.09,3,62.26,Luxury,Website,Returning
+2024-04-20 00:00:00,Afternoon,41.34,6,159.61,Premium,Walk-in,New
+2024-10-13 00:00:00,Morning,19.99,0,172.73,Luxury,Walk-in,New
+2024-07-22 00:00:00,Night,35.16,1,117.78,Premium,Referral,Returning
+2024-10-01 00:00:00,Afternoon,39.57,1,276.54,Luxury,Website,New
+2024-06-04 00:00:00,Night,14.02,0,212.44,Luxury,Instagram,New
+2024-05-13 00:00:00,Evening,19.96,0,147.84,Luxury,Google Ads,New
+2024-06-17 00:00:00,Afternoon,23.18,2,219.7,Premium,Instagram,Returning
+2024-02-05 00:00:00,Night,13.31,1,193.44,Basic,Walk-in,Returning
+2024-12-26 00:00:00,Afternoon,0.85,0,88.85,Basic,Referral,New
+2024-10-12 00:00:00,Evening,16.87,2,291.79,Basic,Google Ads,Returning
+2024-05-03 00:00:00,Evening,25.62,1,150.14,Premium,Walk-in,New
+2024-03-11 00:00:00,Evening,18.75,6,200.09,Premium,Website,Returning
+2024-09-28 00:00:00,Night,0.88,1,104.96,Luxury,Walk-in,New
+2024-08-25 00:00:00,Morning,25.58,4,256.79,Basic,Referral,New
+2024-08-13 00:00:00,Afternoon,14.88,3,24.41,Luxury,Website,Returning
+2024-08-09 00:00:00,Afternoon,3.6,1,118.06,Premium,Instagram,New
+2024-05-10 00:00:00,Afternoon,34.04,1,134.79,Premium,Website,New
+2024-01-24 00:00:00,Afternoon,20.23,1,160.17,Premium,Referral,New
+2024-12-18 00:00:00,Night,26.78,5,27.55,Luxury,Google Ads,New
+2024-04-21 00:00:00,Evening,13.02,4,287.77,Premium,Referral,Returning
+2024-09-18 00:00:00,Evening,17.74,2,237.78,Basic,Referral,New
+2024-04-15 00:00:00,Night,22.37,1,117.36,Basic,Instagram,Returning
+2024-03-12 00:00:00,Morning,39.13,1,29.73,Basic,Instagram,New
+2024-09-18 00:00:00,Evening,38.57,2,269.47,Basic,Website,Returning
+2024-06-28 00:00:00,Afternoon,19.23,4,172.54,Luxury,Walk-in,New
+2024-04-09 00:00:00,Night,3.37,2,246.1,Premium,Instagram,Returning
+2024-03-08 00:00:00,Evening,44.21,2,59.09,Premium,Referral,Returning
+2024-04-10 00:00:00,Morning,26.68,1,165.36,Luxury,Referral,New
+2024-09-15 00:00:00,Night,47.5,4,27.48,Luxury,Referral,Returning
+2024-11-30 00:00:00,Night,0.25,4,81.21,Basic,Website,New
+2024-07-14 00:00:00,Morning,24.22,2,268.03,Basic,Website,New
+2024-05-22 00:00:00,Evening,13.82,1,246.05,Luxury,Google Ads,New
+2024-05-16 00:00:00,Afternoon,3.7,5,209.51,Basic,Referral,Returning
+2024-07-21 00:00:00,Morning,26.75,5,72.05,Basic,Instagram,Returning
+2024-08-07 00:00:00,Night,17.88,3,188.28,Luxury,Referral,Returning
+2024-12-24 00:00:00,Evening,16.1,3,46.39,Basic,Referral,New
+2024-02-11 00:00:00,Evening,19.65,2,184.32,Luxury,Website,New
+2024-02-09 00:00:00,Night,18.86,5,169.42,Luxury,Instagram,New
+2024-10-12 00:00:00,Morning,42.24,1,197.43,Premium,Walk-in,New
+2024-12-17 00:00:00,Night,32.41,3,18.32,Basic,Walk-in,New
+2024-03-02 00:00:00,Afternoon,34.04,0,170.65,Basic,Instagram,New
+2024-07-29 00:00:00,Evening,18.62,3,80.57,Luxury,Instagram,Returning
+2024-02-21 00:00:00,Evening,38.04,2,114.06,Luxury,Referral,Returning
+2024-07-17 00:00:00,Night,38.36,3,69.3,Basic,Walk-in,New
+2024-08-25 00:00:00,Night,16.61,2,246.19,Basic,Google Ads,New
+2024-09-14 00:00:00,Afternoon,17.18,1,86.25,Premium,Google Ads,New
+2024-01-02 00:00:00,Evening,6.39,1,122.69,Luxury,Instagram,Returning
+2024-12-23 00:00:00,Evening,30.51,0,243.85,Premium,Walk-in,Returning
+2024-01-05 00:00:00,Afternoon,11.99,0,92.72,Premium,Google Ads,Returning
+2024-08-08 00:00:00,Morning,44.03,1,66.6,Luxury,Walk-in,New
+2024-05-15 00:00:00,Morning,44.8,3,66.25,Basic,Website,Returning
+2024-05-17 00:00:00,Afternoon,9.61,3,286.2,Basic,Referral,New
+2024-03-08 00:00:00,Morning,14.18,0,193.8,Luxury,Instagram,New
+2024-02-08 00:00:00,Night,36.15,1,214.64,Premium,Referral,New
+2024-10-29 00:00:00,Night,40.02,2,49.91,Luxury,Website,New
+2024-09-30 00:00:00,Night,36.69,2,65.03,Luxury,Website,Returning
+2024-09-30 00:00:00,Night,29.04,3,13.62,Luxury,Instagram,New
+2024-08-11 00:00:00,Evening,35.58,3,233.16,Luxury,Instagram,Returning
+2024-03-12 00:00:00,Morning,0.83,1,47.94,Luxury,Referral,Returning
+2024-02-19 00:00:00,Morning,39.14,1,243.28,Premium,Website,New
+2024-07-08 00:00:00,Morning,16.49,2,14.74,Basic,Website,New
+2024-09-04 00:00:00,Afternoon,28.2,3,223.69,Luxury,Website,New
+2024-07-02 00:00:00,Night,14.65,4,78.16,Basic,Website,Returning
+2024-04-13 00:00:00,Morning,43.4,2,39.27,Premium,Instagram,New
+2024-03-27 00:00:00,Afternoon,12.48,2,167.25,Premium,Google Ads,Returning
+2024-02-10 00:00:00,Night,27.89,3,92.01,Basic,Instagram,Returning
+2024-03-18 00:00:00,Morning,33.03,1,175.07,Basic,Walk-in,Returning
+2024-10-03 00:00:00,Afternoon,7.24,1,34.84,Luxury,Google Ads,New
+2024-10-30 00:00:00,Afternoon,0.34,1,56.49,Luxury,Instagram,New
+2024-01-10 00:00:00,Evening,16.05,0,18.15,Basic,Instagram,New
+2024-07-07 00:00:00,Afternoon,3.32,4,250.57,Premium,Referral,Returning
+2024-09-04 00:00:00,Morning,31.83,2,85.91,Premium,Google Ads,New
+2024-07-08 00:00:00,Night,2.43,1,118.61,Basic,Instagram,New
+2024-04-12 00:00:00,Morning,16.13,4,69.95,Luxury,Google Ads,Returning
+2024-03-30 00:00:00,Afternoon,33.23,1,141.52,Premium,Referral,Returning
+2024-06-15 00:00:00,Afternoon,17.15,2,261.03,Luxury,Instagram,New
+2024-08-10 00:00:00,Night,45.34,5,72.99,Luxury,Website,Returning
+2024-11-28 00:00:00,Morning,15.17,0,157.42,Premium,Instagram,New
+2024-03-01 00:00:00,Night,4.89,2,258.26,Premium,Instagram,New
+2024-09-11 00:00:00,Night,35.32,4,11.58,Basic,Referral,New
+2024-11-12 00:00:00,Afternoon,46.23,1,286.39,Premium,Google Ads,Returning
+2024-07-08 00:00:00,Evening,30.39,1,224.97,Premium,Referral,Returning
+2024-03-08 00:00:00,Afternoon,22.28,2,236.56,Premium,Website,Returning
+2024-09-24 00:00:00,Evening,31.31,2,209.14,Basic,Instagram,Returning
+2024-10-21 00:00:00,Evening,5,0,51.64,Basic,Walk-in,Returning
+2024-04-03 00:00:00,Night,10.94,3,194.17,Basic,Walk-in,New
+2024-03-18 00:00:00,Morning,42.99,1,178.58,Premium,Instagram,Returning
+2024-07-10 00:00:00,Evening,48.56,0,75.82,Luxury,Walk-in,New
+2024-03-12 00:00:00,Night,28.71,0,143.27,Luxury,Referral,Returning
+2024-11-14 00:00:00,Morning,14.34,1,38.28,Basic,Walk-in,New
+2024-11-15 00:00:00,Afternoon,19.27,0,180.95,Premium,Google Ads,Returning
+2024-01-17 00:00:00,Evening,27.03,1,185.76,Basic,Instagram,New
+2024-08-08 00:00:00,Morning,26.51,1,23.53,Premium,Website,New
+2024-06-03 00:00:00,Night,9.22,2,58.29,Basic,Website,New
+2024-03-10 00:00:00,Evening,28.47,1,113.94,Premium,Website,Returning
+2024-01-22 00:00:00,Evening,20.92,1,272.2,Premium,Walk-in,Returning
+2024-11-01 00:00:00,Morning,32.82,0,40.7,Basic,Referral,Returning
+2024-06-17 00:00:00,Morning,17.28,3,165.19,Premium,Instagram,New
+2024-10-10 00:00:00,Afternoon,13.88,3,226.54,Basic,Instagram,Returning
+2024-01-27 00:00:00,Evening,28.19,1,45,Luxury,Walk-in,New
+2024-07-14 00:00:00,Morning,41.5,1,34.21,Basic,Google Ads,New
+2024-07-04 00:00:00,Morning,27.08,5,59.52,Basic,Website,Returning
+2024-11-28 00:00:00,Morning,36.08,2,90.18,Basic,Google Ads,Returning
+2024-09-28 00:00:00,Night,22.29,4,172.35,Basic,Instagram,New
+2024-02-18 00:00:00,Morning,34.77,1,221.13,Basic,Google Ads,New
+2024-04-24 00:00:00,Morning,16.95,2,195.43,Luxury,Website,Returning
+2024-09-05 00:00:00,Evening,5.62,1,133.42,Premium,Website,Returning
+2024-10-08 00:00:00,Night,7.82,5,271.33,Luxury,Walk-in,New
+2024-01-22 00:00:00,Afternoon,32.25,3,281.12,Premium,Website,New
+2024-03-11 00:00:00,Morning,21.35,1,203.14,Luxury,Instagram,Returning
+2024-07-26 00:00:00,Afternoon,27.98,0,239.4,Luxury,Google Ads,Returning
+2024-07-31 00:00:00,Morning,40.65,1,102.92,Basic,Instagram,New
+2024-08-16 00:00:00,Afternoon,42.08,3,211.01,Luxury,Google Ads,Returning
+2024-03-28 00:00:00,Night,32.53,4,256.18,Luxury,Walk-in,New
+2024-01-02 00:00:00,Afternoon,18.97,4,243.65,Basic,Website,Returning
+2024-11-21 00:00:00,Evening,12.12,3,183.4,Luxury,Referral,Returning
+2024-04-13 00:00:00,Morning,29.14,3,11.1,Premium,Instagram,Returning
+2024-05-31 00:00:00,Afternoon,33.41,3,117.46,Basic,Google Ads,New
+2024-05-06 00:00:00,Night,24.21,5,104.13,Luxury,Referral,New
+2024-07-06 00:00:00,Evening,11.6,2,98.96,Basic,Google Ads,Returning
+2024-05-07 00:00:00,Morning,5.5,0,63.35,Luxury,Google Ads,Returning
+2024-12-29 00:00:00,Afternoon,33.67,0,179.88,Basic,Instagram,New
+2024-04-09 00:00:00,Night,42.12,2,51.94,Luxury,Referral,Returning
+2024-12-25 00:00:00,Afternoon,35.72,1,251.89,Basic,Website,Returning
+2024-05-27 00:00:00,Morning,14.22,4,37.99,Luxury,Website,New
+2024-05-30 00:00:00,Afternoon,38.73,0,247.12,Basic,Website,New
+2024-10-22 00:00:00,Afternoon,20.07,0,65.2,Luxury,Instagram,New
+2024-10-01 00:00:00,Evening,1.4,2,263.37,Basic,Referral,New
+2024-11-14 00:00:00,Morning,48.6,3,201.01,Luxury,Google Ads,New
+2024-11-04 00:00:00,Night,0.01,1,29.68,Premium,Referral,New
+2024-09-10 00:00:00,Afternoon,34.65,3,202.76,Basic,Walk-in,New
+2024-11-17 00:00:00,Night,2.59,2,243.05,Luxury,Google Ads,New
+2024-04-26 00:00:00,Afternoon,18.15,2,86.12,Premium,Walk-in,Returning
+2024-04-03 00:00:00,Evening,37.42,3,260.55,Luxury,Referral,New
+2024-08-10 00:00:00,Evening,19.08,4,72.35,Premium,Referral,Returning
+2024-01-24 00:00:00,Afternoon,10.55,1,177.13,Luxury,Referral,New
+2024-07-08 00:00:00,Morning,18.58,1,46.09,Premium,Google Ads,New
+2024-05-09 00:00:00,Evening,0.8,1,232.19,Basic,Instagram,New
+2024-12-17 00:00:00,Afternoon,17.28,3,257.97,Basic,Referral,New
+2024-01-12 00:00:00,Night,36.37,4,262.79,Premium,Referral,New
+2024-04-19 00:00:00,Morning,22.7,3,182.8,Luxury,Google Ads,New
+2024-10-05 00:00:00,Afternoon,16.04,2,24.51,Premium,Website,Returning
+2024-02-27 00:00:00,Morning,15.3,2,99.62,Premium,Walk-in,New
+2024-02-06 00:00:00,Morning,10.77,2,247.79,Basic,Google Ads,New
+2024-04-17 00:00:00,Evening,7.61,2,164.26,Basic,Referral,New
+2024-07-07 00:00:00,Evening,32.72,4,78.63,Premium,Website,New
+2024-03-19 00:00:00,Night,3.89,0,204.58,Basic,Instagram,Returning
+2024-01-29 00:00:00,Night,18.65,4,75.06,Basic,Walk-in,Returning
+2024-02-09 00:00:00,Evening,6.92,0,33.72,Premium,Instagram,New
+2024-01-17 00:00:00,Night,35.97,2,35.41,Premium,Walk-in,Returning
+2024-06-14 00:00:00,Night,11.06,2,233.44,Basic,Referral,Returning
+2024-06-11 00:00:00,Afternoon,36.46,2,83.09,Luxury,Website,Returning
+2024-09-01 00:00:00,Evening,35.69,2,63.02,Premium,Google Ads,Returning
+2024-03-20 00:00:00,Morning,13.99,0,183.38,Luxury,Referral,Returning
+2024-05-21 00:00:00,Evening,5.94,1,216.04,Basic,Walk-in,Returning
+2024-03-21 00:00:00,Night,20.6,1,43.39,Basic,Website,New
+2024-09-22 00:00:00,Morning,30.92,2,39.62,Basic,Google Ads,New
+2024-11-27 00:00:00,Night,20.2,3,62.13,Premium,Referral,New
+2024-01-07 00:00:00,Morning,35.66,4,14.79,Basic,Referral,Returning
+2024-04-12 00:00:00,Morning,12.65,3,256.85,Luxury,Website,Returning
+2024-03-06 00:00:00,Night,15.59,1,223.32,Premium,Website,New
+2024-10-28 00:00:00,Evening,37.55,3,22.03,Basic,Walk-in,Returning
+2024-11-15 00:00:00,Morning,32.19,2,85.99,Premium,Walk-in,New
+2024-10-06 00:00:00,Evening,1.49,0,145.81,Luxury,Instagram,Returning
+2024-06-10 00:00:00,Afternoon,34.67,3,63.22,Premium,Instagram,New
+2024-08-06 00:00:00,Evening,49.53,2,229,Basic,Google Ads,Returning
+2024-05-09 00:00:00,Morning,5.48,2,209.56,Basic,Walk-in,New
+2024-10-27 00:00:00,Afternoon,6.17,4,296.18,Basic,Instagram,Returning
+2024-03-20 00:00:00,Evening,24.84,2,181.96,Luxury,Walk-in,Returning
+2024-11-10 00:00:00,Evening,12.06,3,245.17,Luxury,Instagram,New
+2024-09-30 00:00:00,Evening,11.77,1,88.46,Basic,Referral,Returning
+2024-10-22 00:00:00,Morning,24.81,2,65.31,Basic,Walk-in,Returning
+2024-07-28 00:00:00,Morning,38.53,2,105.97,Premium,Walk-in,Returning
+2024-08-06 00:00:00,Morning,6.58,3,119.77,Premium,Google Ads,New
+2024-05-11 00:00:00,Night,4.17,3,16.99,Premium,Walk-in,Returning
+2024-01-22 00:00:00,Night,33.02,2,299.56,Basic,Website,Returning
+2024-08-14 00:00:00,Morning,46.15,2,250.08,Luxury,Google Ads,Returning
+2024-07-09 00:00:00,Evening,5.15,1,45,Premium,Google Ads,New
+2024-09-19 00:00:00,Morning,8.31,2,116.07,Premium,Referral,New
+2024-01-31 00:00:00,Afternoon,36.5,1,60.04,Luxury,Walk-in,New
+2024-06-06 00:00:00,Evening,48.78,1,197.18,Basic,Instagram,Returning
+2024-04-06 00:00:00,Evening,39.92,3,228.88,Basic,Walk-in,New
+2024-11-25 00:00:00,Evening,5.55,3,225.54,Basic,Referral,New
+2024-08-11 00:00:00,Night,45.82,2,49.6,Premium,Instagram,New
+2024-07-24 00:00:00,Night,4.39,2,42.63,Premium,Walk-in,New
+2024-04-19 00:00:00,Afternoon,5.77,2,32.16,Premium,Website,New
+2024-01-08 00:00:00,Morning,22.15,3,134.82,Luxury,Google Ads,Returning
+2024-04-13 00:00:00,Morning,35.31,1,271.3,Premium,Instagram,New
+2024-02-18 00:00:00,Morning,26.49,5,226.34,Premium,Google Ads,New
+2024-03-14 00:00:00,Afternoon,1.41,3,204.54,Premium,Referral,Returning
+2024-07-01 00:00:00,Morning,16.15,2,68.97,Premium,Walk-in,New
+2024-05-21 00:00:00,Night,48.35,3,264.45,Basic,Referral,Returning
+2024-09-16 00:00:00,Night,15.31,1,168.88,Premium,Google Ads,Returning
+2024-07-15 00:00:00,Afternoon,37.82,0,119.95,Basic,Walk-in,Returning
+2024-04-22 00:00:00,Afternoon,26.68,1,163.66,Basic,Walk-in,Returning
+2024-06-09 00:00:00,Evening,20.32,3,278.84,Basic,Referral,Returning
+2024-09-23 00:00:00,Evening,13,3,197.43,Luxury,Referral,Returning
+2024-12-29 00:00:00,Morning,1,2,178.19,Basic,Referral,Returning
+2024-01-30 00:00:00,Afternoon,19.77,0,221.79,Premium,Referral,New
+2024-10-22 00:00:00,Evening,47.3,2,276.07,Basic,Walk-in,New
+2024-03-23 00:00:00,Morning,13.32,1,207.37,Premium,Instagram,New
+2024-08-10 00:00:00,Afternoon,47.37,0,246.39,Premium,Referral,Returning
+2024-05-15 00:00:00,Morning,47.6,3,93.37,Premium,Instagram,Returning
+2024-06-27 00:00:00,Morning,24.3,1,218.66,Premium,Walk-in,Returning
+2024-03-25 00:00:00,Evening,32.81,1,295.19,Premium,Walk-in,Returning
+2024-12-22 00:00:00,Morning,7.17,4,180.59,Luxury,Google Ads,New
+2024-05-12 00:00:00,Night,16.32,2,243.58,Luxury,Referral,Returning
+2024-09-03 00:00:00,Morning,35.6,0,68.32,Premium,Referral,New
+2024-05-13 00:00:00,Afternoon,21.11,2,92.35,Luxury,Website,Returning
+2024-10-07 00:00:00,Afternoon,15.53,0,103.3,Luxury,Google Ads,New
+2024-03-29 00:00:00,Afternoon,19.09,2,252.57,Premium,Google Ads,New
+2024-08-11 00:00:00,Morning,49.36,0,120.99,Premium,Website,New
+2024-03-10 00:00:00,Night,38.39,3,250.25,Basic,Referral,Returning
+2024-09-14 00:00:00,Morning,18.86,6,188.52,Premium,Instagram,Returning
+2024-06-19 00:00:00,Night,31.95,3,203.62,Basic,Google Ads,New
+2024-10-02 00:00:00,Afternoon,49.96,0,181.88,Premium,Google Ads,Returning
+2024-02-25 00:00:00,Morning,12.58,3,67.97,Luxury,Instagram,New
+2024-12-28 00:00:00,Morning,0.15,1,269.06,Premium,Walk-in,Returning
+2024-05-19 00:00:00,Afternoon,13.7,2,137.59,Luxury,Referral,Returning
+2024-02-01 00:00:00,Night,1.51,1,113.64,Basic,Website,New
+2024-06-19 00:00:00,Morning,7.26,2,144.45,Premium,Walk-in,Returning
+2024-09-30 00:00:00,Evening,37.99,1,280.33,Luxury,Referral,Returning
+2024-03-29 00:00:00,Night,8.01,2,215.62,Basic,Referral,New
+2024-12-23 00:00:00,Evening,43.61,2,166.42,Basic,Referral,Returning
+2024-11-23 00:00:00,Night,38.17,3,220.03,Luxury,Website,Returning
+2024-09-19 00:00:00,Evening,20.37,2,265.49,Premium,Referral,Returning
+2024-10-25 00:00:00,Afternoon,47.81,2,227.45,Premium,Referral,New
+2024-08-25 00:00:00,Night,4.95,1,196.32,Luxury,Walk-in,New
+2024-05-18 00:00:00,Night,28.19,3,64.36,Basic,Website,Returning
+2024-09-06 00:00:00,Evening,9.12,3,257.27,Basic,Website,Returning
+2024-05-11 00:00:00,Morning,24.99,1,127.88,Luxury,Website,New
+2024-04-18 00:00:00,Evening,7.95,2,24.38,Luxury,Walk-in,New
+2024-08-09 00:00:00,Afternoon,38.62,2,287.89,Luxury,Website,New
+2024-11-20 00:00:00,Night,44.07,1,213.26,Premium,Walk-in,New
+2024-10-28 00:00:00,Night,3.91,0,152.54,Luxury,Google Ads,New
+2024-12-09 00:00:00,Night,24.39,3,217.62,Luxury,Instagram,New
+2024-03-09 00:00:00,Afternoon,20.05,3,148.59,Luxury,Walk-in,Returning
+2024-11-07 00:00:00,Evening,31.84,4,118.31,Luxury,Website,New
+2024-09-21 00:00:00,Evening,25.93,0,66.5,Premium,Website,Returning
+2024-02-22 00:00:00,Afternoon,20.25,0,256.34,Basic,Walk-in,Returning
+2024-03-07 00:00:00,Morning,31.54,4,32.44,Luxury,Website,New
+2024-10-13 00:00:00,Evening,6,2,81.45,Premium,Instagram,Returning
+2024-02-12 00:00:00,Afternoon,19.95,1,192.24,Premium,Referral,New
+2024-05-03 00:00:00,Night,12.02,4,127.68,Premium,Instagram,Returning
+2024-10-24 00:00:00,Night,39.94,2,83.29,Basic,Instagram,Returning
+2024-05-24 00:00:00,Afternoon,32.35,3,119.19,Premium,Walk-in,New
+2024-02-18 00:00:00,Evening,26.43,0,110.58,Luxury,Walk-in,Returning
+2024-09-18 00:00:00,Night,42.18,2,254.63,Premium,Instagram,New
+2024-02-17 00:00:00,Morning,19.22,5,217.29,Basic,Walk-in,New
+2024-07-17 00:00:00,Morning,28.31,2,190.44,Basic,Google Ads,Returning
+2024-07-30 00:00:00,Morning,11.23,2,65.71,Basic,Google Ads,Returning
+2024-11-26 00:00:00,Afternoon,29.03,5,159.86,Basic,Website,New
+2024-11-13 00:00:00,Evening,8.47,0,256.81,Premium,Instagram,New
+2024-01-21 00:00:00,Afternoon,5.84,4,36.2,Luxury,Website,New
+2024-06-04 00:00:00,Morning,33.93,3,224.58,Premium,Google Ads,New
+2024-07-23 00:00:00,Afternoon,16.72,4,104.06,Luxury,Referral,Returning
+2024-10-16 00:00:00,Afternoon,26.69,1,27.85,Luxury,Google Ads,New
+2024-11-01 00:00:00,Morning,15.73,2,14.14,Premium,Referral,Returning
+2024-12-18 00:00:00,Night,35.38,2,124.93,Premium,Google Ads,New
+2024-10-11 00:00:00,Morning,23.3,3,100.51,Premium,Google Ads,Returning
+2024-08-06 00:00:00,Evening,13.05,2,50.37,Luxury,Walk-in,Returning
+2024-11-16 00:00:00,Morning,49.9,4,97.49,Luxury,Instagram,Returning
+2024-07-22 00:00:00,Morning,36.66,5,35.13,Premium,Instagram,Returning
+2024-08-24 00:00:00,Morning,21.42,1,114.43,Luxury,Google Ads,New
+2024-11-11 00:00:00,Afternoon,18.34,2,141.86,Luxury,Referral,Returning
+2024-11-19 00:00:00,Evening,40.7,3,217.98,Luxury,Instagram,Returning
+2024-02-06 00:00:00,Afternoon,27.43,2,74.03,Basic,Google Ads,New
+2024-02-19 00:00:00,Morning,7.29,3,128.54,Premium,Website,Returning
+2024-04-24 00:00:00,Afternoon,17.43,4,105.41,Premium,Referral,New
+2024-03-04 00:00:00,Evening,49.62,4,290.27,Luxury,Google Ads,New
+2024-02-18 00:00:00,Morning,31.44,2,141.19,Premium,Instagram,Returning
+2024-10-14 00:00:00,Evening,48.1,1,101.67,Basic,Referral,New
+2024-05-15 00:00:00,Morning,39.1,2,173.22,Premium,Referral,New
+2024-01-31 00:00:00,Morning,0.46,0,180.12,Premium,Instagram,New
+2024-06-12 00:00:00,Evening,29.94,2,74.68,Premium,Referral,New
+2024-10-26 00:00:00,Night,35.09,5,282.04,Basic,Walk-in,Returning
+2024-06-27 00:00:00,Afternoon,28.76,0,291.44,Luxury,Google Ads,Returning
+2024-04-06 00:00:00,Evening,14.15,0,220.98,Luxury,Website,Returning
+2024-11-24 00:00:00,Afternoon,36.34,1,202.91,Luxury,Walk-in,Returning
+2024-02-07 00:00:00,Night,24.81,1,91.48,Luxury,Google Ads,New
+2024-11-14 00:00:00,Night,43.61,0,103.01,Premium,Website,Returning
+2024-02-28 00:00:00,Night,26.89,3,117.11,Premium,Website,Returning
+2024-12-03 00:00:00,Evening,48.92,2,103.22,Luxury,Referral,Returning
+2024-08-08 00:00:00,Afternoon,25.43,0,128.35,Premium,Website,New
+2024-06-10 00:00:00,Afternoon,15.96,2,248.21,Premium,Website,Returning
+2024-07-11 00:00:00,Night,13.11,0,42.32,Luxury,Website,Returning
+2024-03-03 00:00:00,Afternoon,33.59,2,52.46,Premium,Referral,Returning
+2024-10-21 00:00:00,Evening,34.71,3,58.25,Premium,Instagram,New
+2024-08-11 00:00:00,Morning,42.7,2,184.17,Luxury,Instagram,Returning
+2024-07-06 00:00:00,Evening,23.96,1,258.56,Basic,Google Ads,New
+2024-10-30 00:00:00,Evening,48.7,1,253.74,Basic,Referral,Returning
+2024-07-26 00:00:00,Evening,38.73,0,236.06,Premium,Walk-in,New
+2024-12-14 00:00:00,Afternoon,40.66,1,21.04,Premium,Instagram,Returning
+2024-02-25 00:00:00,Morning,12.63,3,256.86,Luxury,Walk-in,New
+2024-04-25 00:00:00,Night,24.42,0,208.65,Basic,Google Ads,Returning
+2024-02-09 00:00:00,Morning,27.01,3,91.99,Luxury,Instagram,New
+2024-08-27 00:00:00,Evening,6.32,0,25.83,Basic,Walk-in,Returning
+2024-12-03 00:00:00,Afternoon,32.9,2,139.71,Luxury,Referral,Returning
+2024-12-27 00:00:00,Evening,21.25,4,237.78,Premium,Walk-in,New
+2024-03-18 00:00:00,Night,21.5,4,51.13,Basic,Website,Returning
+2024-09-25 00:00:00,Night,44.78,2,289.45,Premium,Walk-in,Returning
+2024-04-25 00:00:00,Morning,45.52,2,246.46,Premium,Instagram,Returning
+2024-10-19 00:00:00,Night,37.08,0,258.18,Luxury,Instagram,Returning
+2024-05-18 00:00:00,Night,32.65,3,196.81,Premium,Google Ads,Returning
+2024-02-09 00:00:00,Morning,36.29,5,136.55,Basic,Walk-in,Returning
+2024-04-06 00:00:00,Evening,17.85,0,100.8,Basic,Website,Returning
+2024-04-23 00:00:00,Night,25.56,4,89.24,Basic,Website,New
+2024-02-08 00:00:00,Morning,36.52,3,215.35,Luxury,Google Ads,New
+2024-08-27 00:00:00,Morning,42.51,1,58.58,Premium,Website,Returning
+2024-10-15 00:00:00,Evening,3.3,2,13.77,Basic,Referral,New
+2024-12-20 00:00:00,Night,44.67,2,221.05,Basic,Google Ads,Returning
+2024-05-07 00:00:00,Evening,34.96,3,130.99,Basic,Website,New
+2024-07-08 00:00:00,Morning,37.82,5,205.21,Basic,Instagram,Returning
+2024-08-11 00:00:00,Morning,1.99,1,47.79,Luxury,Instagram,Returning
+2024-10-31 00:00:00,Evening,19.04,3,265.29,Luxury,Referral,New
+2024-09-20 00:00:00,Afternoon,46.26,3,53.97,Luxury,Instagram,New
+2024-10-04 00:00:00,Night,11.63,3,172.28,Luxury,Walk-in,New
+2024-01-12 00:00:00,Evening,35.2,1,146.01,Luxury,Google Ads,Returning
+2024-05-14 00:00:00,Evening,21.28,0,171.96,Basic,Walk-in,New
+2024-07-23 00:00:00,Morning,23.91,2,112.83,Luxury,Website,New
+2024-04-18 00:00:00,Afternoon,27.45,4,292.38,Luxury,Referral,New
+2024-03-15 00:00:00,Night,1.31,2,245.74,Premium,Walk-in,New
+2024-12-17 00:00:00,Night,38.54,1,138.05,Premium,Instagram,Returning
+2024-04-24 00:00:00,Evening,27.76,1,109.79,Basic,Website,Returning
+2024-06-12 00:00:00,Evening,5.74,1,48.96,Luxury,Website,New
+2024-09-13 00:00:00,Evening,24.42,3,120.49,Premium,Walk-in,New
+2024-08-11 00:00:00,Evening,9.85,1,124.4,Basic,Referral,New
+2024-03-23 00:00:00,Evening,44.54,0,242.4,Basic,Walk-in,New
+2024-04-30 00:00:00,Morning,13.75,2,117.55,Basic,Instagram,New
+2024-12-30 00:00:00,Afternoon,11.48,0,152.04,Basic,Instagram,New
+2024-05-18 00:00:00,Morning,7.54,2,42.14,Premium,Google Ads,Returning
+2024-05-31 00:00:00,Night,33.21,3,279.52,Luxury,Walk-in,Returning
+2024-07-01 00:00:00,Night,1.16,0,278.24,Premium,Walk-in,Returning
+2024-05-10 00:00:00,Afternoon,40.43,1,195.01,Luxury,Walk-in,Returning
+2024-06-16 00:00:00,Night,18.26,3,198.37,Luxury,Walk-in,New
+2024-08-15 00:00:00,Evening,20.24,3,114.78,Premium,Google Ads,New
+2024-12-26 00:00:00,Night,48.55,1,72.74,Premium,Walk-in,Returning
+2024-01-10 00:00:00,Morning,18.74,3,204.74,Premium,Referral,New
+2024-04-01 00:00:00,Night,24.37,1,207.59,Basic,Instagram,New
+2024-04-14 00:00:00,Night,27.9,1,122.14,Basic,Google Ads,Returning
+2024-11-26 00:00:00,Night,10.6,0,68.26,Premium,Google Ads,New
+2024-07-09 00:00:00,Night,25.5,3,166.34,Premium,Walk-in,Returning
+2024-03-04 00:00:00,Night,38.87,4,78.37,Basic,Referral,Returning
+2024-05-22 00:00:00,Night,49.67,1,126.91,Premium,Instagram,Returning
+2024-05-17 00:00:00,Evening,1.68,2,199.25,Premium,Walk-in,Returning
+2024-04-11 00:00:00,Afternoon,3.34,2,122.05,Premium,Instagram,Returning
+2024-10-22 00:00:00,Morning,47.85,3,89.99,Basic,Website,Returning
+2024-05-08 00:00:00,Afternoon,27.97,1,55.98,Basic,Website,New
+2024-08-24 00:00:00,Night,43.24,5,72.57,Basic,Walk-in,Returning
+2024-12-20 00:00:00,Afternoon,34.47,1,266.4,Basic,Instagram,Returning
+2024-04-14 00:00:00,Evening,39.14,5,122.74,Luxury,Instagram,Returning
+2024-12-09 00:00:00,Afternoon,28.18,1,276.39,Premium,Walk-in,Returning
+2024-03-03 00:00:00,Afternoon,25.66,0,167.13,Luxury,Walk-in,New
+2024-03-05 00:00:00,Afternoon,31.96,0,246.3,Luxury,Instagram,Returning
+2024-02-20 00:00:00,Evening,9.51,2,241.81,Premium,Walk-in,Returning
+2024-01-15 00:00:00,Afternoon,29.91,4,233.84,Premium,Google Ads,Returning
+2024-07-16 00:00:00,Afternoon,11.99,3,42.5,Basic,Instagram,New
+2024-10-31 00:00:00,Morning,4.98,3,241.63,Premium,Website,New
+2024-11-23 00:00:00,Afternoon,18.08,3,32.12,Basic,Google Ads,New
+2024-02-26 00:00:00,Night,46.07,1,171.27,Luxury,Walk-in,Returning
+2024-05-15 00:00:00,Evening,33.81,3,256.71,Basic,Referral,Returning
+2024-04-22 00:00:00,Evening,39.3,0,34.54,Basic,Google Ads,New
+2024-02-23 00:00:00,Evening,18.77,1,76.16,Luxury,Walk-in,New
+2024-02-05 00:00:00,Evening,31.84,1,12.95,Basic,Referral,New
+2024-12-30 00:00:00,Morning,0.24,1,222.34,Basic,Website,Returning
+2024-12-28 00:00:00,Evening,44.18,2,13.21,Basic,Referral,New
+2024-12-25 00:00:00,Afternoon,27.97,4,198.75,Basic,Walk-in,New
+2024-02-24 00:00:00,Evening,36.41,1,38.19,Luxury,Instagram,New
+2024-09-29 00:00:00,Morning,37.54,4,277.91,Basic,Walk-in,Returning
+2024-04-01 00:00:00,Afternoon,14.15,0,237.86,Basic,Referral,Returning
+2024-11-11 00:00:00,Afternoon,36.72,1,76.42,Basic,Instagram,New
+2024-10-13 00:00:00,Evening,6.12,4,274.74,Luxury,Instagram,New
+2024-01-12 00:00:00,Evening,21.68,3,206.3,Premium,Instagram,Returning
+2024-02-13 00:00:00,Evening,48.89,2,225.72,Luxury,Instagram,Returning
+2024-12-27 00:00:00,Afternoon,24.61,2,152.5,Basic,Referral,New
+2024-09-13 00:00:00,Afternoon,16.9,1,145.1,Basic,Referral,New
+2024-07-28 00:00:00,Afternoon,24.24,1,36.03,Basic,Google Ads,New
+2024-07-25 00:00:00,Night,47.6,2,195.12,Luxury,Walk-in,New
+2024-09-22 00:00:00,Morning,35.88,1,237.11,Luxury,Walk-in,Returning
+2024-04-14 00:00:00,Evening,39.73,3,271.57,Luxury,Instagram,Returning
+2024-08-03 00:00:00,Morning,44.96,0,10.33,Luxury,Website,New
+2024-06-15 00:00:00,Afternoon,7.92,1,42.68,Basic,Walk-in,Returning
+2024-10-21 00:00:00,Night,4.92,0,10.43,Premium,Walk-in,Returning
+2024-10-02 00:00:00,Evening,47.01,1,107.44,Luxury,Website,New
+2024-05-01 00:00:00,Morning,25.34,3,212.45,Premium,Instagram,New
+2024-10-16 00:00:00,Afternoon,40.04,5,87.73,Luxury,Google Ads,Returning
+2024-09-25 00:00:00,Afternoon,12.07,4,147.94,Luxury,Walk-in,New
+2024-02-28 00:00:00,Afternoon,37.94,5,197.73,Basic,Referral,Returning
+2024-11-07 00:00:00,Morning,12.99,1,13.27,Luxury,Website,Returning
+2024-11-05 00:00:00,Afternoon,10.57,2,94.59,Luxury,Walk-in,Returning
+2024-12-25 00:00:00,Evening,34.7,1,129.04,Basic,Instagram,New
+2024-08-28 00:00:00,Morning,47.13,2,108.83,Basic,Website,Returning
+2024-12-13 00:00:00,Afternoon,10.49,5,223.12,Premium,Walk-in,Returning
+2024-04-13 00:00:00,Morning,20.44,3,162.54,Basic,Instagram,Returning
+2024-10-17 00:00:00,Morning,24.38,2,132.71,Basic,Referral,Returning
+2024-03-17 00:00:00,Morning,10.13,4,293.41,Premium,Walk-in,New
+2024-02-18 00:00:00,Evening,22.29,0,228.46,Premium,Referral,New
+2024-11-25 00:00:00,Afternoon,46.75,0,57.15,Luxury,Website,New
+2024-03-15 00:00:00,Evening,2.78,0,142.38,Luxury,Website,Returning
+2024-11-22 00:00:00,Evening,31.24,0,11.32,Basic,Referral,Returning
+2024-02-18 00:00:00,Evening,47.02,6,13.85,Basic,Walk-in,Returning
+2024-03-04 00:00:00,Afternoon,14.22,6,55.55,Luxury,Google Ads,New
+2024-04-03 00:00:00,Night,17.6,2,48.59,Premium,Google Ads,Returning
+2024-03-08 00:00:00,Afternoon,35.08,3,176.45,Basic,Website,New
+2024-09-13 00:00:00,Afternoon,10.51,5,15.6,Premium,Instagram,Returning
+2024-11-20 00:00:00,Evening,47.81,1,173.3,Premium,Walk-in,New
+2024-07-23 00:00:00,Morning,24.02,1,215.49,Basic,Walk-in,New
+2024-04-18 00:00:00,Night,30.25,3,214.34,Luxury,Walk-in,Returning
+2024-03-02 00:00:00,Evening,21.33,1,202.62,Premium,Referral,New
+2024-05-30 00:00:00,Afternoon,37.3,5,260.44,Basic,Google Ads,Returning
+2024-10-27 00:00:00,Afternoon,35.57,2,181.55,Premium,Referral,New
+2024-05-22 00:00:00,Night,35.78,2,97.34,Basic,Instagram,Returning
+2024-06-28 00:00:00,Evening,33.71,3,263.8,Luxury,Website,New
+2024-10-31 00:00:00,Night,2.33,3,240.08,Basic,Google Ads,Returning
+2024-12-13 00:00:00,Evening,43.48,0,132.49,Basic,Referral,Returning
+2024-02-11 00:00:00,Afternoon,25.19,0,46.37,Basic,Walk-in,Returning
+2024-06-26 00:00:00,Evening,41.34,2,83.09,Premium,Instagram,New
+2024-07-17 00:00:00,Morning,23.08,0,80.04,Luxury,Referral,Returning
+2024-08-17 00:00:00,Evening,0.81,4,26.93,Basic,Walk-in,New
+2024-03-03 00:00:00,Morning,41.36,2,137.19,Premium,Referral,Returning
+2024-10-20 00:00:00,Evening,48.08,1,109.91,Luxury,Walk-in,New
+2024-09-12 00:00:00,Afternoon,49.22,4,274.92,Basic,Referral,New
+2024-07-04 00:00:00,Night,30.8,4,72.4,Luxury,Google Ads,New
+2024-07-17 00:00:00,Night,38.72,1,159.17,Premium,Walk-in,Returning
+2024-08-09 00:00:00,Afternoon,44.45,6,289.07,Basic,Referral,Returning
+2024-01-29 00:00:00,Morning,7.12,3,45.59,Luxury,Instagram,Returning
+2024-07-26 00:00:00,Night,30.94,1,63.3,Basic,Referral,Returning
+2024-12-15 00:00:00,Afternoon,25.04,0,254.52,Premium,Website,Returning
+2024-11-20 00:00:00,Morning,14.24,3,297.29,Luxury,Referral,New
+2024-04-04 00:00:00,Afternoon,34.63,3,20.3,Premium,Instagram,Returning
+2024-02-09 00:00:00,Evening,4.01,0,168.7,Luxury,Google Ads,New
+2024-01-02 00:00:00,Evening,18.59,2,156.94,Luxury,Website,New
+2024-10-31 00:00:00,Afternoon,39.14,1,124.07,Luxury,Google Ads,New
+2024-09-30 00:00:00,Afternoon,7.43,3,63.07,Premium,Walk-in,Returning
+2024-01-10 00:00:00,Morning,16.15,2,189.27,Luxury,Google Ads,New
+2024-01-20 00:00:00,Night,7.69,6,62.92,Luxury,Walk-in,Returning
+2024-06-11 00:00:00,Afternoon,12.36,2,219.79,Premium,Website,Returning
