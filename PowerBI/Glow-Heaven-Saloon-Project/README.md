@@ -21,7 +21,7 @@ This project was delivered as part of a freelance engagement for a beauty salon 
 * Returning customers contribute significantly to total revenue
 * Referral and Walk-in channels show strong performance
 
-  ![Glow-Haven-Saloon-Project](images/Dashboard.png)
+  ![Glow-Heaven-Saloon-Project](images/Dashboard.png)
 
 ## 📈 Dashboard Features
 
