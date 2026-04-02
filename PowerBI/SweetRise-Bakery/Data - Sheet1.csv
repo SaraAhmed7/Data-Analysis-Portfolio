@@ -1,0 +1,2001 @@
+Date,Time of Day,Channel,Revenue,Average Order Size,Conversions,Customer Type,Sales Rep,Business
+2023-04-12,Evening,Google Ads,95.35,22.15,6,Returning,Brianna Ryan,Heritage Bakes
+2023-08-15,Morning,Walk-in,461.11,108.8,7,New,Emily Smith,Heritage Bakes
+2023-09-07,Morning,Walk-in,387.53,103.49,4,Returning,Michelle Howard,Heritage Bakes
+2023-02-25,Afternoon,Email,355.7,94.37,31,Returning,William Austin,Heritage Bakes
+2023-09-18,Evening,Walk-in,475.37,103.78,6,Returning,Monica Oconnor,Heritage Bakes
+2023-09-13,Evening,Instagram,12.27,4.65,0,Returning,Kyle Blake,Heritage Bakes
+2023-03-24,Afternoon,Facebook,387.25,178.14,13,Returning,Christopher Banks,Heritage Bakes
+2023-08-04,Evening,Referral,470.69,99.9,9,New,Bryan Davis DVM,Heritage Bakes
+2023-09-02,Evening,Google Ads,454.63,128.8,4,Returning,Tiffany Hughes,Heritage Bakes
+2023-03-05,Night,Walk-in,217.17,59.47,12,Returning,Michael Taylor,Heritage Bakes
+2023-12-11,Night,Referral,18.53,4.36,0,Returning,Brendan Kelly,Heritage Bakes
+2023-05-27,Afternoon,Referral,326.4,110.84,13,New,Sherry Porter,Heritage Bakes
+2023-08-20,Evening,Instagram,336.61,214.99,12,Returning,James Perez,Heritage Bakes
+2023-04-01,Night,Walk-in,478.9,225.64,6,New,Miss Gina Walton,Heritage Bakes
+2023-02-18,Afternoon,Instagram,127.84,84.38,1,New,Alicia Obrien,Heritage Bakes
+2023-04-15,Morning,Walk-in,328.34,112.71,19,Returning,Mrs. Jacqueline Jackson,Heritage Bakes
+2023-03-05,Morning,Facebook,209.25,57.47,5,Returning,Kendra Smith,Heritage Bakes
+2023-05-05,Night,Google Ads,86.38,19.17,1,Returning,Alexander Stein,Heritage Bakes
+2023-11-24,Afternoon,Referral,394.99,176.83,5,New,Shannon Sosa,Heritage Bakes
+2023-11-24,Morning,Facebook,202.89,47.39,4,New,Marc White,Heritage Bakes
+2023-01-23,Night,Email,242.22,50.33,3,New,Gregory Wiggins,Heritage Bakes
+2023-10-07,Afternoon,Facebook,485.06,147.62,5,Returning,Linda Berry,Heritage Bakes
+2023-12-23,Night,Instagram,385.83,138.85,7,Returning,Michelle Hobbs,Heritage Bakes
+2023-09-03,Afternoon,Email,127.89,76.66,5,New,Charles Fuentes,Heritage Bakes
+2023-02-09,Evening,Google Ads,481.86,196.01,32,Returning,Andrew Medina,Heritage Bakes
+2023-08-18,Afternoon,Walk-in,229.41,93.73,5,Returning,Teresa Aguirre,Heritage Bakes
+2023-10-07,Evening,Instagram,344.49,215.59,8,New,Eddie Bailey,Heritage Bakes
+2023-03-22,Evening,Walk-in,234.42,49.19,5,Returning,Joseph Mccullough,Heritage Bakes
+2023-09-01,Night,Referral,100.55,41.68,1,New,Mr. Zachary Mora DVM,Heritage Bakes
+2023-10-10,Morning,Google Ads,426.22,130.56,7,New,Kimberly Price,Heritage Bakes
+2023-07-17,Evening,Google Ads,319.31,68.39,23,Returning,Bruce Spencer,Heritage Bakes
+2023-08-15,Morning,Email,415.14,177.41,7,Returning,Jacob Allen,Heritage Bakes
+2023-03-04,Night,Google Ads,68.83,14.38,1,Returning,Chelsea Powell,Heritage Bakes
+2023-04-20,Afternoon,Instagram,363.76,132.8,9,Returning,Thomas Morse,Heritage Bakes
+2023-12-11,Morning,Google Ads,399.74,117.94,9,Returning,Susan Zimmerman,Heritage Bakes
+2023-06-15,Evening,Google Ads,211.74,150.31,3,New,Annette Meyer,Heritage Bakes
+2023-11-27,Morning,Google Ads,420.29,390.04,4,Returning,Erica Rose,Heritage Bakes
+2023-03-20,Night,Referral,285.37,171.7,6,Returning,Kim Long,Heritage Bakes
+2023-03-29,Afternoon,Email,85.12,19.65,1,New,Christina Flores,Heritage Bakes
+2023-03-19,Afternoon,Email,388.11,128.32,7,Returning,Craig Raymond,Heritage Bakes
+2023-11-04,Afternoon,Facebook,403.29,88.74,5,Returning,Jeffrey Miller,Heritage Bakes
+2023-07-20,Morning,Email,441.69,108.94,4,Returning,Brian Hoffman,Heritage Bakes
+2023-10-29,Morning,Instagram,447.36,202.19,15,Returning,Elizabeth Gay,Heritage Bakes
+2023-10-06,Morning,Walk-in,354.31,71.16,3,Returning,Patricia Hale,Heritage Bakes
+2023-05-30,Night,Referral,305.33,92.8,6,New,Amanda Arroyo,Heritage Bakes
+2023-08-05,Afternoon,Walk-in,491.22,198.43,8,Returning,Kevin Mccullough,Heritage Bakes
+2023-03-31,Afternoon,Email,463.94,139.22,8,Returning,Margaret Stevenson,Heritage Bakes
+2023-06-02,Evening,Email,447.52,121.83,40,Returning,Amber Turner,Heritage Bakes
+2023-04-11,Morning,Instagram,170.53,73.54,12,New,Victor Williams,Heritage Bakes
+2023-12-19,Night,Email,363.78,141.98,17,New,Shelly Rodgers,Heritage Bakes
+2023-10-06,Night,Facebook,370.91,180,7,Returning,Cassandra Wood,Heritage Bakes
+2023-10-20,Afternoon,Walk-in,491.14,348.16,15,Returning,Susan Garcia,Heritage Bakes
+2023-03-02,Afternoon,Walk-in,421.87,276.48,8,New,Stephanie Joseph,Heritage Bakes
+2023-03-26,Evening,Facebook,41.55,12.1,0,New,Dalton Clark,Heritage Bakes
+2023-03-12,Night,Referral,45.14,14.39,0,New,Alexis Weeks,Heritage Bakes
+2023-12-05,Evening,Facebook,160.56,139.61,1,New,Michael Glass,Heritage Bakes
+2023-09-06,Evening,Facebook,219.76,95.37,9,Returning,David Cervantes,Heritage Bakes
+2023-06-29,Afternoon,Referral,402.56,352.6,6,Returning,Victoria Benitez,Heritage Bakes
+2023-01-07,Afternoon,Instagram,306.67,69.73,19,New,Jacqueline Monroe,Heritage Bakes
+2023-05-10,Afternoon,Walk-in,432.18,90.05,6,New,Charles Sanchez,Heritage Bakes
+2023-09-28,Night,Google Ads,489.93,177.06,5,New,Sonia Henderson,Heritage Bakes
+2023-02-11,Night,Facebook,10,5.79,0,New,Sharon Sims,Heritage Bakes
+2023-07-22,Night,Walk-in,350.2,162.11,21,New,Shawn Doyle,Heritage Bakes
+2023-07-28,Night,Facebook,425.35,172.85,4,Returning,Michael Perry,Heritage Bakes
+2023-12-17,Night,Walk-in,310.31,206,18,Returning,Donald Santana,Heritage Bakes
+2023-02-13,Morning,Facebook,485.51,100.73,7,Returning,Katherine Greene,Heritage Bakes
+2023-09-06,Evening,Email,334.83,120.9,3,Returning,Jennifer Dominguez,Heritage Bakes
+2023-12-09,Afternoon,Walk-in,271.65,58.15,4,New,Matthew Walker,Heritage Bakes
+2023-06-06,Morning,Facebook,299.77,62.02,10,Returning,Ashley Barrera,Heritage Bakes
+2023-04-01,Night,Referral,489.18,113.48,17,Returning,Clifford Murphy DVM,Heritage Bakes
+2023-05-15,Afternoon,Google Ads,125.9,48.06,1,New,Michael Arias,Heritage Bakes
+2023-09-20,Evening,Google Ads,390.19,135.7,6,New,Joshua Mitchell,Heritage Bakes
+2023-02-23,Morning,Referral,217.56,59.03,7,New,Ashley Wilson,Heritage Bakes
+2023-05-12,Night,Referral,140.48,32.59,1,New,Stacey Clements,Heritage Bakes
+2023-09-19,Morning,Instagram,64.29,15.17,2,Returning,Kathleen Martinez,Heritage Bakes
+2023-09-02,Morning,Instagram,160.83,116.09,2,Returning,Julie Rodriguez MD,Heritage Bakes
+2023-11-25,Night,Instagram,299,62.8,7,New,Cathy Farmer,Heritage Bakes
+2023-02-26,Evening,Walk-in,458.73,95.34,16,New,Dana Gilbert,Heritage Bakes
+2023-07-13,Evening,Walk-in,468.35,176.98,15,Returning,Charles Harper,Heritage Bakes
+2023-10-24,Night,Instagram,468.4,222.01,33,Returning,Timothy Wang,Heritage Bakes
+2023-09-13,Night,Walk-in,416.36,101.51,25,Returning,Daniel Stewart,Heritage Bakes
+2023-01-10,Afternoon,Facebook,96.54,26.31,2,Returning,Tiffany Peterson,Heritage Bakes
+2023-05-07,Night,Instagram,406.88,99.76,7,New,Tammy Bell,Heritage Bakes
+2023-01-14,Morning,Email,463.97,114.12,5,Returning,Mathew Myers,Heritage Bakes
+2023-08-15,Night,Instagram,392.11,120.76,9,New,Edgar Brown,Heritage Bakes
+2023-04-24,Morning,Email,249.11,87.3,2,New,Cory Barrett,Heritage Bakes
+2023-11-22,Evening,Email,200.14,68.81,7,Returning,Seth Jones,Heritage Bakes
+2023-03-17,Night,Referral,177.34,40.13,8,Returning,Joseph Hawkins,Heritage Bakes
+2023-08-10,Night,Walk-in,174.49,36.99,1,New,Victor Brown,Heritage Bakes
+2023-11-14,Morning,Email,214.21,155.37,3,Returning,Jennifer Ferguson,Heritage Bakes
+2023-03-02,Afternoon,Google Ads,209.73,46.3,2,Returning,Carolyn Cantu,Heritage Bakes
+2023-07-09,Evening,Referral,98.79,24.5,1,Returning,Charles Garcia,Heritage Bakes
+2023-01-24,Morning,Instagram,249.21,98.31,3,Returning,James Hart,Heritage Bakes
+2023-08-05,Evening,Google Ads,376.12,146.86,5,Returning,Patricia Wilson,Heritage Bakes
+2023-01-18,Night,Facebook,489.29,135.39,5,New,Mark Elliott,Heritage Bakes
+2023-02-05,Morning,Referral,366.79,102.91,3,Returning,Matthew Bartlett,Heritage Bakes
+2023-10-21,Afternoon,Referral,375.82,350.5,20,New,Maria Campbell,Heritage Bakes
+2023-08-29,Morning,Referral,320.74,172.9,6,New,Joanna Adkins,Heritage Bakes
+2023-05-19,Night,Walk-in,95.19,21.16,1,New,Lisa Reed,Heritage Bakes
+2023-05-14,Morning,Email,302.43,157.44,11,New,Jordan Calhoun MD,Heritage Bakes
+2023-03-10,Evening,Facebook,320.79,211.02,8,New,Heather Thomas,Heritage Bakes
+2023-07-25,Evening,Walk-in,29.67,15.62,0,Returning,Carrie Coffey,Heritage Bakes
+2023-12-25,Morning,Google Ads,215.85,73.93,9,New,Dr. Isabel Smith PhD,Heritage Bakes
+2023-01-10,Night,Google Ads,44.8,9.14,1,Returning,Joe Page,Heritage Bakes
+2023-11-06,Morning,Facebook,234.89,106.17,6,New,Crystal Morales,Heritage Bakes
+2023-09-15,Night,Walk-in,387.27,84.78,5,New,Heather Mcmahon,Heritage Bakes
+2023-07-12,Night,Referral,422.89,100.14,5,New,Jason Quinn,Heritage Bakes
+2023-12-02,Night,Walk-in,309.56,145.81,3,Returning,James Cox,Heritage Bakes
+2023-10-06,Morning,Facebook,349.76,110.46,23,Returning,James Cummings,Heritage Bakes
+2023-01-29,Morning,Walk-in,354.45,163.97,28,Returning,Daniel Lee,Heritage Bakes
+2023-02-09,Night,Google Ads,118.94,38.96,1,Returning,Shane Hopkins,Heritage Bakes
+2023-10-06,Night,Walk-in,275.56,133.18,13,Returning,Stephanie Kelley,Heritage Bakes
+2023-04-02,Evening,Email,271.19,148.18,4,New,Jennifer Schneider,Heritage Bakes
+2023-07-22,Morning,Email,15.36,3.35,0,Returning,Charles Rodriguez,Heritage Bakes
+2023-11-27,Night,Referral,49.95,11.34,1,New,Elizabeth Wall,Heritage Bakes
+2023-12-15,Morning,Email,17.36,6.48,0,Returning,Loretta Williams,Heritage Bakes
+2023-03-27,Morning,Referral,362.38,77.06,3,Returning,Juan Moore,Heritage Bakes
+2023-11-22,Night,Facebook,371.84,346.85,6,New,Joseph White,Heritage Bakes
+2023-12-17,Afternoon,Google Ads,273.93,223.39,3,Returning,Michael Cruz,Heritage Bakes
+2023-02-12,Morning,Instagram,196.5,48.95,4,New,Denise Reese,Heritage Bakes
+2023-09-03,Morning,Google Ads,37.29,16.11,0,Returning,Brittney Morales,Heritage Bakes
+2023-01-24,Night,Facebook,171.59,83.42,1,Returning,Christina Jenkins,Heritage Bakes
+2023-07-02,Night,Walk-in,429.7,127.29,10,New,Sean Anderson,Heritage Bakes
+2023-10-21,Morning,Walk-in,368.44,130.1,20,New,Emily Fitzpatrick,Heritage Bakes
+2023-01-08,Evening,Email,395.15,106.71,11,Returning,Nancy Liu,Heritage Bakes
+2023-10-28,Evening,Facebook,252.98,92.63,16,Returning,Rachel Miller,Heritage Bakes
+2023-04-29,Evening,Email,398.37,153.07,14,New,Scott Brown,Heritage Bakes
+2023-03-02,Morning,Referral,152.63,36.37,1,Returning,Emily Winters,Heritage Bakes
+2023-05-17,Evening,Facebook,465.52,191.06,16,New,Chris Lewis,Heritage Bakes
+2023-09-14,Morning,Google Ads,346.57,179.53,7,Returning,Heidi Blankenship,Heritage Bakes
+2023-02-05,Morning,Facebook,250.32,78.9,4,New,Sandra Alvarez,Heritage Bakes
+2023-08-29,Afternoon,Email,198.84,54.3,2,New,Donna Garcia,Heritage Bakes
+2023-06-05,Morning,Walk-in,27.69,7.49,0,Returning,Stephanie Hernandez,Heritage Bakes
+2023-06-22,Evening,Instagram,462.99,127.81,6,Returning,Joseph Montgomery,Heritage Bakes
+2023-08-25,Afternoon,Referral,267.93,131.1,3,New,Juan Harrison,Heritage Bakes
+2023-09-04,Afternoon,Instagram,315.13,166.23,11,New,Miss Stephanie Cherry,Heritage Bakes
+2023-06-22,Afternoon,Instagram,233.62,73,2,New,Bridget Wallace,Heritage Bakes
+2023-09-24,Evening,Email,413.99,165.43,20,New,Brandy James,Heritage Bakes
+2023-08-08,Morning,Instagram,155.01,52.67,3,Returning,Christopher Smith,Heritage Bakes
+2023-09-07,Night,Facebook,262.61,141.31,22,Returning,Sabrina Galvan,Heritage Bakes
+2023-05-13,Night,Email,377.05,241.72,3,Returning,Catherine Shannon,Heritage Bakes
+2023-06-04,Evening,Facebook,107.68,25.98,2,New,Theresa Knight,Heritage Bakes
+2023-10-18,Afternoon,Instagram,283.71,71.81,4,Returning,Victoria Tanner,Heritage Bakes
+2023-06-29,Morning,Google Ads,264.52,104.05,17,Returning,Chad Evans,Heritage Bakes
+2023-05-25,Evening,Walk-in,458.12,146.92,8,New,Chase Haney,Heritage Bakes
+2023-01-26,Night,Facebook,322.65,277.79,8,New,Maureen Nixon,Heritage Bakes
+2023-11-24,Night,Referral,362.65,195.39,8,New,Michael Rush,Heritage Bakes
+2023-08-06,Morning,Facebook,218.92,64.3,2,Returning,Larry Lloyd,Heritage Bakes
+2023-11-22,Evening,Facebook,127.15,32.43,3,New,Steven Butler,Heritage Bakes
+2023-03-16,Night,Instagram,309.68,103.11,7,New,Samuel Lee,Heritage Bakes
+2023-01-26,Night,Facebook,93.92,69.09,1,New,Joseph Moon,Heritage Bakes
+2023-09-29,Night,Email,397.44,127.01,15,New,Taylor Williams II,Heritage Bakes
+2023-06-06,Morning,Instagram,181.2,43.58,11,Returning,Jerry Hamilton,Heritage Bakes
+2023-06-27,Night,Instagram,373.92,201.19,30,New,Paul Wolf,Heritage Bakes
+2023-04-25,Afternoon,Email,415.52,109.67,18,New,Bobby Arnold,Heritage Bakes
+2023-10-21,Night,Email,436.12,110.3,4,Returning,William Weber,Heritage Bakes
+2023-03-05,Evening,Referral,382.01,108.28,4,New,Alicia James,Heritage Bakes
+2023-04-26,Afternoon,Google Ads,432.84,102.58,13,New,Jamie Johnson,Heritage Bakes
+2023-10-23,Morning,Google Ads,387.92,78.07,11,Returning,Melissa Rogers,Heritage Bakes
+2023-07-10,Evening,Referral,31.29,7.18,0,Returning,Sarah Mueller,Heritage Bakes
+2023-06-17,Night,Google Ads,197.12,64.78,4,Returning,Gordon Hahn,Heritage Bakes
+2023-08-22,Night,Facebook,462.33,96.96,11,New,Kristen Burns,Heritage Bakes
+2023-05-01,Evening,Instagram,216.63,71.63,2,New,Thomas Sellers,Heritage Bakes
+2023-01-26,Evening,Google Ads,295.9,290.46,4,Returning,Melvin Flores,Heritage Bakes
+2023-02-28,Afternoon,Facebook,132.96,54.35,2,Returning,Ashley Cochran,Heritage Bakes
+2023-09-06,Night,Referral,334.88,245.52,14,Returning,Ashley Jones,Heritage Bakes
+2023-11-05,Evening,Email,475.65,452.65,10,Returning,Christian Solis,Heritage Bakes
+2023-10-09,Evening,Referral,37.04,16.78,1,Returning,Sharon Smith,Heritage Bakes
+2023-03-24,Morning,Facebook,135.1,78.44,1,Returning,Robert Berg,Heritage Bakes
+2023-06-16,Afternoon,Google Ads,222.89,85.38,7,Returning,Brooke Sims,Heritage Bakes
+2023-12-29,Morning,Instagram,86.3,29.54,3,Returning,Julia Marks,Heritage Bakes
+2023-03-29,Morning,Referral,392.05,129.85,8,New,Ashley Martinez,Heritage Bakes
+2023-08-22,Evening,Google Ads,241.53,138.14,5,Returning,Christina Reese,Heritage Bakes
+2023-04-17,Evening,Instagram,30.89,9.99,2,New,Brandon Bean,Heritage Bakes
+2023-04-23,Evening,Referral,372.68,113.99,15,New,Rickey Hall,Heritage Bakes
+2023-02-05,Afternoon,Facebook,31.99,11.32,0,New,Bobby Flores,Heritage Bakes
+2023-08-24,Night,Facebook,25.12,7.87,1,New,Karen Gonzalez,Heritage Bakes
+2023-06-16,Afternoon,Email,17.92,3.64,1,Returning,Lisa Lopez MD,Heritage Bakes
+2023-11-12,Evening,Email,188.95,62.91,2,New,Sharon Brown,Heritage Bakes
+2023-06-13,Morning,Facebook,69.43,15.31,3,New,Aaron Thompson,Heritage Bakes
+2023-01-16,Afternoon,Email,223.48,195.45,2,New,Charles Weaver,Heritage Bakes
+2023-03-31,Morning,Referral,470.92,189.3,29,Returning,Melissa Warner,Heritage Bakes
+2023-12-14,Evening,Instagram,491.79,152.56,5,Returning,Cody Morris,Heritage Bakes
+2023-05-29,Evening,Facebook,487.93,177.52,45,New,Carla Reid DDS,Heritage Bakes
+2023-01-21,Afternoon,Email,115.36,66.97,1,Returning,Katie Mitchell,Heritage Bakes
+2023-02-22,Afternoon,Walk-in,349.52,74.92,15,Returning,Roger Moss,Heritage Bakes
+2023-10-29,Night,Facebook,35.07,8.82,0,New,Mary Donaldson,Heritage Bakes
+2023-04-02,Afternoon,Email,75.12,29.67,4,Returning,Paul Brown,Heritage Bakes
+2023-01-30,Evening,Instagram,194.79,107.31,2,New,Gregory Quinn,Heritage Bakes
+2023-06-05,Night,Email,20.83,12.32,0,New,Sabrina Miller,Heritage Bakes
+2023-07-29,Afternoon,Referral,44.65,19.34,0,New,Michelle Smith,Heritage Bakes
+2023-08-28,Morning,Referral,159.85,65.2,1,New,Anita Chapman,Heritage Bakes
+2023-08-24,Morning,Google Ads,88.11,24.4,2,New,Heather Becker,Heritage Bakes
+2023-08-05,Morning,Walk-in,311.34,65.74,7,New,Andrea Baker,Heritage Bakes
+2023-11-26,Afternoon,Email,283.42,69.14,5,Returning,Joanne Harmon,Heritage Bakes
+2023-07-19,Night,Referral,477.67,104.82,5,New,Mr. Phillip Edwards,Heritage Bakes
+2023-02-05,Morning,Instagram,169.91,56.89,2,New,Mrs. Laurie Williams MD,Heritage Bakes
+2023-12-10,Night,Google Ads,221.4,149.86,16,Returning,Joel Mclean,Heritage Bakes
+2023-12-29,Morning,Instagram,255.86,117.05,20,Returning,Valerie Ford,Heritage Bakes
+2023-05-29,Night,Instagram,200.54,50.88,9,Returning,Jodi Thomas,Heritage Bakes
+2023-05-05,Afternoon,Referral,337.87,76.46,3,Returning,Jennifer Johnson,Heritage Bakes
+2023-01-12,Morning,Google Ads,300.8,79.7,4,New,Eugene Fritz,Heritage Bakes
+2023-05-31,Night,Facebook,133.94,50.31,1,New,Jennifer Smith,Heritage Bakes
+2023-07-11,Evening,Walk-in,286.81,196.51,3,New,Mary Thompson,Heritage Bakes
+2023-10-07,Afternoon,Referral,391.79,107.65,4,Returning,Catherine Davis,Heritage Bakes
+2023-02-06,Morning,Email,499.82,406.96,5,New,Chris Rogers,Heritage Bakes
+2023-02-12,Afternoon,Email,27.05,11.93,0,New,James Torres,Heritage Bakes
+2023-11-28,Night,Walk-in,108.29,41.41,3,New,Kirsten Perez,Heritage Bakes
+2023-01-20,Afternoon,Instagram,163.38,42.56,5,Returning,Dr. Jeffrey Valentine,Heritage Bakes
+2023-05-14,Night,Google Ads,95.84,36.62,1,Returning,Wayne Brown,Heritage Bakes
+2023-02-04,Afternoon,Google Ads,399.86,137,6,Returning,Andrea Morris,Heritage Bakes
+2023-09-25,Afternoon,Walk-in,79.05,16.51,0,Returning,Dylan Young,Heritage Bakes
+2023-08-09,Afternoon,Google Ads,276.03,72.85,3,Returning,Regina Butler,Heritage Bakes
+2023-10-21,Night,Email,342.06,145.75,3,New,Eric Moore,Heritage Bakes
+2023-03-12,Morning,Email,178.01,94.31,14,New,Melinda Patterson,Heritage Bakes
+2023-12-16,Afternoon,Referral,251.79,94.96,3,Returning,Carl Campbell,Heritage Bakes
+2023-05-25,Morning,Facebook,358.07,103.28,20,New,Renee Shields,Heritage Bakes
+2023-08-30,Evening,Facebook,159.89,114.75,11,New,Wesley Brown,Heritage Bakes
+2023-01-09,Evening,Referral,422.47,213.91,8,New,Jason Clark,Heritage Bakes
+2023-12-18,Morning,Google Ads,138.28,35.52,6,Returning,David Wiggins,Heritage Bakes
+2023-02-22,Morning,Instagram,299.74,271.59,7,New,Thomas Kaufman,Heritage Bakes
+2023-06-01,Evening,Facebook,438.58,136.6,26,New,Kristen Ray,Heritage Bakes
+2023-02-23,Evening,Facebook,345.85,133.11,4,New,Cory Martinez,Heritage Bakes
+2023-08-04,Afternoon,Referral,273.56,56.37,4,Returning,Mark Maddox,Heritage Bakes
+2023-09-03,Night,Google Ads,317.74,142.88,8,New,Kevin Young,Heritage Bakes
+2023-11-25,Evening,Referral,85.59,35.76,4,Returning,Katherine Harrison,Heritage Bakes
+2023-01-04,Afternoon,Referral,485.31,101.35,5,New,Jorge Davis,Heritage Bakes
+2023-08-25,Afternoon,Instagram,328.44,95.56,7,Returning,Loretta Miller,Heritage Bakes
+2023-05-09,Evening,Email,458.02,108.15,9,Returning,Lance Macdonald DVM,Heritage Bakes
+2023-06-20,Morning,Referral,286.03,237.37,4,Returning,Jerry Waters,Heritage Bakes
+2023-04-11,Night,Referral,390,126.02,5,New,Desiree Thomas,Heritage Bakes
+2023-05-04,Afternoon,Email,373.91,86.16,6,New,Amy Wright,Heritage Bakes
+2023-04-05,Afternoon,Instagram,146.89,36.15,1,Returning,Erin Summers,Heritage Bakes
+2023-04-15,Evening,Facebook,135.92,65.1,1,Returning,Mr. Don Flores,Heritage Bakes
+2023-06-16,Evening,Email,363.7,194.74,6,New,Miss Kimberly Holloway,Heritage Bakes
+2023-01-11,Night,Instagram,262,70.38,3,New,Tina Harper,Heritage Bakes
+2023-06-02,Night,Google Ads,83.07,74.64,3,New,Nicholas Moss,Heritage Bakes
+2023-10-14,Evening,Facebook,393.79,116,10,Returning,Robert Campbell,Heritage Bakes
+2023-09-27,Morning,Email,215.47,68.17,5,Returning,Jenny Cardenas,Heritage Bakes
+2023-06-12,Morning,Referral,214.29,46.75,14,New,Dean Thomas,Heritage Bakes
+2023-03-08,Afternoon,Email,314.57,64.78,6,Returning,Matthew Farmer,Heritage Bakes
+2023-10-27,Morning,Email,428.95,94.33,8,Returning,John Browning,Heritage Bakes
+2023-01-06,Morning,Google Ads,182.4,124.82,4,Returning,Mario Peters,Heritage Bakes
+2023-07-27,Morning,Email,42.95,22.36,0,Returning,Olivia Rodriguez,Heritage Bakes
+2023-05-25,Evening,Google Ads,383.86,86.55,8,Returning,Donald Mccarthy,Heritage Bakes
+2023-05-13,Night,Instagram,36.48,17.17,0,New,Christopher Anderson,Heritage Bakes
+2023-06-26,Evening,Google Ads,313.22,101.04,6,New,Becky Parrish,Heritage Bakes
+2023-11-20,Night,Email,127.37,77.07,1,Returning,Jackie Stewart,Heritage Bakes
+2023-07-05,Night,Google Ads,111.86,45.73,1,New,Krista Fuller,Heritage Bakes
+2023-02-22,Morning,Email,302.33,82.57,5,Returning,Jennifer Nguyen,Heritage Bakes
+2023-06-26,Night,Facebook,194.35,63.59,3,Returning,Amanda Campbell,Heritage Bakes
+2023-12-06,Morning,Instagram,493.77,200.06,32,Returning,Laura Ware,Heritage Bakes
+2023-02-01,Night,Google Ads,401.48,145.37,8,New,Mitchell Anderson,Heritage Bakes
+2023-09-06,Morning,Email,165.09,55.38,4,Returning,Barry Hernandez,Heritage Bakes
+2023-07-19,Evening,Walk-in,207.28,127.23,4,New,Teresa Young,Heritage Bakes
+2023-09-21,Morning,Email,387.67,325.17,4,New,Valerie Morgan,Heritage Bakes
+2023-07-27,Afternoon,Google Ads,264.14,105.62,3,Returning,Paul Vasquez,Heritage Bakes
+2023-05-25,Morning,Referral,214.32,94.13,4,New,Kelly May,Heritage Bakes
+2023-06-21,Evening,Email,218.32,165.05,13,New,Christopher Carson,Heritage Bakes
+2023-12-25,Morning,Email,384.19,141.27,18,Returning,Joan Wilson,Heritage Bakes
+2023-01-05,Night,Google Ads,79.1,24.61,5,New,Debbie Allen,Heritage Bakes
+2023-02-17,Night,Email,434.63,151.29,8,New,Kristin Williams,Heritage Bakes
+2023-07-25,Afternoon,Instagram,144.85,31.52,1,New,Courtney Williams,Heritage Bakes
+2023-08-22,Afternoon,Email,222.19,111.49,4,Returning,David Hernandez,Heritage Bakes
+2023-07-01,Morning,Google Ads,298.6,118.09,28,New,Kathryn Morris,Heritage Bakes
+2023-11-26,Evening,Walk-in,107.17,52.71,1,Returning,Meagan Smith,Heritage Bakes
+2023-12-31,Afternoon,Referral,142.59,39.93,1,Returning,Katherine Caldwell,Heritage Bakes
+2023-04-16,Night,Referral,450.72,133.78,15,New,Krista Williams,Heritage Bakes
+2023-11-05,Morning,Instagram,54,13.92,2,New,Christine Aguilar,Heritage Bakes
+2023-07-29,Afternoon,Walk-in,425.2,294.33,8,Returning,Michael Perkins,Heritage Bakes
+2023-03-22,Evening,Instagram,303.37,97.08,3,New,Steven Martin,Heritage Bakes
+2023-01-21,Afternoon,Referral,453.09,292.48,5,Returning,Joshua Herman,Heritage Bakes
+2023-04-19,Afternoon,Google Ads,330.04,266.6,22,New,Diana Hawkins,Heritage Bakes
+2023-07-28,Morning,Google Ads,146.84,41.76,2,Returning,Caitlin Harris,Heritage Bakes
+2023-02-12,Afternoon,Google Ads,67.2,35.75,1,Returning,Felicia Murphy,Heritage Bakes
+2023-02-23,Morning,Facebook,98.96,33.65,1,New,Bryan Mitchell,Heritage Bakes
+2023-03-18,Afternoon,Facebook,193.73,142,3,Returning,Larry Curtis,Heritage Bakes
+2023-06-26,Afternoon,Referral,169.54,54.83,1,Returning,Jennifer Lopez,Heritage Bakes
+2023-06-16,Afternoon,Referral,197.02,49.23,3,Returning,Robert Newton,Heritage Bakes
+2023-06-20,Afternoon,Google Ads,64.69,20.59,5,Returning,Christina Hudson,Heritage Bakes
+2023-12-29,Evening,Facebook,30.06,6.51,0,Returning,Sandra Craig,Heritage Bakes
+2023-09-11,Night,Walk-in,409.57,87.49,6,Returning,Sabrina Ward,Heritage Bakes
+2023-04-21,Night,Email,114.79,48.1,2,New,Mark Knight,Heritage Bakes
+2023-05-29,Morning,Google Ads,286.6,72.46,2,New,Darlene Dixon,Heritage Bakes
+2023-04-24,Afternoon,Google Ads,247.99,160.5,3,Returning,Daniel White,Heritage Bakes
+2023-01-23,Evening,Email,301.75,64.05,18,New,Jonathan Cortez,Heritage Bakes
+2023-03-15,Morning,Instagram,361.19,113.62,6,New,Judith Myers,Heritage Bakes
+2023-02-11,Morning,Google Ads,497.95,120.67,43,New,Tammie Castillo,Heritage Bakes
+2023-04-08,Night,Facebook,293.37,220.25,24,New,Rebecca Estrada,Heritage Bakes
+2023-05-14,Night,Walk-in,134.63,33.83,1,New,Angela Rodriguez,Heritage Bakes
+2023-04-13,Morning,Facebook,435.19,177.47,31,New,Andre Williams,Heritage Bakes
+2023-06-05,Morning,Referral,297.02,99.01,3,New,Donald Smith,Heritage Bakes
+2023-11-08,Night,Referral,390.54,100.58,10,New,Nicholas Ali,Heritage Bakes
+2023-10-13,Night,Email,489.15,456.34,6,Returning,Jacob Brewer,Heritage Bakes
+2023-10-13,Morning,Walk-in,315.42,68.62,9,New,Natalie Watson,Heritage Bakes
+2023-06-13,Afternoon,Email,206.51,55.95,2,Returning,Matthew Evans,Heritage Bakes
+2023-07-15,Night,Referral,115.83,68.15,1,Returning,Bryan Thomas,Heritage Bakes
+2023-08-19,Evening,Walk-in,181.13,43.45,2,Returning,Timothy Lucero,Heritage Bakes
+2023-05-25,Evening,Google Ads,59.35,12.41,1,New,Barbara Fields,Heritage Bakes
+2023-06-03,Night,Google Ads,434.39,200.46,8,Returning,Rebecca Beard,Heritage Bakes
+2023-05-16,Night,Referral,209.28,76.56,3,Returning,Carrie Rodriguez,Heritage Bakes
+2023-01-27,Morning,Walk-in,400.96,367.96,4,New,Jordan Tanner,Heritage Bakes
+2023-04-20,Night,Google Ads,181.43,36.38,2,Returning,Denise Johnson,Heritage Bakes
+2023-03-01,Evening,Referral,59.94,13.81,0,New,Amy Holt,Heritage Bakes
+2023-10-27,Night,Google Ads,276.16,218.81,3,New,James Bennett,Heritage Bakes
+2023-06-26,Evening,Instagram,104.12,51.04,1,Returning,Jeffrey Owens,Heritage Bakes
+2023-07-07,Night,Email,354.71,128.72,8,New,Adam Merritt,Heritage Bakes
+2023-12-22,Night,Instagram,243.32,84.07,4,Returning,Tina Walter,Heritage Bakes
+2023-10-18,Evening,Instagram,330.02,76.28,13,Returning,Michelle Harris,Heritage Bakes
+2023-05-28,Afternoon,Instagram,273.95,80.65,5,New,Michael Richmond,Heritage Bakes
+2023-03-02,Night,Google Ads,450.08,220.78,5,Returning,Michael Patrick,Heritage Bakes
+2023-10-10,Afternoon,Email,425.32,198.21,4,Returning,Amanda Hart DVM,Heritage Bakes
+2023-12-20,Afternoon,Facebook,324.96,66.76,3,New,Michele Conner,Heritage Bakes
+2023-12-31,Morning,Facebook,176.6,52.18,4,New,Natalie Mitchell,Heritage Bakes
+2023-11-15,Evening,Google Ads,357.96,76.01,4,New,Jacob Hoover,Heritage Bakes
+2023-04-07,Afternoon,Walk-in,297.09,65.78,11,Returning,Jacqueline Winters,Heritage Bakes
+2023-07-26,Night,Facebook,172.9,34.79,2,Returning,Kimberly Flores,Heritage Bakes
+2023-10-06,Afternoon,Email,391.4,173.64,4,New,Jennifer Carpenter,Heritage Bakes
+2023-03-25,Night,Email,281.63,149.08,3,New,William Saunders,Heritage Bakes
+2023-07-25,Afternoon,Email,317.03,67.91,4,Returning,Michael Preston,Heritage Bakes
+2023-02-23,Night,Google Ads,327.06,268.91,4,New,Jennifer Ali,Heritage Bakes
+2023-04-08,Afternoon,Walk-in,58.2,52.92,5,New,David Taylor,Heritage Bakes
+2023-10-15,Night,Email,445.9,133.78,5,New,Maria Hayes,Heritage Bakes
+2023-10-02,Night,Facebook,392.55,180.52,22,Returning,Melanie Preston,Heritage Bakes
+2023-08-23,Afternoon,Email,22.44,18.45,1,Returning,Thomas Mcgrath,Heritage Bakes
+2023-09-11,Morning,Google Ads,343.37,85.33,4,Returning,Glenn Chen,Heritage Bakes
+2023-08-07,Morning,Google Ads,97.44,88.72,5,New,Sarah Berry,Heritage Bakes
+2023-07-12,Afternoon,Walk-in,14.4,9.06,0,Returning,Rebecca Summers,Heritage Bakes
+2023-07-03,Evening,Instagram,266.29,149.83,7,Returning,Rodney Gilmore,Heritage Bakes
+2023-07-22,Afternoon,Instagram,268.86,263.43,2,New,Kimberly Stone DDS,Heritage Bakes
+2023-11-15,Evening,Google Ads,374.96,186.6,3,New,Joshua Dunlap,Heritage Bakes
+2023-12-07,Morning,Facebook,403.73,88.61,4,New,Melinda French,Heritage Bakes
+2023-04-14,Evening,Google Ads,48.57,29.55,1,Returning,Gabriel Copeland MD,Heritage Bakes
+2023-04-22,Evening,Walk-in,366.01,91.65,22,Returning,Kelly Weiss,Heritage Bakes
+2023-11-21,Afternoon,Email,132.75,46.39,1,New,Gregory Russell,Heritage Bakes
+2023-02-08,Evening,Walk-in,63.5,45.34,2,Returning,Ashley Bowman,Heritage Bakes
+2023-04-05,Morning,Referral,250.26,54.78,13,Returning,Ruben Woodard,Heritage Bakes
+2023-12-05,Evening,Google Ads,42.35,11.04,3,Returning,Aaron Leon,Heritage Bakes
+2023-01-22,Afternoon,Email,326.32,309.99,6,New,Ashley Thomas,Heritage Bakes
+2023-08-24,Morning,Walk-in,182.1,37.61,1,Returning,Travis Allen,Heritage Bakes
+2023-05-30,Night,Referral,273.63,253.41,4,Returning,Roger Weaver,Heritage Bakes
+2023-02-19,Night,Google Ads,263.25,118.18,2,Returning,Robert Johnson,Heritage Bakes
+2023-01-08,Afternoon,Walk-in,262.77,57.17,7,New,Bryan Lopez,Heritage Bakes
+2023-12-13,Afternoon,Email,204.13,73.44,5,New,Andrea King,Heritage Bakes
+2023-10-26,Afternoon,Instagram,114.21,32.99,1,Returning,Jennifer Howard,Heritage Bakes
+2023-11-27,Morning,Instagram,359.16,182.05,7,New,Michael Evans,Heritage Bakes
+2023-01-28,Night,Email,248.29,77.73,6,Returning,Daniel Patterson,Heritage Bakes
+2023-09-20,Night,Email,242.17,95.59,2,New,Karen Mendez,Heritage Bakes
+2023-06-28,Morning,Referral,308.32,76.73,4,Returning,John Johnson,Heritage Bakes
+2023-01-05,Morning,Walk-in,493.68,394.12,18,Returning,Andre Haynes,Heritage Bakes
+2023-11-22,Night,Email,139.28,84.96,8,Returning,Janet Ryan,Heritage Bakes
+2023-05-07,Night,Facebook,345.48,138.13,3,Returning,Michael Oliver,Heritage Bakes
+2023-08-27,Morning,Referral,59.17,23.21,0,Returning,Wesley Henry,Heritage Bakes
+2023-12-24,Morning,Instagram,63.37,13.74,3,New,Andrew Freeman,Heritage Bakes
+2023-03-04,Morning,Google Ads,296.41,74.12,3,New,Karen Stephens,Heritage Bakes
+2023-02-01,Morning,Walk-in,97.08,89.14,1,New,Nathaniel Baldwin,Heritage Bakes
+2023-08-04,Evening,Walk-in,273.58,69.33,20,New,Jordan Curry,Heritage Bakes
+2023-03-10,Evening,Email,375.06,222.42,5,New,William Johnson,Heritage Bakes
+2023-06-02,Night,Referral,464.69,159.71,6,New,Richard Bond,Heritage Bakes
+2023-06-07,Night,Walk-in,178.83,56.27,7,New,Jason Smith,Heritage Bakes
+2023-02-10,Night,Instagram,282.38,257.52,3,New,Scott Norman,Heritage Bakes
+2023-12-09,Afternoon,Referral,159.24,41.41,3,New,Jill Shaw,Heritage Bakes
+2023-08-17,Night,Referral,34.22,15.71,0,Returning,Michael Price,Heritage Bakes
+2023-02-25,Evening,Instagram,339.85,83.19,4,Returning,Martha Williams,Heritage Bakes
+2023-11-02,Morning,Email,235.25,72.73,3,New,Melissa Henry,Heritage Bakes
+2023-06-07,Evening,Email,320.13,294.81,4,Returning,Elaine Martin,Heritage Bakes
+2023-04-19,Morning,Google Ads,296,113.6,5,New,Gary Rodriguez,Heritage Bakes
+2023-10-08,Afternoon,Instagram,32.62,16.68,0,Returning,Ryan Gonzalez,Heritage Bakes
+2023-02-15,Afternoon,Google Ads,137.55,79.33,1,Returning,Mr. Reginald Roman,Heritage Bakes
+2023-10-23,Night,Facebook,62.01,16.52,0,Returning,Patricia Williams,Heritage Bakes
+2023-11-27,Evening,Google Ads,230.23,69.69,2,New,Gerald Vega,Heritage Bakes
+2023-07-12,Evening,Google Ads,123.34,26.81,1,Returning,Crystal Wallace,Heritage Bakes
+2023-01-18,Evening,Email,440.99,119.48,14,New,Susan Garcia,Heritage Bakes
+2023-11-02,Night,Walk-in,242.91,108.82,7,New,Patrick Potts,Heritage Bakes
+2023-08-22,Afternoon,Walk-in,178.68,70.64,5,New,Jessica Richardson,Heritage Bakes
+2023-03-09,Evening,Email,341.09,134.99,15,Returning,Alicia Warren,Heritage Bakes
+2023-11-05,Morning,Google Ads,286.5,205.67,3,Returning,Madison Rodriguez,Heritage Bakes
+2023-05-27,Evening,Email,259.13,180.22,2,New,Douglas Grant,Heritage Bakes
+2023-01-26,Night,Email,147.05,42.64,1,New,Austin Baker,Heritage Bakes
+2023-05-29,Night,Instagram,197.88,55.85,3,Returning,Heather Morales,Heritage Bakes
+2023-06-29,Night,Instagram,422.32,389.74,5,Returning,Susan Hutchinson,Heritage Bakes
+2023-01-12,Night,Email,316.89,87.44,8,New,Christopher Hudson,Heritage Bakes
+2023-01-06,Afternoon,Walk-in,426.29,128.79,5,New,Jill Barajas,Heritage Bakes
+2023-05-12,Evening,Google Ads,89.37,20.47,1,New,Dennis Jones,Heritage Bakes
+2023-10-30,Afternoon,Facebook,114.74,40.39,1,New,Charlene Gutierrez,Heritage Bakes
+2023-10-20,Evening,Google Ads,397.48,98.97,8,Returning,Crystal Hernandez,Heritage Bakes
+2023-09-24,Night,Instagram,181.68,115.87,2,New,Michael Smith,Heritage Bakes
+2023-03-05,Night,Facebook,314.58,82.51,15,New,Richard Rodriguez,Heritage Bakes
+2023-08-27,Night,Email,173.91,60.43,3,Returning,Lauren Smith,Heritage Bakes
+2023-03-13,Afternoon,Facebook,23.8,6.75,0,New,Breanna Mccall,Heritage Bakes
+2023-06-15,Afternoon,Walk-in,225.38,107.15,15,Returning,Rebecca Lopez,Heritage Bakes
+2023-03-02,Night,Instagram,316.6,238.47,4,New,John Garcia,Heritage Bakes
+2023-12-31,Evening,Email,287.77,126.08,4,Returning,Mark Weaver,Heritage Bakes
+2023-08-12,Evening,Facebook,22.06,4.46,0,Returning,Brianna Martinez,Heritage Bakes
+2023-04-20,Evening,Referral,179.6,38.73,14,New,Shannon Jones,Heritage Bakes
+2023-02-15,Evening,Instagram,206.83,86.15,2,Returning,Victoria Knight,Heritage Bakes
+2023-12-18,Evening,Referral,481.43,297.39,6,Returning,Paul Franco,Heritage Bakes
+2023-01-10,Morning,Email,283.92,65.11,4,New,Darin Baker,Heritage Bakes
+2023-06-29,Evening,Google Ads,114.27,28.07,1,Returning,Jeffrey Harrell,Heritage Bakes
+2023-04-27,Morning,Facebook,105.42,36.76,1,New,Alyssa Powers,Heritage Bakes
+2023-03-31,Night,Google Ads,35.71,11.79,1,Returning,Jeanette Obrien,Heritage Bakes
+2023-08-23,Afternoon,Facebook,286.3,104.33,3,New,Nicole Anderson,Heritage Bakes
+2023-01-10,Night,Referral,138.67,27.82,2,Returning,Rachel Oneal,Heritage Bakes
+2023-04-02,Morning,Google Ads,305.55,255.87,3,New,Nicole Moore,Heritage Bakes
+2023-11-03,Evening,Walk-in,136.09,66.7,1,Returning,Donna Mejia,Heritage Bakes
+2023-04-25,Afternoon,Google Ads,395.52,230.69,6,New,Andre Jones,Heritage Bakes
+2023-08-10,Afternoon,Email,190.05,116.59,2,Returning,Steven Thomas,Heritage Bakes
+2023-02-05,Afternoon,Referral,293.97,76.86,7,Returning,Jaclyn Long,Heritage Bakes
+2023-09-11,Night,Walk-in,31.04,9.31,0,New,Robert Stark,Heritage Bakes
+2023-07-05,Afternoon,Instagram,60.12,12.66,3,New,Joseph Murphy,Heritage Bakes
+2023-11-02,Night,Referral,300.62,75.78,3,Returning,Travis Dixon,Heritage Bakes
+2023-02-13,Afternoon,Google Ads,45.74,18.35,4,New,Seth Barker,Heritage Bakes
+2023-04-25,Afternoon,Instagram,172.87,34.79,3,New,Tammy Jacobs,Heritage Bakes
+2023-06-19,Night,Email,92,42.39,0,Returning,Laura Harrison,Heritage Bakes
+2023-06-11,Evening,Google Ads,490.11,313.92,10,Returning,John Peterson,Heritage Bakes
+2023-01-21,Morning,Google Ads,417.27,126.89,5,New,Lynn King,Heritage Bakes
+2023-08-17,Morning,Facebook,45.72,20.55,1,New,Devon Roberts,Heritage Bakes
+2023-04-30,Afternoon,Instagram,258.71,79.83,3,New,Emily Bullock,Heritage Bakes
+2023-06-05,Evening,Email,213.18,92.68,3,New,Kylie Bailey,Heritage Bakes
+2023-10-29,Evening,Email,290.23,81.69,3,New,Roger Holmes,Heritage Bakes
+2023-11-19,Evening,Facebook,194.37,47.56,8,New,Dennis Coleman,Heritage Bakes
+2023-05-26,Evening,Instagram,416.63,170.96,19,New,Patricia Zamora,Heritage Bakes
+2023-08-23,Morning,Facebook,376.19,158.03,7,New,Randy Phillips,Heritage Bakes
+2023-11-10,Morning,Google Ads,320.58,228.57,11,Returning,Heather Daniels,Heritage Bakes
+2023-02-09,Evening,Referral,474.32,156.6,13,New,Robert Perkins,Heritage Bakes
+2023-06-26,Evening,Facebook,385.79,111.64,3,New,Nathaniel Walter,Heritage Bakes
+2023-02-05,Evening,Instagram,328.4,70.97,4,Returning,Christine Tyler,Heritage Bakes
+2023-06-04,Afternoon,Google Ads,74.9,20.57,4,New,Catherine Holland,Heritage Bakes
+2023-02-07,Afternoon,Email,417.82,306.72,6,New,David Washington III,Heritage Bakes
+2023-07-01,Afternoon,Email,214.94,48.28,4,Returning,Kimberly Thomas,Heritage Bakes
+2023-04-24,Morning,Walk-in,387.31,254.7,13,Returning,Dawn Levy,Heritage Bakes
+2023-12-11,Evening,Email,303.76,77.15,3,Returning,Victoria Smith,Heritage Bakes
+2023-03-12,Morning,Facebook,135.12,31.49,2,Returning,Timothy Reilly,Heritage Bakes
+2023-07-17,Night,Instagram,118.18,27.44,1,New,William Silva,Heritage Bakes
+2023-01-27,Evening,Walk-in,47.01,10.47,1,New,Keith Gonzalez,Heritage Bakes
+2023-05-13,Night,Facebook,152.97,95.71,2,New,Jeffrey Holden,Heritage Bakes
+2023-12-04,Evening,Instagram,35.65,11.79,0,New,Karen Hughes,Heritage Bakes
+2023-11-03,Morning,Instagram,20.86,5.06,0,Returning,Christopher Ward,Heritage Bakes
+2023-11-19,Morning,Referral,336.63,77.01,10,Returning,Amy Boone,Heritage Bakes
+2023-01-12,Evening,Google Ads,219.53,91.68,2,Returning,Joshua Adams,Heritage Bakes
+2023-09-16,Afternoon,Google Ads,207.62,66.58,2,New,Tammy Mcdaniel,Heritage Bakes
+2023-10-18,Afternoon,Instagram,430.87,98.67,5,New,Steven Knight,Heritage Bakes
+2023-08-16,Night,Referral,462.97,99.87,39,Returning,George Weber,Heritage Bakes
+2023-08-26,Afternoon,Instagram,324.57,69.81,4,Returning,Jeffrey Hall,Heritage Bakes
+2023-04-11,Morning,Instagram,496.1,108.14,8,New,Laura Adams,Heritage Bakes
+2023-07-03,Morning,Email,19.86,4.22,0,Returning,Sara Hernandez,Heritage Bakes
+2023-11-17,Night,Referral,181.72,146.92,2,Returning,Emily Robinson,Heritage Bakes
+2023-09-28,Afternoon,Email,173.9,35.45,16,Returning,Samantha Harris,Heritage Bakes
+2023-08-01,Afternoon,Google Ads,219.96,47.16,3,New,Tiffany Davis,Heritage Bakes
+2023-08-18,Evening,Facebook,58.62,11.95,1,New,Veronica Nelson,Heritage Bakes
+2023-07-07,Night,Instagram,84.7,56.6,1,Returning,Mr. Ryan Walker,Heritage Bakes
+2023-07-27,Night,Walk-in,123.52,74.8,4,New,Christopher Thompson,Heritage Bakes
+2023-01-04,Afternoon,Instagram,55.98,11.69,0,New,Brian Allen,Heritage Bakes
+2023-03-31,Evening,Instagram,148.41,54.48,2,Returning,Kevin Greene,Heritage Bakes
+2023-05-01,Night,Email,173,69.74,1,Returning,Daniel Garcia,Heritage Bakes
+2023-05-06,Afternoon,Facebook,192.24,75.13,2,Returning,Micheal Ramos,Heritage Bakes
+2023-01-10,Afternoon,Email,243.62,53.91,9,Returning,Janice Gilbert,Heritage Bakes
+2023-05-16,Evening,Facebook,419.76,100.39,9,Returning,Joshua Nelson,Heritage Bakes
+2023-12-10,Evening,Walk-in,448.66,104.84,13,New,Katherine Clarke,Heritage Bakes
+2023-10-17,Afternoon,Instagram,181.11,93.29,1,Returning,Erica Porter,Heritage Bakes
+2023-09-26,Night,Email,268.29,56.03,6,New,Sara Obrien,Heritage Bakes
+2023-11-08,Morning,Instagram,234.46,198.21,3,New,Michael Burke,Heritage Bakes
+2023-09-12,Morning,Walk-in,263.47,97.17,9,Returning,Jamie French,Heritage Bakes
+2023-09-16,Afternoon,Walk-in,185.77,37.81,3,New,Ernest Sullivan,Heritage Bakes
+2023-08-05,Afternoon,Email,399.31,171.8,7,New,Earl Hall,Heritage Bakes
+2023-06-09,Night,Referral,25.67,5.84,1,Returning,Julie Johnson,Heritage Bakes
+2023-02-19,Afternoon,Walk-in,291.67,84.74,3,Returning,Dana Wolfe,Heritage Bakes
+2023-04-23,Afternoon,Google Ads,465.23,141.8,19,New,Robert Price,Heritage Bakes
+2023-04-21,Evening,Referral,185.79,163.17,11,Returning,James Henry,Heritage Bakes
+2023-09-19,Afternoon,Instagram,303.35,68.02,3,Returning,Susan Davis,Heritage Bakes
+2023-01-18,Night,Facebook,471.17,162.49,6,Returning,Darryl Richardson,Heritage Bakes
+2023-10-25,Night,Google Ads,455.98,115.98,11,Returning,Karen Jackson DVM,Heritage Bakes
+2023-05-18,Afternoon,Referral,48.77,19.14,0,Returning,Linda Patrick,Heritage Bakes
+2023-02-28,Afternoon,Email,34.68,24.67,0,Returning,Veronica Diaz,Heritage Bakes
+2023-06-14,Evening,Google Ads,85.09,25.51,1,Returning,Ann Moon,Heritage Bakes
+2023-05-12,Morning,Facebook,481.49,166.27,43,Returning,Michael Williams,Heritage Bakes
+2023-04-03,Evening,Referral,255.72,55.2,5,New,Timothy Chavez,Heritage Bakes
+2023-07-05,Evening,Walk-in,457.25,167.46,32,Returning,Scott Ramirez,Heritage Bakes
+2023-04-22,Afternoon,Instagram,306.04,131.96,4,New,Crystal Collins,Heritage Bakes
+2023-07-19,Evening,Google Ads,319.8,231.9,3,New,Crystal Davis,Heritage Bakes
+2023-08-02,Morning,Google Ads,89.23,19.56,3,New,Matthew Mueller,Heritage Bakes
+2023-05-15,Evening,Facebook,279.73,110.36,4,Returning,Teresa Thompson,Heritage Bakes
+2023-02-12,Evening,Walk-in,366.41,321.65,6,Returning,Teresa Jacobson,Heritage Bakes
+2023-10-07,Night,Email,499.5,381.6,7,Returning,Robert Gonzalez,Heritage Bakes
+2023-09-04,Evening,Email,28.69,13.65,0,New,Andrea Garcia,Heritage Bakes
+2023-02-09,Morning,Walk-in,34.28,7.77,0,Returning,Cassandra Martinez,Heritage Bakes
+2023-06-13,Night,Referral,250.31,55.64,19,Returning,Philip Cummings,Heritage Bakes
+2023-11-18,Morning,Instagram,14.45,5.04,1,New,Timothy Sanchez,Heritage Bakes
+2023-09-24,Night,Referral,39.71,34.94,0,Returning,Scott Miranda,Heritage Bakes
+2023-01-10,Morning,Google Ads,165.48,117.26,10,Returning,Alicia Wagner,Heritage Bakes
+2023-08-22,Morning,Facebook,457.61,138.66,6,Returning,Chad Williams,Heritage Bakes
+2023-03-31,Morning,Email,311.09,62.39,4,Returning,Carlos Hensley,Heritage Bakes
+2023-07-02,Night,Facebook,206.76,159.51,2,Returning,Laura Ramirez,Heritage Bakes
+2023-01-04,Morning,Referral,168.52,65.63,4,New,Christopher Rodriguez,Heritage Bakes
+2023-07-26,Evening,Google Ads,168.17,85.48,1,Returning,Mark Webster,Heritage Bakes
+2023-10-06,Night,Walk-in,256.55,229.91,3,Returning,James Smith,Heritage Bakes
+2023-10-08,Afternoon,Referral,268.92,111.12,16,New,Robert Byrd,Heritage Bakes
+2023-04-06,Night,Instagram,171.97,48.78,14,New,Joshua Powell,Heritage Bakes
+2023-05-21,Evening,Instagram,464.76,100.48,6,Returning,Tonya Harding,Heritage Bakes
+2023-11-22,Evening,Referral,282.5,81.05,5,Returning,Larry Higgins,Heritage Bakes
+2023-02-14,Evening,Instagram,279.48,78.43,4,Returning,Nicole Mills,Heritage Bakes
+2023-01-07,Afternoon,Walk-in,88.36,31.93,1,Returning,Jonathan Porter,Heritage Bakes
+2023-09-01,Morning,Referral,54.65,33.68,1,New,Christine Greene,Heritage Bakes
+2023-12-16,Evening,Referral,491.33,130.41,5,New,Edwin Munoz,Heritage Bakes
+2023-11-05,Morning,Walk-in,201.27,48.12,7,Returning,James Brooks,Heritage Bakes
+2023-12-21,Morning,Instagram,225.28,98.35,6,New,Craig Smith,Heritage Bakes
+2023-10-27,Evening,Facebook,88.16,54.15,1,New,Mark Thomas,Heritage Bakes
+2023-06-08,Night,Walk-in,168.72,44.91,4,Returning,Rachel Curry,Heritage Bakes
+2023-04-09,Afternoon,Email,329.3,207.06,4,Returning,Elizabeth Sanchez,Heritage Bakes
+2023-06-13,Afternoon,Referral,446.57,105.6,7,Returning,Darren Gonzales,Heritage Bakes
+2023-09-05,Evening,Walk-in,307.31,127.05,9,Returning,Mr. John Khan,Heritage Bakes
+2023-02-05,Evening,Referral,272.33,62.55,23,Returning,Jason Williams,Heritage Bakes
+2023-08-06,Afternoon,Email,81.85,17.79,1,Returning,Stephanie Livingston,Heritage Bakes
+2023-05-10,Night,Walk-in,431.67,415.84,5,New,Anthony Marshall,Heritage Bakes
+2023-05-27,Night,Email,225.59,219.6,5,Returning,Matthew Hamilton,Heritage Bakes
+2023-10-04,Evening,Facebook,256.53,76.25,9,New,Heather Hunt,Heritage Bakes
+2023-02-16,Night,Instagram,270.2,80.77,9,Returning,Timothy Melton,Heritage Bakes
+2023-12-09,Night,Email,261.13,109.85,6,New,Harold Lee,Heritage Bakes
+2023-01-08,Evening,Instagram,80.77,23.84,1,Returning,Carol Gay,Heritage Bakes
+2023-03-15,Morning,Email,259.35,111.25,3,New,Michael Nelson,Heritage Bakes
+2023-10-07,Afternoon,Facebook,284.5,58.37,10,New,Daniel Meyer,Heritage Bakes
+2023-06-24,Evening,Walk-in,323.27,147.21,28,New,Jamie Lindsey,Heritage Bakes
+2023-11-25,Evening,Referral,292.2,78.39,3,New,Marc Mitchell,Heritage Bakes
+2023-11-12,Evening,Google Ads,422.75,85.58,5,Returning,Jose Martinez,Heritage Bakes
+2023-10-05,Night,Facebook,76.31,28.43,5,New,John Gallagher,Heritage Bakes
+2023-04-19,Afternoon,Google Ads,273.33,97.35,5,New,Richard Chandler,Heritage Bakes
+2023-06-10,Night,Google Ads,299.77,82.48,3,Returning,Andrea Donaldson,Heritage Bakes
+2023-07-29,Evening,Email,403.86,166.94,6,New,Jamie Guerrero,Heritage Bakes
+2023-08-10,Evening,Walk-in,361.07,284.12,3,Returning,Nathan Adams,Heritage Bakes
+2023-06-25,Night,Walk-in,441.95,118.62,4,Returning,Thomas Davis,Heritage Bakes
+2023-08-29,Morning,Referral,289.36,201.3,5,Returning,James Williams,Heritage Bakes
+2023-03-28,Evening,Instagram,252.81,79.42,2,New,Troy Lee,Heritage Bakes
+2023-11-26,Night,Walk-in,195.74,134.31,6,Returning,Jennifer Mckenzie,Heritage Bakes
+2023-02-02,Night,Instagram,67.23,38.01,2,Returning,Joshua Scott,Heritage Bakes
+2023-06-12,Evening,Walk-in,152.75,62.5,1,Returning,April Jones,Heritage Bakes
+2023-11-13,Night,Referral,462.6,330.11,7,New,Deborah Webb,Heritage Bakes
+2023-01-04,Evening,Email,377.28,325.69,3,Returning,John Zavala,Heritage Bakes
+2023-02-26,Afternoon,Walk-in,384.82,124.56,27,Returning,Katherine Miller,Heritage Bakes
+2023-03-31,Evening,Facebook,48.11,12.05,0,New,Steven Jensen,Heritage Bakes
+2023-07-14,Afternoon,Email,380.81,173.19,5,Returning,Sarah Sosa,Heritage Bakes
+2023-12-04,Evening,Instagram,172.5,42.64,2,New,Justin Small,Heritage Bakes
+2023-05-05,Morning,Instagram,341.28,74.86,6,New,Erin Ortega,Heritage Bakes
+2023-01-09,Afternoon,Instagram,486.82,180.75,13,New,Mary Conley,Heritage Bakes
+2023-07-25,Night,Email,255.3,134.11,7,New,Melanie Drake,Heritage Bakes
+2023-09-04,Night,Google Ads,475.39,100.09,15,Returning,Danielle Briggs,Heritage Bakes
+2023-08-11,Afternoon,Walk-in,69,43.36,2,New,Dillon Case,Heritage Bakes
+2023-02-24,Night,Google Ads,354.46,85.44,6,New,William Esparza,Heritage Bakes
+2023-12-06,Morning,Instagram,25.84,10.08,0,New,Kevin Solis,Heritage Bakes
+2023-12-09,Night,Walk-in,65.37,18.59,0,New,Roger Peters,Heritage Bakes
+2023-02-27,Afternoon,Walk-in,455.44,418.19,16,New,Colleen Blanchard,Heritage Bakes
+2023-03-29,Evening,Walk-in,142.96,67.33,5,New,Christian Garcia,Heritage Bakes
+2023-07-05,Night,Referral,20.51,7.88,0,Returning,Heidi Newton,Heritage Bakes
+2023-07-05,Morning,Instagram,39.41,8.08,0,Returning,Gary Miller,Heritage Bakes
+2023-11-05,Afternoon,Facebook,208.46,50.81,18,Returning,John Hebert,Heritage Bakes
+2023-08-26,Evening,Instagram,168.08,92.54,1,Returning,Erik Small,Heritage Bakes
+2023-12-29,Afternoon,Email,435.04,252.31,16,New,Robert Moore,Heritage Bakes
+2023-12-25,Night,Email,200.23,50.44,7,New,Andre Pace,Heritage Bakes
+2023-08-15,Night,Walk-in,472.58,116.8,4,Returning,David Koch,Heritage Bakes
+2023-07-30,Evening,Walk-in,307.56,145.75,4,New,Tyler Chapman MD,Heritage Bakes
+2023-09-22,Night,Facebook,359.25,110.85,11,Returning,Donna Bishop,Heritage Bakes
+2023-01-27,Morning,Email,124.74,89.2,2,New,Christopher Murphy,Heritage Bakes
+2023-10-27,Night,Walk-in,299.29,60.73,4,Returning,Bradley Miller,Heritage Bakes
+2023-09-30,Evening,Email,420.14,145.08,6,New,Alejandra Fernandez,Heritage Bakes
+2023-01-05,Evening,Email,237.33,60.83,6,New,Brandon Cordova PhD,Heritage Bakes
+2023-01-08,Morning,Google Ads,467.81,166.06,7,New,Wendy Smith,Heritage Bakes
+2023-10-22,Morning,Walk-in,306.86,258.16,3,Returning,Casey Terrell,Heritage Bakes
+2023-02-19,Afternoon,Walk-in,223.24,79.74,2,Returning,Michael Serrano,Heritage Bakes
+2023-10-07,Evening,Email,162.66,53.17,4,New,Kenneth Williams,Heritage Bakes
+2023-05-01,Night,Instagram,444.74,167.28,13,New,Erin Williams,Heritage Bakes
+2023-12-02,Night,Walk-in,218.95,46.15,3,Returning,Virginia Mendez,Heritage Bakes
+2023-03-06,Evening,Instagram,200.22,152.26,5,New,Cheryl Jackson,Heritage Bakes
+2023-10-16,Morning,Google Ads,52.01,12.7,3,New,Wyatt Rodriguez,Heritage Bakes
+2023-01-27,Night,Email,170.56,66.99,4,New,Lisa Fox,Heritage Bakes
+2023-06-07,Night,Facebook,119.75,49.52,1,New,Diane Brown,Heritage Bakes
+2023-09-11,Morning,Walk-in,361.05,271.12,6,New,Debbie Schneider,Heritage Bakes
+2023-04-18,Afternoon,Instagram,176.6,67.3,1,New,Anne Obrien,Heritage Bakes
+2023-06-09,Night,Google Ads,241.22,53.19,5,New,Amanda Phelps,Heritage Bakes
+2023-12-05,Night,Instagram,300.56,285.8,3,New,Melissa Patrick,Heritage Bakes
+2023-03-28,Afternoon,Google Ads,64.6,36.55,0,Returning,Jordan Carter,Heritage Bakes
+2023-04-03,Morning,Walk-in,157.76,69.45,7,New,Jennifer Roman,Heritage Bakes
+2023-07-02,Afternoon,Instagram,45.85,24.78,0,New,William Parker,Heritage Bakes
+2023-09-04,Night,Facebook,195.53,41.88,2,New,David Hernandez,Heritage Bakes
+2023-09-17,Evening,Google Ads,477.83,142.35,4,New,Bobby Matthews,Heritage Bakes
+2023-02-22,Afternoon,Referral,349.99,245.23,9,Returning,Brian Cole,Heritage Bakes
+2023-05-11,Morning,Email,205.72,69.53,3,Returning,Benjamin Townsend,Heritage Bakes
+2023-04-26,Night,Referral,415.41,152.72,6,Returning,Lauren Higgins,Heritage Bakes
+2023-06-21,Night,Email,400.74,132.49,13,New,Bryan Newman,Heritage Bakes
+2023-02-17,Morning,Facebook,444.12,99.75,15,New,Kristen Matthews,Heritage Bakes
+2023-01-01,Night,Instagram,25.3,7.82,0,Returning,Christine Kennedy,Heritage Bakes
+2023-02-13,Afternoon,Google Ads,105.54,23.65,3,New,Christopher Lee,Heritage Bakes
+2023-10-31,Evening,Instagram,347.83,164.38,3,Returning,Andre Farrell,Heritage Bakes
+2023-06-13,Morning,Facebook,45.07,11.29,0,Returning,Cody Jimenez,Heritage Bakes
+2023-01-04,Afternoon,Facebook,124.22,48.64,1,Returning,Jennifer Fletcher,Heritage Bakes
+2023-11-30,Morning,Walk-in,467.48,143.26,7,New,Casey Murphy,Heritage Bakes
+2023-06-22,Afternoon,Walk-in,348.13,287.9,3,Returning,Jennifer Edwards,Heritage Bakes
+2023-03-01,Night,Google Ads,162.66,43.19,3,New,Lacey Graves,Heritage Bakes
+2023-02-19,Morning,Referral,305.92,89.39,3,Returning,Richard Best,Heritage Bakes
+2023-02-17,Night,Facebook,117.41,34.38,1,Returning,John Mcneil,Heritage Bakes
+2023-09-11,Night,Email,351.77,73.01,9,New,Stephen Allen,Heritage Bakes
+2023-08-04,Night,Referral,355.49,119.89,5,Returning,Tina Solomon,Heritage Bakes
+2023-05-23,Evening,Referral,390.57,90.85,6,New,Jennifer Townsend,Heritage Bakes
+2023-01-20,Evening,Google Ads,113.59,47.28,2,New,Michelle Mcbride,Heritage Bakes
+2023-02-28,Evening,Facebook,76.9,47.01,0,New,Aaron Webb,Heritage Bakes
+2023-08-10,Morning,Email,391.57,127.66,6,New,Kathryn Clark,Heritage Bakes
+2023-11-27,Night,Walk-in,378.2,112.49,8,New,Matthew Doyle,Heritage Bakes
+2023-12-19,Evening,Referral,45.44,13.5,0,Returning,Kiara Preston,Heritage Bakes
+2023-01-28,Night,Google Ads,240.98,111.36,2,Returning,Lisa Salazar MD,Heritage Bakes
+2023-11-02,Morning,Email,429.3,104.67,5,Returning,Rebecca Gibson,Heritage Bakes
+2023-05-03,Night,Facebook,241.7,109.57,3,New,Kimberly Ryan,Heritage Bakes
+2023-01-02,Evening,Google Ads,37.9,9.29,1,New,Amanda Cook,Heritage Bakes
+2023-05-08,Morning,Walk-in,62.65,16.26,2,Returning,Mark Conner,Heritage Bakes
+2023-05-21,Afternoon,Email,394.09,174.77,12,New,Shawn Hickman,Heritage Bakes
+2023-01-08,Afternoon,Email,194.69,104.45,3,New,Lisa Hall,Heritage Bakes
+2023-09-26,Afternoon,Instagram,184.38,37.75,3,New,Kevin Cole,Heritage Bakes
+2023-05-13,Afternoon,Facebook,96.79,52.33,1,New,Matthew Williams,Heritage Bakes
+2023-01-06,Morning,Email,232.87,203.35,3,New,Tanner King,Heritage Bakes
+2023-09-26,Morning,Referral,48.65,10.43,0,New,Joseph Williams,Heritage Bakes
+2023-09-18,Morning,Walk-in,128.55,39.55,4,Returning,Joann Sanders,Heritage Bakes
+2023-11-23,Afternoon,Google Ads,30.68,19.7,0,Returning,Tyler Lang,Heritage Bakes
+2023-10-14,Evening,Facebook,397.76,101.9,31,Returning,Robert Payne,Heritage Bakes
+2023-12-10,Evening,Email,244.16,210.36,12,New,Jonathan Cisneros,Heritage Bakes
+2023-06-10,Afternoon,Referral,41.76,23.02,3,New,Margaret Torres,Heritage Bakes
+2023-11-18,Night,Facebook,98.77,45.08,1,New,Amber Zhang,Heritage Bakes
+2023-11-25,Morning,Referral,201.4,149.56,2,New,Matthew Roberts,Heritage Bakes
+2023-01-31,Morning,Instagram,250.48,99.72,2,New,David Hays,Heritage Bakes
+2023-08-04,Night,Walk-in,302.47,91.12,4,Returning,Erin Gardner,Heritage Bakes
+2023-03-28,Afternoon,Facebook,175,36.31,5,New,Michael Miller,Heritage Bakes
+2023-04-20,Afternoon,Facebook,211.24,48.91,3,Returning,Theresa Smith,Heritage Bakes
+2023-10-16,Afternoon,Email,376.59,193.78,5,New,Paul Scott,Heritage Bakes
+2023-01-21,Morning,Email,365.98,117.41,6,Returning,Megan Perry,Heritage Bakes
+2023-10-27,Afternoon,Walk-in,293.08,199.82,3,Returning,Christina Martin,Heritage Bakes
+2023-03-06,Afternoon,Google Ads,50.88,18.45,1,New,Timothy Collins,Heritage Bakes
+2023-06-06,Evening,Instagram,427.84,354.02,7,New,Kimberly Jones,Heritage Bakes
+2023-07-08,Night,Email,351.43,181.95,33,New,Dr. Sarah Smith,Heritage Bakes
+2023-05-26,Night,Facebook,162.11,48.03,15,New,Richard Bauer,Heritage Bakes
+2023-02-02,Afternoon,Email,169.81,107.48,1,New,Traci Wilson,Heritage Bakes
+2023-08-28,Night,Instagram,253.8,59.82,3,New,Bryan Miranda,Heritage Bakes
+2023-03-27,Night,Instagram,252.88,65.87,3,New,Julie Martinez,Heritage Bakes
+2023-11-05,Morning,Instagram,157.32,91.99,2,Returning,Diana Miller,Heritage Bakes
+2023-11-07,Night,Referral,260.05,90.09,14,New,Heather Hughes,Heritage Bakes
+2023-01-30,Night,Google Ads,400.14,97.97,5,Returning,Tony Swanson,Heritage Bakes
+2023-04-14,Morning,Referral,11.36,3.2,0,New,Lisa Montes,Heritage Bakes
+2023-02-12,Night,Facebook,452.89,111.76,11,New,Wendy Martin,Heritage Bakes
+2023-09-29,Evening,Instagram,68.13,14.25,2,New,Joseph Norris,Heritage Bakes
+2023-06-29,Afternoon,Google Ads,48.29,20.34,4,Returning,William Todd,Heritage Bakes
+2023-12-29,Morning,Email,496.08,351.71,9,Returning,Gerald Price,Heritage Bakes
+2023-08-19,Morning,Google Ads,332.98,101.15,7,New,Ashley Hunt,Heritage Bakes
+2023-09-19,Morning,Instagram,445.92,109.34,10,Returning,Christy Lee,Heritage Bakes
+2023-07-24,Morning,Email,154.72,41.78,1,Returning,Patricia Adkins,Heritage Bakes
+2023-05-14,Evening,Facebook,85.75,55.3,1,Returning,Willie Perez,Heritage Bakes
+2023-09-27,Night,Google Ads,90.2,20.13,1,Returning,Susan Snyder,Heritage Bakes
+2023-09-06,Evening,Walk-in,212.39,44.58,2,New,Jasmine Day,Heritage Bakes
+2023-05-18,Evening,Referral,296.27,75.51,10,New,Andrew Chavez,Heritage Bakes
+2023-12-09,Night,Email,134.17,27.78,4,Returning,Henry Huerta,Heritage Bakes
+2023-06-03,Evening,Google Ads,300.41,162.16,3,New,Mariah Perry,Heritage Bakes
+2023-12-31,Evening,Google Ads,355.97,79.85,12,New,Tracy Atkins,Heritage Bakes
+2023-09-03,Morning,Referral,249.16,119.21,3,New,Ryan Wheeler,Heritage Bakes
+2023-05-11,Night,Instagram,16.17,6.07,0,Returning,Audrey Taylor,Heritage Bakes
+2023-11-10,Afternoon,Google Ads,165.19,48.01,4,Returning,Zachary Swanson MD,Heritage Bakes
+2023-03-27,Evening,Referral,441.45,240.69,7,New,Amanda Conley,Heritage Bakes
+2023-09-16,Morning,Facebook,218.2,62.54,2,New,Eric Short,Heritage Bakes
+2023-04-20,Morning,Walk-in,347.27,220.67,5,New,Scott Brown,Heritage Bakes
+2023-08-12,Night,Referral,478.28,179.78,10,Returning,Victor Taylor,Heritage Bakes
+2023-01-23,Evening,Walk-in,461.49,98.26,27,Returning,James Hernandez,Heritage Bakes
+2023-05-18,Morning,Facebook,340.79,282.4,8,Returning,Jason Jones,Heritage Bakes
+2023-10-02,Morning,Instagram,427.74,208,7,New,Angela Parker,Heritage Bakes
+2023-05-14,Evening,Instagram,232.27,145.93,11,New,Alexander Zavala,Heritage Bakes
+2023-10-10,Night,Instagram,286.07,249.37,4,Returning,Michael Kane,Heritage Bakes
+2023-10-09,Night,Instagram,337.38,74.45,31,New,Lindsey York,Heritage Bakes
+2023-03-13,Evening,Google Ads,135.59,32.37,10,Returning,Brandon Baker,Heritage Bakes
+2023-02-10,Evening,Referral,215.83,186.41,3,New,Stephen White,Heritage Bakes
+2023-10-25,Evening,Facebook,324.34,137.06,4,Returning,Robert Hall,Heritage Bakes
+2023-12-17,Evening,Google Ads,274.04,68,3,New,Ryan Pierce,Heritage Bakes
+2023-01-31,Evening,Instagram,188.54,79.78,7,Returning,Shannon Cain,Heritage Bakes
+2023-08-16,Evening,Referral,94.93,36.22,2,New,Laura Vaughn,Heritage Bakes
+2023-04-02,Night,Instagram,463.89,137.08,6,Returning,Juan Evans,Heritage Bakes
+2023-08-30,Morning,Email,366.79,125.24,4,New,Nicole Williams,Heritage Bakes
+2023-06-03,Afternoon,Instagram,375.88,142.48,9,New,Jennifer Barrett,Heritage Bakes
+2023-11-02,Night,Referral,338.71,71.69,12,New,Anthony Jones,Heritage Bakes
+2023-04-04,Morning,Facebook,115.57,24.3,5,New,Leah Rodriguez,Heritage Bakes
+2023-08-20,Night,Referral,303.94,69.29,3,New,John Ward,Heritage Bakes
+2023-12-28,Evening,Email,161.25,61.4,9,New,Deborah Garza,Heritage Bakes
+2023-11-29,Evening,Facebook,460.91,96.08,15,New,Rebecca Miller,Heritage Bakes
+2023-01-11,Morning,Walk-in,88.71,30.07,1,Returning,Matthew Carroll,Heritage Bakes
+2023-10-15,Morning,Email,392.24,140.81,23,New,Lynn Smith,Heritage Bakes
+2023-10-13,Afternoon,Instagram,77.11,52.64,4,Returning,Michael Jackson,Heritage Bakes
+2023-10-03,Afternoon,Referral,484.15,108.86,8,New,Sharon Hicks,Heritage Bakes
+2023-03-02,Afternoon,Walk-in,41.81,15.46,0,Returning,Abigail Mills MD,Heritage Bakes
+2023-08-30,Night,Facebook,319.74,107.25,3,New,Paula Lopez,Heritage Bakes
+2023-02-15,Afternoon,Referral,429.65,244.26,12,Returning,Amy Clark,Heritage Bakes
+2023-11-26,Morning,Google Ads,226.5,170.25,2,Returning,Cheryl Rose,Heritage Bakes
+2023-03-08,Afternoon,Instagram,86.72,19.27,5,Returning,Jared Garza,Heritage Bakes
+2023-02-01,Night,Walk-in,342.96,153.61,9,New,Donna Wright,Heritage Bakes
+2023-01-09,Afternoon,Email,490.7,139,33,New,Belinda Fisher,Heritage Bakes
+2023-06-25,Night,Google Ads,36.34,14.75,0,New,Kathleen Levine,Heritage Bakes
+2023-05-02,Evening,Referral,395.64,251.67,7,New,Corey King,Heritage Bakes
+2023-06-23,Morning,Instagram,140.16,77.49,2,New,Cody Davidson,Heritage Bakes
+2023-07-11,Night,Email,264.25,180.99,3,New,Michael Anderson,Heritage Bakes
+2023-11-15,Night,Walk-in,461.03,102.44,5,Returning,Zachary Mcgee,Heritage Bakes
+2023-08-09,Morning,Referral,257.53,115.89,16,New,Melinda Anderson,Heritage Bakes
+2023-01-24,Morning,Referral,195.74,148.53,5,Returning,Tyler Andrews,Heritage Bakes
+2023-11-04,Evening,Email,437.72,130.71,6,Returning,Michelle Greer,Heritage Bakes
+2023-11-21,Morning,Instagram,191.88,44.48,7,New,Brian Clark,Heritage Bakes
+2023-07-23,Afternoon,Walk-in,72.24,15.95,1,New,Nathaniel Floyd,Heritage Bakes
+2023-03-10,Morning,Email,419.05,124.06,6,Returning,Erika Jenkins,Heritage Bakes
+2023-07-31,Morning,Walk-in,356.62,94.85,13,New,Melanie Ramos,Heritage Bakes
+2023-05-24,Afternoon,Walk-in,183.56,180.32,2,New,Mark Clark,Heritage Bakes
+2023-09-02,Evening,Walk-in,246.12,126.56,4,New,Sergio Hodge,Heritage Bakes
+2023-09-13,Night,Instagram,77.55,37.05,6,Returning,Katherine Avery,Heritage Bakes
+2023-04-24,Evening,Google Ads,48.75,40.19,1,New,David Hamilton,Heritage Bakes
+2023-09-28,Morning,Referral,133.76,40.62,2,Returning,Richard Bass,Heritage Bakes
+2023-04-19,Night,Facebook,453.9,105.05,9,New,Kelly Harris,Heritage Bakes
+2023-05-29,Afternoon,Instagram,154.48,84.21,4,Returning,Dustin Campbell,Heritage Bakes
+2023-03-13,Afternoon,Referral,335.43,100.4,21,Returning,Randy Kennedy,Heritage Bakes
+2023-08-12,Afternoon,Referral,424.31,229.29,8,Returning,Ana Gibson,Heritage Bakes
+2023-11-04,Afternoon,Instagram,93.23,22.03,2,New,Danny Harris,Heritage Bakes
+2023-02-06,Morning,Facebook,484.22,143.72,8,Returning,Sara Stuart,Heritage Bakes
+2023-07-13,Night,Referral,81.54,69.09,1,Returning,John Kim,Heritage Bakes
+2023-05-13,Night,Google Ads,465.42,204.64,46,New,Richard Brewer,Heritage Bakes
+2023-03-15,Afternoon,Referral,44.12,9.5,1,Returning,William Arnold,Heritage Bakes
+2023-03-03,Night,Walk-in,48.67,30.24,0,New,Brianna Adams,Heritage Bakes
+2023-04-22,Afternoon,Facebook,66.86,13.9,1,Returning,David Garcia,Heritage Bakes
+2023-10-28,Morning,Instagram,329.58,267.35,3,New,Kelli Collins,Heritage Bakes
+2023-01-22,Morning,Walk-in,392.56,83.26,4,Returning,Arthur Krueger,Heritage Bakes
+2023-07-05,Night,Google Ads,111.53,27.75,2,Returning,Steven King,Heritage Bakes
+2023-10-08,Evening,Google Ads,476.67,157.62,5,New,Tyler Velazquez,Heritage Bakes
+2023-07-17,Afternoon,Walk-in,258.7,148.06,2,Returning,Laura Middleton,Heritage Bakes
+2023-04-03,Night,Email,323.13,84.97,6,Returning,Lori Madden,Heritage Bakes
+2023-10-10,Morning,Email,337.3,71.69,10,New,Tyler Murphy,Heritage Bakes
+2023-05-14,Afternoon,Referral,116.62,26.4,8,Returning,Kristen Bradley,Heritage Bakes
+2023-08-20,Morning,Instagram,493.43,312.58,39,New,Corey Rodriguez,Heritage Bakes
+2023-03-26,Night,Instagram,292.85,89.17,3,New,Phillip King,Heritage Bakes
+2023-06-13,Night,Google Ads,313.66,181.52,3,Returning,Laurie Fuller,Heritage Bakes
+2023-12-13,Evening,Referral,365.36,264.27,8,New,Toni Cunningham,Heritage Bakes
+2023-01-28,Night,Walk-in,78.98,20.24,1,New,James Weber,Heritage Bakes
+2023-06-23,Evening,Google Ads,158.19,44.09,2,Returning,Erika Hodge,Heritage Bakes
+2023-02-12,Afternoon,Google Ads,178.9,68.25,2,Returning,Peter Patel,Heritage Bakes
+2023-08-03,Evening,Google Ads,306.24,78.89,10,New,Jeffrey Hart DDS,Heritage Bakes
+2023-02-27,Night,Facebook,452.37,180.73,29,Returning,Steven Hall,Heritage Bakes
+2023-02-19,Night,Facebook,461.34,108.55,7,New,Christine Gutierrez,Heritage Bakes
+2023-11-10,Morning,Google Ads,323.03,134.14,5,New,Angel Becker DVM,Heritage Bakes
+2023-10-01,Night,Referral,210.08,68.91,4,Returning,Chad Rojas,Heritage Bakes
+2023-06-26,Afternoon,Email,32.64,16.73,0,New,Brent Scott,Heritage Bakes
+2023-10-05,Evening,Referral,77.13,21.76,1,Returning,Jennifer Esparza,Heritage Bakes
+2023-03-13,Morning,Instagram,153.94,142.67,2,Returning,Stacy Orozco,Heritage Bakes
+2023-02-03,Evening,Email,366.42,118.23,5,Returning,Thomas Carr,Heritage Bakes
+2023-07-18,Afternoon,Instagram,456.58,159.78,5,New,David George,Heritage Bakes
+2023-05-15,Morning,Referral,321.16,125.23,6,New,Teresa Allen,Heritage Bakes
+2023-09-11,Evening,Email,154.44,132.12,2,New,Donald Jackson,Heritage Bakes
+2023-08-21,Night,Walk-in,420.83,284.97,5,New,Monica Howe,Heritage Bakes
+2023-01-03,Afternoon,Instagram,423.03,142.18,6,New,Willie Flynn PhD,Heritage Bakes
+2023-08-30,Afternoon,Email,81.48,64.81,1,New,Jonathan Perez,Heritage Bakes
+2023-12-23,Afternoon,Google Ads,163.61,36.73,2,New,April Horton,Heritage Bakes
+2023-01-18,Morning,Email,94.56,21.06,1,New,Nicole Hawkins,Heritage Bakes
+2023-07-24,Afternoon,Referral,351.69,204.81,4,New,Patrick Hooper,Heritage Bakes
+2023-08-21,Evening,Facebook,402.96,141.51,4,Returning,Mary Lee,Heritage Bakes
+2023-02-28,Evening,Walk-in,316.89,146.26,5,Returning,Cynthia Williams,Heritage Bakes
+2023-12-29,Evening,Referral,143.81,33.14,1,Returning,Ronald Gonzalez,Heritage Bakes
+2023-02-05,Afternoon,Walk-in,81.69,23.97,1,New,Antonio Cole,Heritage Bakes
+2023-01-14,Night,Google Ads,400.47,175.58,35,New,Amanda Swanson,Heritage Bakes
+2023-03-27,Afternoon,Google Ads,399.5,87.72,4,New,Holly Sherman,Heritage Bakes
+2023-10-01,Morning,Email,235.63,162.6,5,Returning,Sandy Reynolds,Heritage Bakes
+2023-10-25,Morning,Google Ads,151.88,34.77,3,Returning,Sandra Moore,Heritage Bakes
+2023-06-16,Evening,Referral,460.65,100.02,13,Returning,Christopher Johnson,Heritage Bakes
+2023-07-27,Morning,Instagram,495.86,129.94,8,Returning,Ryan Fisher,Heritage Bakes
+2023-02-02,Morning,Instagram,448.05,124.71,6,New,Christopher Jones,Heritage Bakes
+2023-12-11,Afternoon,Email,289.54,85.22,5,Returning,Jeffrey Lyons,Heritage Bakes
+2023-03-27,Morning,Walk-in,39.23,10.17,0,New,Miguel Reeves,Heritage Bakes
+2023-10-21,Morning,Google Ads,128.04,50.45,2,Returning,Kiara Santana,Heritage Bakes
+2023-12-20,Evening,Referral,200.98,128.68,3,Returning,Tonya Richards,Heritage Bakes
+2023-12-18,Morning,Email,342.71,76.17,8,New,Jesse Poole,Heritage Bakes
+2023-06-11,Morning,Google Ads,64.63,13.46,1,New,Mary Lewis,Heritage Bakes
+2023-05-15,Night,Facebook,141.02,29.58,2,New,Christopher Copeland,Heritage Bakes
+2023-10-06,Afternoon,Email,232.2,105.58,9,New,Ethan Obrien,Heritage Bakes
+2023-12-02,Morning,Facebook,386.22,220.16,4,New,Rebecca Houston,Heritage Bakes
+2023-08-02,Evening,Instagram,402,145.65,9,Returning,Edward Barton,Heritage Bakes
+2023-09-04,Evening,Facebook,140.29,57.8,6,Returning,Brandon Perkins,Heritage Bakes
+2023-04-30,Evening,Facebook,495.73,121.96,10,New,Beth Brown,Heritage Bakes
+2023-11-03,Night,Email,67.91,24.46,0,Returning,Kim Vincent,Heritage Bakes
+2023-11-22,Morning,Facebook,358.94,126.23,5,Returning,Jennifer Banks,Heritage Bakes
+2023-09-15,Afternoon,Referral,188.81,40.13,5,Returning,Ruth Brown,Heritage Bakes
+2023-11-12,Morning,Walk-in,165.94,43.22,2,New,Shawn Lindsey,Heritage Bakes
+2023-06-28,Night,Walk-in,284.98,75.11,3,New,Anthony Garrison,Heritage Bakes
+2023-02-16,Evening,Email,248.71,72.7,4,Returning,Angela Ryan,Heritage Bakes
+2023-11-27,Night,Facebook,26.69,12.2,1,New,Joseph Davis,Heritage Bakes
+2023-02-10,Morning,Instagram,349.39,88.22,6,Returning,Joshua Clayton,Heritage Bakes
+2023-10-13,Afternoon,Facebook,197.54,56.6,15,Returning,John Massey,Heritage Bakes
+2023-07-09,Afternoon,Walk-in,396.67,79.35,26,Returning,Richard Hale,Heritage Bakes
+2023-05-23,Evening,Google Ads,241.93,51,11,Returning,Charles Ramos,Heritage Bakes
+2023-06-30,Night,Facebook,456.84,217,7,New,Mark Miller,Heritage Bakes
+2023-10-16,Morning,Email,420.47,90.17,16,Returning,Julia Maldonado,Heritage Bakes
+2023-06-08,Afternoon,Facebook,11.61,3.21,0,Returning,Gail Johnson MD,Heritage Bakes
+2023-05-08,Morning,Email,31.63,16.05,0,Returning,Maurice Johnson,Heritage Bakes
+2023-09-17,Morning,Walk-in,354.71,281.84,15,Returning,Amanda Morris,Heritage Bakes
+2023-04-09,Night,Walk-in,339.9,76.36,4,New,Rhonda Willis,Heritage Bakes
+2023-05-05,Afternoon,Email,21.39,6.75,0,Returning,Connor Benton,Heritage Bakes
+2023-05-19,Evening,Walk-in,145.58,93.05,2,New,Richard Ryan,Heritage Bakes
+2023-04-15,Afternoon,Google Ads,374.02,358.68,4,New,Richard Goodman,Heritage Bakes
+2023-11-29,Afternoon,Facebook,390.49,310.78,5,New,Michelle Mcneil,Heritage Bakes
+2023-08-25,Morning,Google Ads,74.58,16.9,1,Returning,Michael Norton,Heritage Bakes
+2023-11-18,Morning,Instagram,238.04,84.59,7,Returning,Donna Carter,Heritage Bakes
+2023-11-10,Evening,Facebook,49.17,31.32,1,Returning,Joshua Hernandez,Heritage Bakes
+2023-08-29,Evening,Google Ads,140.42,54.3,8,New,Kimberly Mitchell,Heritage Bakes
+2023-06-04,Night,Facebook,160.03,86.33,2,New,Patricia Hernandez,Heritage Bakes
+2023-03-16,Evening,Email,79.75,17.79,1,Returning,Donna Howell,Heritage Bakes
+2023-03-26,Evening,Walk-in,172.4,121.79,2,New,James Williams,Heritage Bakes
+2023-07-02,Evening,Email,358.19,79.07,5,Returning,Alexander Greene,Heritage Bakes
+2023-09-20,Night,Instagram,177.34,45.95,3,Returning,Dean Sanchez,Heritage Bakes
+2023-01-11,Evening,Google Ads,443.3,143.53,10,New,Glenn Ward,Heritage Bakes
+2023-02-10,Afternoon,Walk-in,44.56,17.62,0,Returning,Kendra Sullivan,Heritage Bakes
+2023-08-27,Morning,Walk-in,54.07,33.78,0,Returning,Cynthia Hernandez,Heritage Bakes
+2023-09-18,Afternoon,Google Ads,143.73,41.96,2,Returning,Darren Morris,Heritage Bakes
+2023-10-08,Evening,Google Ads,223.88,168.49,7,New,Holly Underwood,Heritage Bakes
+2023-06-29,Night,Facebook,247.13,69.52,4,Returning,Jaime Williams,Heritage Bakes
+2023-10-07,Afternoon,Google Ads,191.76,68.7,2,Returning,Lori Brown,Heritage Bakes
+2023-11-22,Morning,Walk-in,488.37,177.68,19,New,Jason Chase,Heritage Bakes
+2023-10-07,Night,Google Ads,474.45,230.5,15,New,Lisa Buchanan,Heritage Bakes
+2023-02-15,Morning,Walk-in,204.09,44.27,2,New,Marcus Fields,Heritage Bakes
+2023-03-27,Evening,Facebook,93.33,40.77,2,New,Tammy Lopez,Heritage Bakes
+2023-08-05,Afternoon,Instagram,303.46,102.66,18,Returning,Derek Williams,Heritage Bakes
+2023-12-17,Night,Instagram,421.59,126.31,4,New,James Davenport,Heritage Bakes
+2023-02-13,Afternoon,Email,78.42,26.34,1,New,Justin Moreno,Heritage Bakes
+2023-12-15,Night,Email,325.31,117.73,7,Returning,Mario Green,Heritage Bakes
+2023-09-28,Morning,Email,305.01,84.14,17,New,Cassandra Fry,Heritage Bakes
+2023-06-16,Night,Google Ads,182.71,131.53,3,New,Dr. Jose Gray DDS,Heritage Bakes
+2023-05-29,Night,Walk-in,161.76,115.56,1,New,Amy Adams,Heritage Bakes
+2023-06-04,Afternoon,Google Ads,241.49,101.41,4,Returning,Austin Horton,Heritage Bakes
+2023-04-17,Morning,Instagram,154.61,50.68,6,New,Elizabeth Jackson,Heritage Bakes
+2023-09-03,Morning,Google Ads,193.77,46.28,2,Returning,Maureen Cross,Heritage Bakes
+2023-08-04,Night,Email,341.31,79.63,3,New,Christopher Sanchez,Heritage Bakes
+2023-03-14,Afternoon,Instagram,266.31,199.87,6,Returning,Mitchell Richardson,Heritage Bakes
+2023-06-19,Evening,Facebook,96.02,20.55,2,New,Kelsey Lewis,Heritage Bakes
+2023-04-26,Morning,Email,416.15,221.46,27,New,Richard Miller,Heritage Bakes
+2023-04-11,Afternoon,Referral,306.04,169.68,4,New,Samantha Carter,Heritage Bakes
+2023-08-07,Afternoon,Instagram,482.76,179.25,15,New,Mrs. Heather Christensen,Heritage Bakes
+2023-04-01,Evening,Instagram,270.28,87.54,4,Returning,Sharon Williams,Heritage Bakes
+2023-07-03,Morning,Instagram,315.53,100.06,17,New,Daryl Lowe,Heritage Bakes
+2023-03-19,Morning,Google Ads,102.82,22.35,3,New,Michael Carter,Heritage Bakes
+2023-09-30,Evening,Facebook,83.64,16.76,2,New,Susan Johnson,Heritage Bakes
+2023-06-04,Evening,Facebook,81.99,16.95,1,Returning,James Jenkins,Heritage Bakes
+2023-07-28,Morning,Google Ads,339.24,73.97,5,Returning,Dylan Johnston,Heritage Bakes
+2023-02-17,Evening,Google Ads,84.77,17.25,6,New,Kathy Hull,Heritage Bakes
+2023-12-31,Afternoon,Instagram,317.03,145.69,3,Returning,Monica Richardson,Heritage Bakes
+2023-04-05,Morning,Referral,484.18,114.02,8,Returning,Kathryn White,Heritage Bakes
+2023-01-02,Morning,Walk-in,206.79,89.77,5,Returning,Mrs. Valerie Owens,Heritage Bakes
+2023-12-30,Night,Instagram,141.88,30.36,1,New,Amy Watts,Heritage Bakes
+2023-07-21,Morning,Walk-in,402.12,155.97,7,Returning,Michael Brown,Heritage Bakes
+2023-01-17,Morning,Email,113.93,71.57,1,New,Cynthia Hendricks,Heritage Bakes
+2023-10-19,Afternoon,Google Ads,381.59,84.89,19,New,Phillip Kelly,Heritage Bakes
+2023-02-15,Afternoon,Google Ads,220.72,107.7,2,New,Deanna Edwards,Heritage Bakes
+2023-10-10,Morning,Facebook,201.52,56.55,14,Returning,Jennifer Walker,Heritage Bakes
+2023-09-15,Evening,Referral,393.71,95.5,5,New,Brian Davis,Heritage Bakes
+2023-09-25,Night,Referral,149.48,43.95,2,Returning,Kelsey Griffith,Heritage Bakes
+2023-07-26,Night,Referral,92.63,68.25,1,Returning,Kimberly Obrien,Heritage Bakes
+2023-12-02,Evening,Google Ads,210.44,108.36,2,Returning,Kevin Mccoy,Heritage Bakes
+2023-07-10,Afternoon,Email,478.31,133.71,4,New,Daniel Sullivan,Heritage Bakes
+2023-09-02,Evening,Referral,229.68,189.99,4,New,Darius Khan,Heritage Bakes
+2023-06-02,Night,Referral,280.07,258.37,3,Returning,Miranda Huber,Heritage Bakes
+2023-03-09,Afternoon,Facebook,271.64,74.76,6,Returning,Lisa Wagner,Heritage Bakes
+2023-09-26,Evening,Email,223.51,60.15,4,Returning,Erin Price,Heritage Bakes
+2023-11-08,Evening,Facebook,403.99,273.19,9,New,Jonathan Russell,Heritage Bakes
+2023-10-16,Morning,Walk-in,489.61,229.28,13,Returning,Sharon Snow,Heritage Bakes
+2023-08-18,Morning,Walk-in,409.98,167.68,6,Returning,Cody Hoover,Heritage Bakes
+2023-06-03,Morning,Referral,70.07,41.83,3,New,Alyssa Rodriguez PhD,Heritage Bakes
+2023-09-30,Morning,Walk-in,272.69,71.24,5,New,Carl Harper,Heritage Bakes
+2023-05-08,Morning,Referral,229.81,70.37,18,New,Dana Bennett,Heritage Bakes
+2023-04-23,Night,Referral,309.53,78.68,5,Returning,Michael Baker,Heritage Bakes
+2023-11-16,Night,Referral,476.63,162.75,6,Returning,William Wilson,Heritage Bakes
+2023-02-22,Evening,Referral,130.92,81.84,2,New,Jennifer Smith,Heritage Bakes
+2023-05-03,Morning,Email,340.09,192.24,13,New,Cindy Richardson,Heritage Bakes
+2023-06-10,Evening,Facebook,138.89,31.05,6,New,Brandi Brown,Heritage Bakes
+2023-10-19,Morning,Facebook,329.31,129.55,5,New,Benjamin Martinez,Heritage Bakes
+2023-02-21,Morning,Email,118.33,35.22,1,New,Patricia Mitchell,Heritage Bakes
+2023-02-28,Evening,Facebook,177.71,40.67,3,Returning,Courtney Sanders,Heritage Bakes
+2023-06-01,Morning,Google Ads,176.21,46.9,5,Returning,Ryan Willis,Heritage Bakes
+2023-12-15,Morning,Instagram,75.88,18.15,6,Returning,Jennifer Jackson,Heritage Bakes
+2023-01-22,Evening,Email,60.04,50.64,1,Returning,Teresa Obrien,Heritage Bakes
+2023-04-28,Evening,Walk-in,241.77,86.8,2,Returning,Angel Hayes,Heritage Bakes
+2023-11-18,Morning,Google Ads,382.72,99.27,21,New,Jason Davis,Heritage Bakes
+2023-01-05,Night,Google Ads,456.66,401.38,6,Returning,Melissa Mathews,Heritage Bakes
+2023-06-05,Evening,Email,492.73,256.48,41,Returning,Joseph Russell,Heritage Bakes
+2023-08-28,Morning,Referral,310.12,70.44,28,New,Sandra Mccoy,Heritage Bakes
+2023-02-16,Evening,Email,298.96,160.07,4,New,Gail Vasquez,Heritage Bakes
+2023-07-30,Night,Facebook,337.83,81.05,5,New,Jeffrey Gibbs,Heritage Bakes
+2023-02-10,Evening,Google Ads,335.72,84.21,8,Returning,Michael Wilson,Heritage Bakes
+2023-02-06,Afternoon,Facebook,418.16,195.09,33,Returning,Richard Smith,Heritage Bakes
+2023-04-06,Morning,Instagram,243.12,135.61,2,Returning,Corey Mooney,Heritage Bakes
+2023-10-27,Evening,Walk-in,219.02,86.18,2,Returning,Christina Myers,Heritage Bakes
+2023-07-28,Afternoon,Walk-in,100.35,20.97,4,Returning,Anita Pitts,Heritage Bakes
+2023-11-18,Night,Google Ads,240.5,62.43,2,New,Christian Bryant,Heritage Bakes
+2023-12-27,Evening,Google Ads,389.18,134.71,6,New,Patrick Garcia,Heritage Bakes
+2023-08-04,Morning,Walk-in,99.74,26.88,1,New,Daniel Merritt,Heritage Bakes
+2023-10-24,Night,Instagram,458.87,125,6,New,Robert Hicks,Heritage Bakes
+2023-06-13,Morning,Facebook,316.82,87.5,3,Returning,Kenneth Washington,Heritage Bakes
+2023-03-23,Evening,Referral,182.88,63.62,1,New,Jessica Hoffman,Heritage Bakes
+2023-10-21,Evening,Facebook,37.96,37.62,0,Returning,Lisa Riggs,Heritage Bakes
+2023-08-16,Night,Facebook,273.26,63.39,3,New,Donna Mccarty,Heritage Bakes
+2023-06-19,Morning,Instagram,32.91,8.03,0,New,Eric Spencer,Heritage Bakes
+2023-07-01,Afternoon,Facebook,174.87,36.03,2,New,Victoria Deleon,Heritage Bakes
+2023-04-19,Morning,Instagram,431.49,129.1,5,Returning,David Roy,Heritage Bakes
+2023-11-12,Morning,Walk-in,36.64,14.98,1,New,Nancy Rice,Heritage Bakes
+2023-01-01,Evening,Email,249.05,70.86,6,Returning,Daniel Brewer,Heritage Bakes
+2023-04-18,Afternoon,Google Ads,352.33,120.97,6,Returning,Becky Garcia,Heritage Bakes
+2023-10-10,Night,Walk-in,303.81,61.7,4,New,Michael Smith,Heritage Bakes
+2023-04-19,Afternoon,Google Ads,152.6,70.01,14,New,Katie Kaiser,Heritage Bakes
+2023-09-27,Evening,Google Ads,471.27,186.16,7,Returning,Amy Roberts,Heritage Bakes
+2023-11-16,Morning,Walk-in,368.13,116,4,New,Taylor Espinoza,Heritage Bakes
+2023-07-23,Afternoon,Instagram,111.5,22.67,1,New,David Aguirre,Heritage Bakes
+2023-02-19,Morning,Referral,292.92,109.58,3,New,Kyle Armstrong,Heritage Bakes
+2023-05-28,Morning,Referral,236.26,103.87,2,New,Jennifer Weber,Heritage Bakes
+2023-05-12,Night,Email,383.2,245.45,3,New,Sheila Douglas,Heritage Bakes
+2023-04-12,Night,Instagram,313.3,174.43,4,New,Maria Malone,Heritage Bakes
+2023-12-19,Evening,Email,367.24,80.49,4,New,Megan Juarez,Heritage Bakes
+2023-07-29,Night,Referral,133.67,71.75,1,New,Ann Boyd,Heritage Bakes
+2023-05-23,Afternoon,Instagram,29.16,11.95,1,New,Richard Riley,Heritage Bakes
+2023-02-13,Night,Google Ads,228.62,56.94,2,Returning,Laura Thomas,Heritage Bakes
+2023-05-28,Night,Referral,476.9,159.41,4,Returning,Elizabeth Barton,Heritage Bakes
+2023-07-31,Evening,Referral,386.75,80.32,31,Returning,Laura Sparks,Heritage Bakes
+2023-08-06,Night,Referral,426.47,258.39,6,Returning,Tiffany Zamora,Heritage Bakes
+2023-10-28,Night,Instagram,284.89,60.86,3,Returning,Ryan Roman,Heritage Bakes
+2023-06-11,Afternoon,Walk-in,85.27,37.58,1,New,Richard Parsons,Heritage Bakes
+2023-12-20,Evening,Facebook,421.77,338.2,6,Returning,Justin Yu,Heritage Bakes
+2023-04-25,Morning,Facebook,242.71,101.93,10,Returning,Marcus Johnson,Heritage Bakes
+2023-01-25,Afternoon,Instagram,112.38,110.75,2,New,Brittney Bowman,Heritage Bakes
+2023-01-25,Night,Email,19.4,6.85,0,Returning,Jason Snow,Heritage Bakes
+2023-11-19,Morning,Facebook,466.03,448.35,4,New,Carrie Lewis,Heritage Bakes
+2023-05-09,Evening,Email,217.39,46.75,2,New,Wendy Perez,Heritage Bakes
+2023-09-07,Night,Referral,322.57,81.08,3,New,Erika Bates,Heritage Bakes
+2023-04-05,Afternoon,Email,216.58,190.14,13,New,Marie Roach,Heritage Bakes
+2023-03-05,Morning,Instagram,194.87,85.45,3,Returning,Mary Hoffman,Heritage Bakes
+2023-07-15,Evening,Facebook,338.45,76.55,3,New,Robert Mitchell,Heritage Bakes
+2023-03-06,Morning,Instagram,227.88,78.45,2,New,Gregory Russell,Heritage Bakes
+2023-06-29,Evening,Walk-in,175.61,53.97,2,Returning,Vicki Barrera,Heritage Bakes
+2023-05-07,Afternoon,Walk-in,175.14,66.12,2,Returning,Jessica Johnson,Heritage Bakes
+2023-12-23,Night,Google Ads,271.51,56.16,3,Returning,Rachel Sullivan,Heritage Bakes
+2023-05-30,Afternoon,Referral,237.8,91.56,3,New,Kimberly Thomas,Heritage Bakes
+2023-01-04,Night,Referral,165.84,71.84,2,New,Anna Pierce,Heritage Bakes
+2023-12-26,Evening,Walk-in,250.52,73.24,2,New,Haley Mccoy,Heritage Bakes
+2023-10-19,Night,Walk-in,65.08,14.63,1,New,Claire Hoffman,Heritage Bakes
+2023-02-22,Afternoon,Walk-in,490.59,173.12,15,New,Annette Rivas,Heritage Bakes
+2023-10-11,Afternoon,Referral,77.67,62.26,2,Returning,Pamela Aguirre,Heritage Bakes
+2023-08-05,Night,Instagram,389.81,182.08,11,Returning,George Bradshaw,Heritage Bakes
+2023-11-19,Afternoon,Email,369.62,158.79,9,New,Ryan Waters,Heritage Bakes
+2023-03-31,Night,Google Ads,174.49,112.48,2,New,Chase Matthews,Heritage Bakes
+2023-10-16,Night,Instagram,175.23,110.27,6,Returning,Sarah Nelson,Heritage Bakes
+2023-09-27,Evening,Facebook,499.06,141.11,10,New,Sarah Wall,Heritage Bakes
+2023-01-29,Night,Walk-in,267.55,167.24,3,Returning,Paul Smith,Heritage Bakes
+2023-11-04,Morning,Google Ads,414.32,147.94,21,New,Kayla Burke,Heritage Bakes
+2023-11-15,Night,Email,171.15,46.39,1,Returning,Jean Murillo,Heritage Bakes
+2023-07-09,Afternoon,Google Ads,161.88,47.78,2,Returning,William Hughes,Heritage Bakes
+2023-05-26,Night,Email,380.61,200.48,7,New,Brad Lee,Heritage Bakes
+2023-01-14,Night,Instagram,201.65,153.56,14,Returning,Samantha Morrow,Heritage Bakes
+2023-03-08,Night,Google Ads,126.63,30.33,3,New,Tony Brooks,Heritage Bakes
+2023-12-01,Evening,Referral,155.51,46.19,1,Returning,Matthew Miller,Heritage Bakes
+2023-06-30,Evening,Google Ads,127.77,42.13,3,New,Angel Rojas,Heritage Bakes
+2023-07-01,Morning,Google Ads,264.26,123.94,2,New,Jason Thompson,Heritage Bakes
+2023-09-15,Evening,Email,129.99,39.97,1,New,Christina Aguilar,Heritage Bakes
+2023-03-01,Morning,Instagram,247.39,127.66,2,New,Jason Thomas,Heritage Bakes
+2023-02-09,Morning,Email,71.95,42.79,1,Returning,Connie Ramirez,Heritage Bakes
+2023-05-24,Night,Google Ads,167.65,85.23,4,Returning,Jon Ramos,Heritage Bakes
+2023-06-21,Evening,Walk-in,312.08,149.63,7,New,Christopher Klein,Heritage Bakes
+2023-01-07,Morning,Walk-in,299.56,187.14,3,New,Charles Powell,Heritage Bakes
+2023-10-18,Afternoon,Google Ads,277.95,70.21,10,New,Megan Carlson,Heritage Bakes
+2023-11-19,Morning,Facebook,283,65.24,19,New,Justin Davis,Heritage Bakes
+2023-06-09,Evening,Email,236.96,59.05,2,New,Molly Mckenzie,Heritage Bakes
+2023-03-03,Evening,Facebook,497.45,180.15,5,Returning,Tammy Hendrix,Heritage Bakes
+2023-12-14,Morning,Instagram,261.57,61.81,13,New,Tara Jones,Heritage Bakes
+2023-05-19,Evening,Referral,332.46,108.16,3,Returning,Alison Zuniga,Heritage Bakes
+2023-10-19,Night,Instagram,57.11,11.87,0,New,Deborah Waller,Heritage Bakes
+2023-03-13,Night,Instagram,476.26,111.98,4,Returning,Jesse Davis,Heritage Bakes
+2023-03-05,Evening,Walk-in,452.6,104.88,4,New,Timothy Howard,Heritage Bakes
+2023-03-28,Afternoon,Google Ads,102.28,28.85,1,Returning,Christina Moon,Heritage Bakes
+2023-09-15,Night,Email,11.9,4.23,0,Returning,John Ho,Heritage Bakes
+2023-04-29,Evening,Walk-in,322.74,64.73,3,Returning,Daniel Ferrell,Heritage Bakes
+2023-02-19,Evening,Instagram,470.1,129.01,28,New,Megan Miller,Heritage Bakes
+2023-03-04,Evening,Email,412.69,104.4,5,New,James Robinson,Heritage Bakes
+2023-12-09,Afternoon,Walk-in,179.38,36.77,2,New,Roger Petty,Heritage Bakes
+2023-07-19,Afternoon,Referral,382.92,157.62,4,New,John Payne,Heritage Bakes
+2023-06-05,Afternoon,Referral,271.43,115.23,14,Returning,Jamie Lee,Heritage Bakes
+2023-11-08,Evening,Google Ads,319.02,104.31,5,Returning,Steven Gardner,Heritage Bakes
+2023-10-22,Evening,Facebook,458.32,136.4,7,New,Kevin Barber,Heritage Bakes
+2023-04-09,Night,Email,213.26,49.97,2,Returning,Kenneth Williams,Heritage Bakes
+2023-10-17,Morning,Facebook,36.12,23.17,0,New,Elizabeth Williams,Heritage Bakes
+2023-08-27,Night,Google Ads,486.71,250.87,4,New,Jessica Mitchell,Heritage Bakes
+2023-11-23,Afternoon,Instagram,123.97,30.52,2,New,Jesse Fleming,Heritage Bakes
+2023-10-05,Evening,Referral,54.12,21.9,1,Returning,Jennifer Ferguson,Heritage Bakes
+2023-06-25,Morning,Instagram,170.57,37.73,2,Returning,Susan Figueroa,Heritage Bakes
+2023-11-22,Afternoon,Google Ads,205.78,132.1,5,New,Mr. Thomas Jones PhD,Heritage Bakes
+2023-02-13,Morning,Google Ads,357.82,335.24,9,New,Sherry Shannon,Heritage Bakes
+2023-11-28,Evening,Facebook,219.88,64.04,3,New,Samantha Garcia,Heritage Bakes
+2023-12-22,Afternoon,Instagram,134.44,35.79,4,New,Joseph Beltran,Heritage Bakes
+2023-04-10,Morning,Email,213.78,97.3,5,Returning,Joshua Navarro,Heritage Bakes
+2023-02-11,Evening,Referral,322.97,65.33,5,Returning,Nicholas Obrien II,Heritage Bakes
+2023-04-30,Morning,Walk-in,475.16,116.42,21,New,Ronald Baxter,Heritage Bakes
+2023-06-27,Evening,Facebook,232.67,60.9,2,Returning,Sherri Charles,Heritage Bakes
+2023-02-01,Morning,Instagram,386.66,78.64,15,New,Michael Flores,Heritage Bakes
+2023-02-20,Night,Email,130.11,96.66,1,Returning,Darryl Christensen,Heritage Bakes
+2023-09-12,Night,Google Ads,242.42,51.88,8,Returning,Allison Floyd,Heritage Bakes
+2023-04-14,Evening,Facebook,165.53,68.64,16,Returning,Michelle Patterson,Heritage Bakes
+2023-01-29,Evening,Referral,411.39,231.53,5,Returning,Wendy Chavez,Heritage Bakes
+2023-09-18,Night,Google Ads,70.52,32.45,1,New,Jennifer Hurley,Heritage Bakes
+2023-08-23,Night,Instagram,448.82,167.3,23,New,Jared Chan,Heritage Bakes
+2023-08-30,Morning,Facebook,348.9,227.91,23,New,Ricky Diaz,Heritage Bakes
+2023-12-17,Morning,Instagram,480.59,140.63,9,Returning,Joshua Miller,Heritage Bakes
+2023-04-01,Evening,Walk-in,220.45,159.22,6,New,Catherine Soto,Heritage Bakes
+2023-09-04,Evening,Google Ads,354.97,351.37,4,New,Christopher Gay,Heritage Bakes
+2023-05-07,Evening,Facebook,23.61,21.06,0,Returning,Mary Smith,Heritage Bakes
+2023-05-19,Night,Instagram,340.45,102.13,7,Returning,William Giles,Heritage Bakes
+2023-05-05,Morning,Walk-in,264.15,53.65,2,Returning,Jennifer Hernandez,Heritage Bakes
+2023-08-01,Night,Walk-in,356.69,76.53,13,Returning,Matthew Giles,Heritage Bakes
+2023-01-23,Night,Email,382.92,153.36,4,New,Kenneth Murphy,Heritage Bakes
+2023-09-09,Afternoon,Referral,478.09,125.75,6,Returning,Jesus Wheeler,Heritage Bakes
+2023-12-08,Afternoon,Instagram,312.97,117,25,Returning,Kevin Barton,Heritage Bakes
+2023-03-25,Night,Google Ads,250.99,61.12,3,Returning,Jeffrey Lynch,Heritage Bakes
+2023-11-25,Night,Instagram,323.84,141.71,24,Returning,Joshua Smith,Heritage Bakes
+2023-07-06,Night,Google Ads,374.56,123.04,7,Returning,Steven Johnson,Heritage Bakes
+2023-07-14,Afternoon,Referral,437.64,91.4,5,New,Andrew Jacobs,Heritage Bakes
+2023-07-24,Night,Instagram,256.16,78.35,6,Returning,Mary Daniels,Heritage Bakes
+2023-02-28,Morning,Facebook,268.07,60.05,15,Returning,Linda Holt,Heritage Bakes
+2023-07-31,Afternoon,Instagram,309.47,76.46,5,Returning,Dorothy Anderson,Heritage Bakes
+2023-07-28,Afternoon,Email,262.41,235.59,7,Returning,Gail Moss,Heritage Bakes
+2023-01-30,Evening,Facebook,67.33,23.57,3,New,Lori Holland,Heritage Bakes
+2023-12-14,Night,Email,219.82,88.37,3,New,Jesse Gardner,Heritage Bakes
+2023-09-03,Afternoon,Referral,294.47,142.88,3,Returning,Robert Durham,Heritage Bakes
+2023-10-20,Night,Google Ads,233.35,68.02,3,Returning,Jessica Kelly,Heritage Bakes
+2023-08-05,Afternoon,Walk-in,420.24,152.45,16,Returning,Steven Morales,Heritage Bakes
+2023-06-13,Night,Google Ads,117.22,30.7,1,New,Craig Hammond,Heritage Bakes
+2023-01-03,Evening,Facebook,210.42,52.56,2,New,Allison Gilbert,Heritage Bakes
+2023-01-17,Night,Facebook,111.87,50.72,1,New,Richard Stuart,Heritage Bakes
+2023-10-20,Morning,Instagram,42.6,27.52,0,New,Mark Mcpherson,Heritage Bakes
+2023-05-08,Morning,Google Ads,331.28,115.75,4,New,Joseph Cruz Jr.,Heritage Bakes
+2023-03-24,Evening,Referral,72.6,42.56,1,New,Suzanne Wagner,Heritage Bakes
+2023-06-09,Morning,Instagram,179.75,49.99,5,New,Brittany Flowers,Heritage Bakes
+2023-07-07,Morning,Walk-in,24.69,12.41,0,New,Kenneth Snyder,Heritage Bakes
+2023-10-06,Evening,Email,187.85,115.11,3,Returning,Rachel Patel,Heritage Bakes
+2023-05-12,Evening,Facebook,121.33,41.41,4,New,April Schneider,Heritage Bakes
+2023-11-01,Morning,Referral,247.08,168.49,9,Returning,Rebecca Wood,Heritage Bakes
+2023-12-21,Evening,Google Ads,367.63,91.93,7,Returning,Sonya Alvarado,Heritage Bakes
+2023-03-11,Morning,Referral,370.22,291.83,10,New,Nicole Price,Heritage Bakes
+2023-10-29,Afternoon,Facebook,86.8,41.83,2,New,Evelyn Bryant,Heritage Bakes
+2023-09-08,Afternoon,Facebook,79.23,54.05,2,New,Michael Jackson,Heritage Bakes
+2023-08-26,Night,Facebook,67.66,25.85,2,Returning,Casey Francis,Heritage Bakes
+2023-06-14,Evening,Email,89.86,24.81,1,New,Debra White,Heritage Bakes
+2023-09-21,Morning,Email,77.62,32.93,1,New,Julia Long,Heritage Bakes
+2023-07-10,Afternoon,Google Ads,314.45,270.39,6,New,Ronald Carr,Heritage Bakes
+2023-02-01,Afternoon,Facebook,110.39,55.52,3,Returning,David Lynn,Heritage Bakes
+2023-09-05,Morning,Instagram,241.3,66.35,5,New,Nancy Bradford,Heritage Bakes
+2023-08-13,Evening,Facebook,438.75,230.6,13,Returning,Sandra Walker,Heritage Bakes
+2023-10-09,Morning,Referral,496.51,243.92,7,Returning,Kimberly Valenzuela,Heritage Bakes
+2023-03-18,Night,Walk-in,109.7,28.66,1,New,Ashley Sullivan,Heritage Bakes
+2023-03-15,Morning,Email,491.8,245.37,7,New,Michael Moon,Heritage Bakes
+2023-03-10,Evening,Instagram,392.1,178.52,8,New,Philip Bowen,Heritage Bakes
+2023-04-12,Night,Instagram,224.39,194.92,3,New,Cassandra Landry,Heritage Bakes
+2023-09-21,Evening,Walk-in,67.88,17.26,2,New,Wayne Jackson,Heritage Bakes
+2023-06-11,Afternoon,Referral,371.1,98.35,5,New,Connie Neal,Heritage Bakes
+2023-08-20,Morning,Instagram,393.23,216.51,11,New,Lawrence Parks,Heritage Bakes
+2023-05-02,Morning,Walk-in,184.23,159.53,1,New,Scott Ayers,Heritage Bakes
+2023-01-04,Evening,Walk-in,492.96,154.17,10,New,Michael Wood,Heritage Bakes
+2023-10-25,Morning,Walk-in,360.75,94.56,4,Returning,Matthew Stone,Heritage Bakes
+2023-02-15,Morning,Facebook,77.3,26.35,1,Returning,Tiffany Hansen,Heritage Bakes
+2023-04-21,Evening,Facebook,387.26,255.38,11,Returning,Frank Freeman,Heritage Bakes
+2023-12-10,Morning,Walk-in,333.59,137.21,6,New,Samantha Walker,Heritage Bakes
+2023-07-18,Morning,Referral,414.26,101.83,11,Returning,Mark Wilson,Heritage Bakes
+2023-08-28,Afternoon,Google Ads,232.66,156.08,15,Returning,Kayla Ray,Heritage Bakes
+2023-01-25,Morning,Google Ads,195.87,98.16,2,Returning,Ashley Olson,Heritage Bakes
+2023-07-05,Afternoon,Instagram,244.47,78.03,2,Returning,Mr. Joseph Bush,Heritage Bakes
+2023-02-19,Morning,Facebook,283.65,64.85,8,New,Debra Johnson,Heritage Bakes
+2023-05-04,Morning,Walk-in,95.57,30.71,1,New,Christine Parker,Heritage Bakes
+2023-03-13,Afternoon,Walk-in,488.72,224.16,5,Returning,Jesse Murphy,Heritage Bakes
+2023-05-11,Morning,Email,428.06,158.87,14,Returning,Brian Daniel,Heritage Bakes
+2023-06-25,Evening,Referral,50.29,10.97,1,New,Stephen Roth,Heritage Bakes
+2023-05-24,Morning,Referral,68.93,21.6,0,Returning,Ryan Warren,Heritage Bakes
+2023-10-30,Evening,Referral,270.56,129.1,3,Returning,Jeffery York,Heritage Bakes
+2023-10-30,Night,Google Ads,346.43,142.72,4,Returning,Tyler Baker,Heritage Bakes
+2023-08-03,Night,Facebook,202.25,61,9,New,Melissa Schneider,Heritage Bakes
+2023-08-03,Night,Email,247.38,74.97,8,Returning,Trevor Sparks,Heritage Bakes
+2023-12-24,Evening,Facebook,321.05,218.63,6,Returning,Hector Bryant,Heritage Bakes
+2023-11-30,Morning,Google Ads,128.04,27.66,1,New,Theresa Martinez,Heritage Bakes
+2023-11-28,Night,Email,350.14,82.29,4,Returning,Kaitlyn Brown,Heritage Bakes
+2023-10-19,Morning,Email,278.92,266.24,7,Returning,Bonnie Woods,Heritage Bakes
+2023-01-10,Evening,Walk-in,459.32,146.94,24,Returning,Carlos Kirk,Heritage Bakes
+2023-09-04,Evening,Facebook,320.98,111.4,4,Returning,Selena Bailey,Heritage Bakes
+2023-10-27,Morning,Walk-in,466.28,114.58,15,New,Chad Rivera,Heritage Bakes
+2023-03-05,Night,Walk-in,301.15,262.43,26,New,Rhonda Patterson,Heritage Bakes
+2023-03-24,Night,Instagram,478.78,97.56,12,New,Frederick Mejia,Heritage Bakes
+2023-12-08,Evening,Facebook,105.52,24.14,3,New,Rebecca Cole,Heritage Bakes
+2023-06-25,Night,Referral,240.76,63.74,5,New,Edwin Jackson,Heritage Bakes
+2023-10-18,Night,Referral,309.67,64.88,17,New,George Rogers DDS,Heritage Bakes
+2023-08-22,Afternoon,Google Ads,18.43,6.22,0,New,Kimberly Morgan,Heritage Bakes
+2023-06-23,Night,Walk-in,66.36,14.93,0,Returning,Tracey Hogan,Heritage Bakes
+2023-09-28,Evening,Instagram,107.71,30.95,4,Returning,Micheal Austin,Heritage Bakes
+2023-09-26,Night,Email,364.61,233.69,19,New,Carl Rubio,Heritage Bakes
+2023-04-24,Evening,Google Ads,61.82,14.25,1,New,Tracy Burnett,Heritage Bakes
+2023-01-25,Afternoon,Referral,54.21,41.08,1,New,Gary Taylor,Heritage Bakes
+2023-04-11,Morning,Walk-in,135.08,79.15,1,New,Sonya Williams,Heritage Bakes
+2023-01-17,Night,Email,130.12,110.89,7,Returning,Jacqueline Hall,Heritage Bakes
+2023-07-28,Afternoon,Email,401.79,219.16,4,Returning,Crystal Mullen,Heritage Bakes
+2023-05-19,Evening,Referral,152.93,59.9,1,Returning,Shawn Ware,Heritage Bakes
+2023-01-11,Evening,Email,490.79,259.38,12,Returning,Rebecca Oneill,Heritage Bakes
+2023-11-04,Night,Instagram,260.14,183.26,3,New,Aaron Morgan,Heritage Bakes
+2023-06-09,Evening,Google Ads,135.2,46.69,2,New,Damon Schultz,Heritage Bakes
+2023-05-01,Evening,Facebook,58.56,16.23,0,Returning,Catherine Garcia,Heritage Bakes
+2023-11-08,Evening,Instagram,53.25,17.52,0,New,Samuel Warren,Heritage Bakes
+2023-06-03,Afternoon,Google Ads,413.17,297.02,4,Returning,Kevin Carney,Heritage Bakes
+2023-03-25,Morning,Walk-in,498.75,487.29,13,New,Jonathan Jefferson DVM,Heritage Bakes
+2023-04-16,Evening,Walk-in,206.87,44.83,3,New,Jerry Walsh,Heritage Bakes
+2023-01-29,Night,Email,156.52,50.04,3,New,Travis Day,Heritage Bakes
+2023-03-16,Evening,Email,136.2,46.83,12,Returning,Aaron Diaz,Heritage Bakes
+2023-10-30,Evening,Instagram,310.06,178.7,4,Returning,Nancy Jackson,Heritage Bakes
+2023-09-15,Afternoon,Referral,96.08,63.13,1,Returning,Daniel Benjamin,Heritage Bakes
+2023-08-19,Evening,Walk-in,112.2,77.88,1,New,Renee Thompson,Heritage Bakes
+2023-06-27,Afternoon,Email,389.28,158.18,4,New,Rose Mclaughlin,Heritage Bakes
+2023-08-19,Morning,Instagram,77.71,25.94,0,Returning,Arthur Gonzalez,Heritage Bakes
+2023-10-04,Afternoon,Instagram,394.45,93.72,16,Returning,Ryan Smith,Heritage Bakes
+2023-01-20,Evening,Referral,441.3,213.92,22,Returning,Brandon Bennett,Heritage Bakes
+2023-02-23,Night,Walk-in,382.37,182.26,3,New,Brandon Sanchez,Heritage Bakes
+2023-06-11,Evening,Google Ads,493.28,478.56,10,New,Christopher Robbins,Heritage Bakes
+2023-10-18,Afternoon,Facebook,173.02,129.88,2,Returning,Alexander Martin,Heritage Bakes
+2023-09-09,Evening,Walk-in,358.1,80.37,7,New,Joseph Miller,Heritage Bakes
+2023-03-14,Morning,Referral,190.84,70.1,16,New,Richard Yoder,Heritage Bakes
+2023-03-19,Night,Referral,209.13,46.99,6,New,Frank Francis,Heritage Bakes
+2023-10-14,Morning,Walk-in,226.23,162.37,2,New,Mark Webb,Heritage Bakes
+2023-08-21,Morning,Walk-in,328.69,124.72,4,Returning,Scott Mcmahon,Heritage Bakes
+2023-04-20,Evening,Referral,413.55,146.04,19,Returning,Luke Dixon,Heritage Bakes
+2023-02-01,Morning,Facebook,331.15,78.17,4,New,Mckenzie Chavez,Heritage Bakes
+2023-02-06,Morning,Walk-in,488.02,211.52,26,New,Kristen Blair,Heritage Bakes
+2023-07-20,Morning,Referral,207.21,92.49,2,New,Joshua White,Heritage Bakes
+2023-03-26,Night,Referral,152.03,47.74,2,Returning,Bryan Harrison,Heritage Bakes
+2023-09-13,Afternoon,Referral,124.17,26.03,2,New,Michael Gonzalez,Heritage Bakes
+2023-03-11,Morning,Email,285.08,147.69,3,Returning,Monica Frost,Heritage Bakes
+2023-10-28,Night,Google Ads,300.61,182.6,6,New,Tracy Frye,Heritage Bakes
+2023-11-11,Morning,Facebook,432.31,124.56,8,Returning,Erika Thompson,Heritage Bakes
+2023-04-28,Night,Google Ads,484.54,397.55,21,New,Latasha Mendez,Heritage Bakes
+2023-11-12,Afternoon,Walk-in,466.96,125.82,10,New,Sierra Moses,Heritage Bakes
+2023-06-20,Afternoon,Referral,303.22,168.95,4,Returning,Rebecca Sandoval,Heritage Bakes
+2023-01-29,Morning,Referral,46.59,16.38,0,Returning,Margaret Young,Heritage Bakes
+2023-03-19,Night,Walk-in,492.76,350.19,5,New,Cynthia Jackson,Heritage Bakes
+2023-04-30,Night,Referral,168.5,71.28,4,Returning,Michaela Sanchez,Heritage Bakes
+2023-12-28,Night,Facebook,432.08,374.63,4,New,Stephanie Harris,Heritage Bakes
+2023-10-20,Afternoon,Email,111.34,33.23,3,New,Elizabeth Butler,Heritage Bakes
+2023-04-05,Night,Email,128.02,63.01,4,New,Matthew Mclaughlin PhD,Heritage Bakes
+2023-04-04,Night,Walk-in,45.65,12.72,2,New,Robert Roberts,Heritage Bakes
+2023-11-20,Evening,Google Ads,447.36,278.38,9,Returning,Laura Green,Heritage Bakes
+2023-06-21,Night,Email,21.7,10.15,0,Returning,Robert Hampton,Heritage Bakes
+2023-02-28,Night,Facebook,67.81,64.42,1,New,Molly White,Heritage Bakes
+2023-03-08,Evening,Google Ads,257.01,94.08,7,New,Roger Valencia,Heritage Bakes
+2023-07-20,Morning,Instagram,62.84,30.05,1,New,Cody Thompson,Heritage Bakes
+2023-02-20,Afternoon,Referral,180.82,39.82,10,New,Anthony Wright,Heritage Bakes
+2023-03-24,Night,Facebook,381.72,288.99,5,New,Julie Rose,Heritage Bakes
+2023-03-04,Evening,Google Ads,160.42,66.18,2,New,Mr. John Woodard MD,Heritage Bakes
+2023-02-15,Afternoon,Referral,112.69,24.86,1,Returning,Kristin Herman,Heritage Bakes
+2023-08-12,Night,Email,274.26,72.7,3,New,Chase Burnett,Heritage Bakes
+2023-06-13,Morning,Google Ads,491.56,319.97,9,New,Annette Mcguire,Heritage Bakes
+2023-02-19,Morning,Facebook,361.13,77.64,5,Returning,Richard Roy,Heritage Bakes
+2023-05-05,Afternoon,Instagram,116.01,31.13,5,New,Carrie Ware,Heritage Bakes
+2023-12-12,Evening,Instagram,39.55,11.77,1,New,Julian Obrien,Heritage Bakes
+2023-02-06,Evening,Referral,475.25,160.57,12,Returning,Stacey Stone,Heritage Bakes
+2023-06-12,Evening,Google Ads,358.95,163.05,4,Returning,Laura Bailey,Heritage Bakes
+2023-03-15,Night,Referral,490.16,166.57,34,Returning,Patrick Bush,Heritage Bakes
+2023-08-31,Evening,Facebook,461.54,186.9,6,New,Jose Lopez,Heritage Bakes
+2023-05-27,Afternoon,Instagram,153.82,39.82,4,New,Jennifer Brown,Heritage Bakes
+2023-09-10,Afternoon,Instagram,284.58,64.39,4,New,Nicole Bright,Heritage Bakes
+2023-07-14,Evening,Referral,385.96,162.66,17,Returning,Christina Ramirez,Heritage Bakes
+2023-10-13,Night,Facebook,316.13,205.65,4,New,Thomas Brewer,Heritage Bakes
+2023-06-10,Afternoon,Facebook,139.42,69.74,1,Returning,Sarah Berry,Heritage Bakes
+2023-09-10,Evening,Instagram,233.86,225.7,6,Returning,Austin Conley,Heritage Bakes
+2023-01-15,Afternoon,Walk-in,365.23,89.12,5,New,Daniel Luna,Heritage Bakes
+2023-07-20,Night,Referral,87.94,37.68,1,New,Sharon Johnson,Heritage Bakes
+2023-06-17,Evening,Facebook,229.62,102.93,2,Returning,Kenneth Maxwell,Heritage Bakes
+2023-01-20,Evening,Instagram,12.28,8.54,0,New,Laurie Bailey,Heritage Bakes
+2023-11-25,Night,Instagram,48.34,36.73,0,New,Eric Woods,Heritage Bakes
+2023-02-17,Night,Referral,433.2,114.91,11,Returning,Nancy Lee,Heritage Bakes
+2023-12-02,Afternoon,Email,124.91,90.21,2,New,Christina Smith,Heritage Bakes
+2023-12-29,Morning,Walk-in,108.49,45.39,2,Returning,John Clark,Heritage Bakes
+2023-11-01,Afternoon,Google Ads,134.41,75.46,1,New,Anna Ponce,Heritage Bakes
+2023-03-18,Night,Instagram,64.17,20.9,1,Returning,Anthony Hernandez,Heritage Bakes
+2023-01-27,Afternoon,Referral,109.39,67.44,2,Returning,Daniel Wilson,Heritage Bakes
+2023-03-21,Evening,Facebook,39.92,8.06,2,New,Melody Stevens,Heritage Bakes
+2023-06-15,Afternoon,Referral,270.85,122.04,3,New,Matthew Brown,Heritage Bakes
+2023-05-06,Afternoon,Google Ads,220.6,92.69,3,New,Nichole Davis,Heritage Bakes
+2023-03-18,Night,Email,421.53,158.67,29,Returning,James Anderson,Heritage Bakes
+2023-08-26,Evening,Email,322.18,138.47,4,Returning,Bryan Griffith,Heritage Bakes
+2023-08-29,Night,Instagram,449.46,183.22,5,Returning,Nathan Stanley,Heritage Bakes
+2023-04-06,Morning,Instagram,395.46,136.29,8,New,Olivia Randolph,Heritage Bakes
+2023-09-03,Evening,Referral,173.02,126.98,1,Returning,Marcus Blair,Heritage Bakes
+2023-09-09,Night,Facebook,221.17,59.18,3,New,Kenneth Reynolds,Heritage Bakes
+2023-08-15,Afternoon,Walk-in,69.33,16.62,1,New,Joshua Guerrero,Heritage Bakes
+2023-05-30,Evening,Email,317.65,194.57,8,New,Shawn Shepherd,Heritage Bakes
+2023-04-16,Evening,Facebook,86.96,37.58,1,Returning,Ashley Duran,Heritage Bakes
+2023-11-17,Afternoon,Referral,30.69,6.6,0,New,Brian Mitchell,Heritage Bakes
+2023-10-11,Afternoon,Google Ads,332.87,76.71,6,New,Melanie Garrett,Heritage Bakes
+2023-08-10,Afternoon,Instagram,265.61,60.86,7,Returning,George Smith,Heritage Bakes
+2023-11-08,Morning,Referral,106.62,21.36,1,New,Vicki Hernandez,Heritage Bakes
+2023-05-31,Morning,Referral,268.55,220.87,4,Returning,Carl Larsen,Heritage Bakes
+2023-06-17,Night,Google Ads,314.17,152.84,6,New,Mercedes Richardson,Heritage Bakes
+2023-08-09,Night,Instagram,296.78,193.11,8,New,Mikayla Franco,Heritage Bakes
+2023-05-12,Afternoon,Referral,429.03,135.37,5,Returning,Patrick Rios,Heritage Bakes
+2023-01-10,Evening,Google Ads,232.68,48.9,3,New,Cindy Estrada,Heritage Bakes
+2023-02-18,Evening,Instagram,275.13,79.96,13,New,Bethany Neal,Heritage Bakes
+2023-03-07,Afternoon,Facebook,240.94,91.38,3,Returning,Alan Davis DVM,Heritage Bakes
+2023-11-11,Evening,Walk-in,171.02,143.83,13,Returning,Donald Coleman,Heritage Bakes
+2023-01-11,Morning,Email,237.66,108.49,3,New,Gabriel Richardson,Heritage Bakes
+2023-12-08,Morning,Google Ads,130.74,32.77,3,Returning,Thomas Lewis,Heritage Bakes
+2023-01-06,Evening,Google Ads,250.45,240.63,5,New,Todd Beasley,Heritage Bakes
+2023-02-05,Morning,Instagram,340.65,119.18,3,New,Allison Branch,Heritage Bakes
+2023-06-03,Afternoon,Referral,233.15,47.15,8,New,Jenny Cox,Heritage Bakes
+2023-09-11,Morning,Facebook,154.24,118.56,1,Returning,David Simpson,Heritage Bakes
+2023-03-12,Morning,Instagram,319.67,188,24,New,Kyle Brown,Heritage Bakes
+2023-12-31,Afternoon,Instagram,381.04,163.68,6,Returning,Tracey Reynolds,Heritage Bakes
+2023-10-02,Evening,Email,487.49,145.89,14,Returning,Alison Perez,Heritage Bakes
+2023-08-12,Night,Facebook,326.35,73.24,6,Returning,Douglas Santos,Heritage Bakes
+2023-06-27,Afternoon,Email,213.47,42.9,3,New,Grace Green,Heritage Bakes
+2023-07-03,Morning,Walk-in,341.89,73.39,30,Returning,Samantha Cohen,Heritage Bakes
+2023-09-02,Afternoon,Instagram,98.74,36.06,1,New,Courtney Page,Heritage Bakes
+2023-11-10,Morning,Email,362.83,279.12,18,Returning,David Martinez,Heritage Bakes
+2023-04-25,Night,Google Ads,269.69,103.9,5,Returning,Susan Sullivan,Heritage Bakes
+2023-09-29,Evening,Referral,21.03,20.15,0,Returning,Thomas Bowman MD,Heritage Bakes
+2023-08-17,Evening,Facebook,446.43,125.35,5,New,Elizabeth Brown,Heritage Bakes
+2023-03-04,Afternoon,Referral,127.1,45.32,2,New,Michael Bolton,Heritage Bakes
+2023-08-07,Afternoon,Instagram,106.18,22.71,1,New,Jeffery Thompson,Heritage Bakes
+2023-10-17,Evening,Email,15.26,5.8,0,New,John Rodriguez,Heritage Bakes
+2023-04-16,Afternoon,Google Ads,150.43,46.24,1,Returning,Danielle Hamilton,Heritage Bakes
+2023-11-06,Afternoon,Walk-in,431.05,115.12,12,New,Justin Hammond,Heritage Bakes
+2023-06-06,Afternoon,Email,42.73,10.69,0,Returning,Kayla Williams,Heritage Bakes
+2023-06-26,Evening,Facebook,63.15,25.93,1,Returning,Thomas Sparks,Heritage Bakes
+2023-09-26,Night,Instagram,74.72,45.5,3,New,Ashlee Ross,Heritage Bakes
+2023-03-10,Night,Google Ads,151.84,47.45,2,Returning,Ann Martin,Heritage Bakes
+2023-04-03,Morning,Facebook,111.95,74.6,2,Returning,Kimberly Black,Heritage Bakes
+2023-11-24,Evening,Instagram,115.87,26.93,1,New,Meagan West,Heritage Bakes
+2023-04-17,Afternoon,Referral,172.22,102.47,2,New,Andre Cortez,Heritage Bakes
+2023-06-27,Afternoon,Referral,24.54,6.32,0,New,Michele Ford,Heritage Bakes
+2023-05-05,Evening,Instagram,383.29,262.3,5,Returning,Andrew Chavez,Heritage Bakes
+2023-05-04,Morning,Google Ads,448.88,358.7,35,Returning,Joel Perez,Heritage Bakes
+2023-08-19,Evening,Instagram,333.26,112.47,7,New,Anthony Berg,Heritage Bakes
+2023-11-24,Evening,Instagram,358.94,256.6,9,New,Joseph Hill,Heritage Bakes
+2023-03-02,Night,Instagram,172.83,79.53,6,New,Robert Thompson,Heritage Bakes
+2023-07-08,Afternoon,Referral,170.46,96.38,16,Returning,Allison Cunningham,Heritage Bakes
+2023-12-05,Afternoon,Email,246.92,52.95,7,Returning,Joseph Rice,Heritage Bakes
+2023-10-28,Night,Facebook,328.74,77.94,3,Returning,Jeffery Jordan,Heritage Bakes
+2023-03-24,Night,Google Ads,372.35,149.46,5,Returning,Allen Martinez,Heritage Bakes
+2023-08-25,Morning,Facebook,188.94,79.22,2,Returning,Cristian Lambert,Heritage Bakes
+2023-04-13,Night,Instagram,443.62,90.7,12,Returning,Christina Powell,Heritage Bakes
+2023-08-11,Night,Facebook,260.35,57.68,2,New,Tamara Gonzales,Heritage Bakes
+2023-11-01,Afternoon,Email,193.66,102.07,2,New,Jeffrey Long,Heritage Bakes
+2023-09-22,Evening,Facebook,288.26,88.61,3,New,Angela Richards,Heritage Bakes
+2023-05-08,Afternoon,Facebook,286.3,124.25,11,Returning,Sandra Lyons,Heritage Bakes
+2023-02-08,Night,Facebook,110.22,23.75,1,New,Andrew Whitney,Heritage Bakes
+2023-09-09,Afternoon,Email,98.01,48.61,1,New,Jeffery Collins,Heritage Bakes
+2023-03-09,Night,Facebook,126.23,28.06,2,New,Kevin Fischer,Heritage Bakes
+2023-09-28,Evening,Walk-in,486.11,218.5,34,New,Amber Chapman,Heritage Bakes
+2023-04-08,Morning,Instagram,429.12,239.43,13,Returning,Becky King,Heritage Bakes
+2023-11-20,Afternoon,Facebook,421.33,222.07,6,New,Matthew Richards,Heritage Bakes
+2023-11-15,Morning,Google Ads,167.48,38.1,2,Returning,Teresa Jones,Heritage Bakes
+2023-07-25,Afternoon,Email,450.72,196.32,5,New,Nicole Hodge,Heritage Bakes
+2023-11-13,Evening,Referral,296.62,276.76,3,Returning,Debra Smith,Heritage Bakes
+2023-08-07,Afternoon,Instagram,481.64,165.6,5,New,Zachary Jones,Heritage Bakes
+2023-02-01,Evening,Google Ads,271.63,61.65,8,Returning,Amanda Bishop,Heritage Bakes
+2023-05-16,Morning,Referral,223.13,141.67,10,Returning,Rhonda Evans,Heritage Bakes
+2023-06-30,Night,Facebook,467.22,99.35,7,Returning,Samantha Noble,Heritage Bakes
+2023-11-05,Morning,Facebook,361.29,130.67,6,New,Larry Fritz,Heritage Bakes
+2023-06-05,Afternoon,Facebook,391.7,95.13,5,New,Maria Gonzalez,Heritage Bakes
+2023-08-16,Evening,Google Ads,22.35,6.26,0,New,Melinda Cervantes,Heritage Bakes
+2023-10-26,Morning,Email,486.54,130.65,7,New,Justin Carter,Heritage Bakes
+2023-10-05,Evening,Instagram,31.49,11.89,0,New,James Garcia,Heritage Bakes
+2023-01-19,Night,Google Ads,99.97,49.6,1,Returning,Dustin Williams,Heritage Bakes
+2023-03-24,Afternoon,Walk-in,86.6,25.86,1,Returning,Derek Hall,Heritage Bakes
+2023-10-30,Evening,Email,97.66,36.68,1,New,Frank White,Heritage Bakes
+2023-11-23,Morning,Walk-in,344.88,75.72,9,Returning,Tracy Santiago,Heritage Bakes
+2023-01-07,Night,Google Ads,168.79,108.22,13,New,Lauren Barr,Heritage Bakes
+2023-05-17,Afternoon,Referral,307.81,64.4,6,Returning,Jill Smith DDS,Heritage Bakes
+2023-06-14,Afternoon,Facebook,387.24,118.97,7,New,Carmen Jordan,Heritage Bakes
+2023-01-28,Afternoon,Instagram,105.35,71.62,1,New,Mary Johnson DDS,Heritage Bakes
+2023-06-04,Night,Google Ads,172.2,40.48,10,New,Sally Fernandez,Heritage Bakes
+2023-10-28,Morning,Facebook,339.46,114.93,8,New,Brandon Brown,Heritage Bakes
+2023-06-10,Morning,Instagram,160.22,35.76,1,New,Maurice Johnson,Heritage Bakes
+2023-08-15,Morning,Google Ads,211.31,192.31,4,Returning,Lori Davis,Heritage Bakes
+2023-10-17,Evening,Instagram,135.25,104.36,3,Returning,Taylor Acevedo,Heritage Bakes
+2023-09-03,Night,Walk-in,427.48,129.6,17,Returning,Cynthia Cohen,Heritage Bakes
+2023-01-05,Afternoon,Walk-in,272.76,121.69,21,New,Laura Larson,Heritage Bakes
+2023-09-02,Afternoon,Facebook,401.29,81.33,18,New,Penny West,Heritage Bakes
+2023-10-18,Morning,Walk-in,306.04,100.56,9,New,Brian Daugherty,Heritage Bakes
+2023-02-15,Evening,Email,42.62,12.9,0,New,Monica Medina,Heritage Bakes
+2023-01-10,Evening,Referral,343.16,160.59,24,Returning,Tracey Reilly,Heritage Bakes
+2023-08-10,Morning,Referral,157.62,75.25,2,Returning,Robin York,Heritage Bakes
+2023-04-06,Afternoon,Instagram,306.53,111.45,13,Returning,Tanya Shannon,Heritage Bakes
+2023-08-19,Afternoon,Email,287.18,240.61,2,Returning,Charles Chang,Heritage Bakes
+2023-01-24,Morning,Referral,262.74,68.79,2,New,Spencer Kelly,Heritage Bakes
+2023-03-19,Afternoon,Facebook,133.04,74.13,2,New,Tammy Duncan,Heritage Bakes
+2023-11-06,Evening,Walk-in,180.26,43.42,3,New,Jonathon Kim,Heritage Bakes
+2023-09-23,Evening,Walk-in,130.73,34.84,2,Returning,Christopher Cain,Heritage Bakes
+2023-01-14,Night,Google Ads,444.42,211.53,14,Returning,Anthony Wells,Heritage Bakes
+2023-01-24,Evening,Referral,170.14,45.95,3,New,Brandon Kirby,Heritage Bakes
+2023-03-02,Afternoon,Referral,106.06,98.12,1,New,Jamie Miller,Heritage Bakes
+2023-12-22,Morning,Email,454.85,245.2,5,Returning,Anna Wong,Heritage Bakes
+2023-08-05,Night,Referral,324.23,262.48,15,Returning,Christopher Macdonald,Heritage Bakes
+2023-09-03,Night,Facebook,142.91,38.87,6,New,Leslie Moody,Heritage Bakes
+2023-10-29,Night,Walk-in,71.51,20.42,0,Returning,Jessica Mckee,Heritage Bakes
+2023-12-23,Afternoon,Referral,41.41,22.85,0,New,Nicholas Myers,Heritage Bakes
+2023-08-20,Evening,Referral,215.41,83.55,2,New,Meagan Charles,Heritage Bakes
+2023-11-03,Night,Google Ads,162.2,81.89,3,Returning,Amber Williams,Heritage Bakes
+2023-03-06,Evening,Email,390.58,96.24,4,Returning,Micheal Green,Heritage Bakes
+2023-01-26,Night,Instagram,452.49,236.43,7,New,Rachel Henderson,Heritage Bakes
+2023-04-05,Morning,Facebook,84.92,21.88,0,Returning,Andrew Lam,Heritage Bakes
+2023-03-13,Evening,Walk-in,135.19,32.33,2,New,Cassandra Mitchell,Heritage Bakes
+2023-03-22,Evening,Walk-in,439.99,131.92,23,Returning,Melissa Grant,Heritage Bakes
+2023-07-29,Afternoon,Walk-in,481.18,195.92,7,Returning,James Rodriguez,Heritage Bakes
+2023-03-27,Afternoon,Walk-in,470.1,408.54,8,New,Lauren Trevino,Heritage Bakes
+2023-02-02,Evening,Referral,260.03,156.23,3,New,Margaret White,Heritage Bakes
+2023-12-16,Afternoon,Email,333.05,286.03,4,New,Stacey Howe,Heritage Bakes
+2023-05-05,Morning,Google Ads,64.01,17.99,1,Returning,Diane Bishop,Heritage Bakes
+2023-04-13,Night,Instagram,331.03,153.36,4,Returning,David Baker,Heritage Bakes
+2023-08-23,Afternoon,Instagram,441.1,99.64,5,Returning,Allison Chavez,Heritage Bakes
+2023-09-10,Morning,Facebook,468.5,190.08,16,Returning,Austin Smith,Heritage Bakes
+2023-10-26,Night,Email,192.97,57.01,2,New,Ashley Thomas,Heritage Bakes
+2023-06-13,Afternoon,Email,22.98,5.15,0,Returning,Mrs. Olivia Petersen,Heritage Bakes
+2023-01-22,Morning,Referral,346.14,98.16,6,New,Joshua Martinez,Heritage Bakes
+2023-07-04,Morning,Walk-in,160.74,62.63,1,Returning,Laura Clarke,Heritage Bakes
+2023-03-31,Night,Email,310.11,105.18,20,New,Joseph Patel,Heritage Bakes
+2023-07-18,Night,Google Ads,141.72,76.6,1,Returning,Lisa Beard,Heritage Bakes
+2023-09-07,Night,Walk-in,52.36,22.25,0,New,David Mendoza,Heritage Bakes
+2023-03-20,Evening,Google Ads,348.07,75.56,19,Returning,Nicole Wallace DDS,Heritage Bakes
+2023-09-30,Morning,Facebook,64.23,32.14,0,New,Marcus Brown,Heritage Bakes
+2023-10-29,Evening,Email,19.82,14.41,0,New,Daniel Gallegos,Heritage Bakes
+2023-12-22,Evening,Instagram,370.93,155.05,4,Returning,Nicole Hardy,Heritage Bakes
+2023-03-24,Night,Email,155.08,35.83,1,Returning,Pedro Greene,Heritage Bakes
+2023-09-05,Night,Email,426.02,135.5,31,New,Yvette Marks,Heritage Bakes
+2023-06-26,Night,Instagram,320.54,64.14,4,Returning,Ashley Lewis,Heritage Bakes
+2023-04-23,Afternoon,Email,218.13,50.93,4,New,Stephanie Peterson,Heritage Bakes
+2023-10-25,Afternoon,Walk-in,36.29,13.19,0,Returning,Mrs. Dawn Hawkins,Heritage Bakes
+2023-01-03,Night,Walk-in,216.84,50.27,2,Returning,Gary Greer,Heritage Bakes
+2023-03-22,Night,Referral,383.13,163.58,10,Returning,Christopher Knox,Heritage Bakes
+2023-05-19,Evening,Instagram,274.27,108.21,3,New,Eric Thomas,Heritage Bakes
+2023-09-07,Morning,Referral,109.17,33.53,1,New,Brent Stewart,Heritage Bakes
+2023-05-18,Evening,Walk-in,183.87,37.16,4,Returning,Corey Roberts,Heritage Bakes
+2023-11-27,Evening,Instagram,292.44,198.96,6,New,Keith Morales,Heritage Bakes
+2023-10-11,Night,Instagram,59.37,55.79,1,New,Perry Washington,Heritage Bakes
+2023-09-11,Afternoon,Walk-in,223.53,210.47,4,New,Nicole Barton,Heritage Bakes
+2023-06-11,Night,Instagram,111.78,28.56,2,New,David Medina,Heritage Bakes
+2023-04-15,Afternoon,Google Ads,76.4,65.62,2,New,Lydia Payne,Heritage Bakes
+2023-11-29,Night,Referral,496.08,247.48,30,Returning,Monica Cline,Heritage Bakes
+2023-07-14,Morning,Walk-in,323.14,245.91,5,New,Juan Davis,Heritage Bakes
+2023-12-17,Afternoon,Facebook,480,127.9,18,New,Devin Black,Heritage Bakes
+2023-11-23,Evening,Walk-in,456.52,148.25,7,Returning,Rachel Franco DDS,Heritage Bakes
+2023-11-19,Evening,Google Ads,410.05,251.65,11,New,Lori Valentine,Heritage Bakes
+2023-02-19,Afternoon,Referral,403.18,114.55,39,New,Lisa Ryan,Heritage Bakes
+2023-09-12,Morning,Email,72.87,61.84,2,New,Danielle Hester,Heritage Bakes
+2023-05-22,Night,Facebook,242.63,128.12,2,Returning,Luke Alexander,Heritage Bakes
+2023-03-27,Morning,Walk-in,337.24,92.23,30,New,Jane Edwards,Heritage Bakes
+2023-01-15,Evening,Referral,456.46,140.97,4,Returning,Ann Peterson,Heritage Bakes
+2023-09-28,Afternoon,Facebook,438,121.54,12,Returning,Erik Keller,Heritage Bakes
+2023-10-13,Morning,Referral,246.65,205.97,2,Returning,Louis Bowen,Heritage Bakes
+2023-04-21,Night,Walk-in,146.99,29.91,2,New,Amy Mcdaniel,Heritage Bakes
+2023-09-22,Morning,Walk-in,203.17,154.36,2,New,Isaiah Terry,Heritage Bakes
+2023-06-14,Afternoon,Referral,342.75,79.16,3,New,Michael Bell,Heritage Bakes
+2023-03-07,Morning,Instagram,257.33,94.08,9,Returning,Blake Vega,Heritage Bakes
+2023-05-04,Night,Instagram,75.98,63.58,0,Returning,Ronnie Medina,Heritage Bakes
+2023-07-04,Night,Facebook,439.02,97.67,25,New,Rhonda Clark,Heritage Bakes
+2023-07-14,Morning,Google Ads,231.36,64.44,3,New,Jason Fletcher,Heritage Bakes
+2023-11-22,Night,Walk-in,335.68,218.9,11,New,Jose Green,Heritage Bakes
+2023-09-28,Night,Google Ads,104.51,95.33,7,Returning,Anthony Washington,Heritage Bakes
+2023-01-11,Evening,Walk-in,228.63,57.44,4,Returning,Kristopher Curtis,Heritage Bakes
+2023-12-23,Morning,Instagram,471.74,232.1,4,New,Chad Moreno,Heritage Bakes
+2023-07-28,Evening,Referral,64.13,17.92,0,Returning,Cassidy Carter,Heritage Bakes
+2023-09-28,Night,Facebook,191.43,93.53,2,Returning,James Grimes,Heritage Bakes
+2023-12-22,Afternoon,Walk-in,181.03,78.47,3,Returning,Natalie Hawkins,Heritage Bakes
+2023-10-20,Afternoon,Walk-in,494.11,116.19,7,New,Jonathan Williams,Heritage Bakes
+2023-04-27,Afternoon,Instagram,200.97,42.25,2,New,Deborah Smith,Heritage Bakes
+2023-08-04,Night,Email,460.85,143.76,7,Returning,Emily Henderson,Heritage Bakes
+2023-07-07,Afternoon,Referral,127.05,42.4,1,New,Peter Morgan,Heritage Bakes
+2023-05-17,Afternoon,Walk-in,228.2,74.98,4,Returning,Laura Patton,Heritage Bakes
+2023-03-13,Evening,Referral,57.91,34.26,1,Returning,Francis Walker,Heritage Bakes
+2023-06-17,Afternoon,Email,296.89,94.25,3,New,Renee Johnson,Heritage Bakes
+2023-05-03,Night,Referral,362.1,111.32,5,New,Scott Wood,Heritage Bakes
+2023-05-02,Afternoon,Email,277.69,72.67,18,Returning,Sherri Logan,Heritage Bakes
+2023-08-23,Afternoon,Instagram,43.45,25.56,0,New,Cathy Barnes,Heritage Bakes
+2023-09-22,Night,Email,406.99,103.73,4,Returning,Amy Sanders,Heritage Bakes
+2023-05-27,Evening,Instagram,390.74,111.67,10,New,Lee Perez,Heritage Bakes
+2023-10-30,Morning,Facebook,252.88,57.08,11,New,Michael Leonard,Heritage Bakes
+2023-11-24,Night,Email,240.11,63.93,8,Returning,Cody Thompson,Heritage Bakes
+2023-01-31,Afternoon,Google Ads,435.17,262.26,4,New,Victor Yates,Heritage Bakes
+2023-08-15,Afternoon,Instagram,184.03,38.59,3,Returning,Stanley Benson,Heritage Bakes
+2023-07-07,Evening,Referral,224,73.32,5,Returning,James Gallagher,Heritage Bakes
+2023-07-07,Morning,Referral,148.45,30.33,4,Returning,Jeanette Garcia,Heritage Bakes
+2023-12-22,Night,Walk-in,342.83,73.67,4,New,Michael Garcia,Heritage Bakes
+2023-12-22,Morning,Walk-in,273.91,71.22,13,New,William Gordon,Heritage Bakes
+2023-04-25,Morning,Google Ads,286.44,61.25,4,Returning,Kim Holmes,Heritage Bakes
+2023-05-07,Morning,Referral,361.07,164.39,4,New,Anthony Hodges,Heritage Bakes
+2023-09-29,Night,Referral,231.15,78.17,4,Returning,Alexis Wells,Heritage Bakes
+2023-07-15,Afternoon,Instagram,375.03,85.71,6,Returning,Jennifer Dawson,Heritage Bakes
+2023-03-09,Evening,Facebook,13.39,6.69,0,New,Bethany Baxter MD,Heritage Bakes
+2023-03-29,Afternoon,Facebook,177.65,47.53,2,New,Teresa Wallace,Heritage Bakes
+2023-02-12,Night,Email,463.57,105.6,5,New,Alexis Pham,Heritage Bakes
+2023-03-21,Morning,Walk-in,82.61,21.06,1,Returning,Zachary Ortiz,Heritage Bakes
+2023-04-15,Morning,Facebook,153.26,34.02,3,Returning,Christopher Burnett,Heritage Bakes
+2023-04-04,Night,Google Ads,314.89,279.56,13,Returning,Nicholas Calhoun,Heritage Bakes
+2023-01-21,Night,Email,204.57,62.69,3,New,Joseph Perez,Heritage Bakes
+2023-12-26,Afternoon,Instagram,140.12,111.82,1,Returning,Karen Perez,Heritage Bakes
+2023-08-09,Afternoon,Walk-in,294.88,83.91,6,New,Kevin Cruz,Heritage Bakes
+2023-04-17,Evening,Walk-in,95.02,30.34,0,Returning,Amber Spencer,Heritage Bakes
+2023-10-13,Evening,Referral,61.63,55.92,1,New,Madison Richardson,Heritage Bakes
+2023-02-04,Evening,Instagram,94.11,27.43,1,Returning,Jose Collins,Heritage Bakes
+2023-12-05,Night,Email,16.21,5.44,0,New,Justin Potter,Heritage Bakes
+2023-02-04,Evening,Facebook,161.63,64.01,9,New,Sherry Cox,Heritage Bakes
+2023-03-27,Afternoon,Walk-in,498.25,134.05,23,Returning,Tiffany Williams,Heritage Bakes
+2023-07-01,Morning,Instagram,268.82,88.26,3,Returning,Jessica Torres,Heritage Bakes
+2023-01-08,Evening,Facebook,259.81,112.83,3,Returning,Matthew Morgan,Heritage Bakes
+2023-09-17,Morning,Facebook,376.01,121.52,4,Returning,Craig Beard,Heritage Bakes
+2023-02-13,Evening,Referral,165.83,125.72,2,New,Tony Moore,Heritage Bakes
+2023-07-16,Morning,Facebook,343.12,92.8,4,New,Jillian Carrillo,Heritage Bakes
+2023-10-03,Afternoon,Email,298.63,75.01,3,New,Nancy Rowland,Heritage Bakes
+2023-05-03,Evening,Google Ads,18.04,4.77,0,New,Lisa Ochoa,Heritage Bakes
+2023-07-24,Afternoon,Facebook,220.18,56.9,4,New,Jeffrey Ayala,Heritage Bakes
+2023-07-27,Evening,Walk-in,192.79,109.6,3,New,Dana Carter,Heritage Bakes
+2023-09-21,Night,Email,185.33,42.12,1,New,Natalie Burns,Heritage Bakes
+2023-01-16,Evening,Facebook,292.32,76.31,2,New,Sean Peters,Heritage Bakes
+2023-10-02,Night,Walk-in,207.85,68.69,6,New,Christopher Jones,Heritage Bakes
+2023-07-04,Morning,Walk-in,359.66,85.69,4,New,Miguel Pena,Heritage Bakes
+2023-05-12,Morning,Instagram,214.82,196.3,4,Returning,Ryan Lawson,Heritage Bakes
+2023-08-25,Morning,Facebook,95.83,30.51,1,Returning,David Williams,Heritage Bakes
+2023-07-11,Afternoon,Google Ads,468.81,157.7,5,New,Mark Johnson,Heritage Bakes
+2023-12-07,Morning,Facebook,234.34,97.04,2,Returning,Rebecca Perez,Heritage Bakes
+2023-03-27,Morning,Google Ads,104.79,100.63,2,Returning,Kathryn Thomas,Heritage Bakes
+2023-05-26,Morning,Walk-in,20.81,4.45,0,Returning,Crystal Abbott,Heritage Bakes
+2023-04-30,Morning,Instagram,129.72,120.41,1,New,Alexandra Hodge,Heritage Bakes
+2023-01-27,Afternoon,Walk-in,412.3,85.82,32,New,Rachel Yang,Heritage Bakes
+2023-04-29,Afternoon,Google Ads,195.76,61.2,2,New,Michelle Sanders,Heritage Bakes
+2023-07-06,Evening,Referral,291.59,79.82,3,New,Dustin Stein,Heritage Bakes
+2023-03-27,Evening,Facebook,149.04,70.2,11,New,Haley Jackson,Heritage Bakes
+2023-02-24,Evening,Email,48.31,11.63,0,New,Thomas Moses,Heritage Bakes
+2023-03-17,Night,Referral,176,35.58,8,Returning,Jeffrey Petersen,Heritage Bakes
+2023-06-01,Night,Google Ads,401.14,102.9,4,Returning,Joseph Ward,Heritage Bakes
+2023-10-15,Evening,Google Ads,398.75,198.97,21,New,Lance Robinson,Heritage Bakes
+2023-07-25,Afternoon,Facebook,145.86,131.42,2,New,Kristen Smith,Heritage Bakes
+2023-10-20,Night,Referral,437.8,92.12,9,New,Nicole Mcbride,Heritage Bakes
+2023-01-21,Evening,Facebook,334.21,220.23,4,Returning,Daisy Larson,Heritage Bakes
+2023-04-06,Morning,Referral,41.41,9.41,0,New,Jesus Shaw,Heritage Bakes
+2023-11-27,Afternoon,Email,161.47,34.62,1,New,Shelly Moss,Heritage Bakes
+2023-06-06,Afternoon,Google Ads,57.64,13.37,0,Returning,Laura Coleman,Heritage Bakes
+2023-12-09,Morning,Instagram,314.97,124.84,13,Returning,Kayla Moore,Heritage Bakes
+2023-11-07,Night,Facebook,15.16,3.24,0,New,Melissa Brown,Heritage Bakes
+2023-04-10,Morning,Instagram,248.32,79.05,3,New,Emily Riley MD,Heritage Bakes
+2023-08-29,Afternoon,Facebook,110.58,27.43,2,New,Donald Cole,Heritage Bakes
+2023-10-12,Morning,Email,409.82,82.67,12,New,James Johnson,Heritage Bakes
+2023-12-09,Afternoon,Google Ads,373.87,84.93,3,Returning,Nicholas George,Heritage Bakes
+2023-06-05,Morning,Walk-in,435.02,377.57,29,New,Jane King,Heritage Bakes
+2023-11-30,Morning,Referral,58.81,13.43,1,Returning,Tanner Decker,Heritage Bakes
+2023-08-06,Afternoon,Email,126.76,26.95,3,Returning,Leslie Martin,Heritage Bakes
+2023-08-29,Afternoon,Facebook,17.86,13.07,1,Returning,Keith Garcia,Heritage Bakes
+2023-08-14,Night,Google Ads,53.51,14.57,1,Returning,Victoria Keller,Heritage Bakes
+2023-10-29,Night,Walk-in,76.19,17.21,2,Returning,Mr. Robert Acevedo MD,Heritage Bakes
+2023-07-15,Evening,Referral,133.73,31.52,2,Returning,Ms. Kayla Williams,Heritage Bakes
+2023-12-08,Afternoon,Google Ads,409.04,253.25,10,New,Tammy Jackson,Heritage Bakes
+2023-06-11,Night,Walk-in,223.44,51.9,2,Returning,Robert Smith,Heritage Bakes
+2023-09-23,Night,Email,409.65,82.11,4,New,Stephen Smith,Heritage Bakes
+2023-10-25,Morning,Email,407.68,93.38,5,New,Jasmin Hamilton,Heritage Bakes
+2023-01-17,Evening,Facebook,330.7,210.72,3,Returning,Thomas Romero,Heritage Bakes
+2023-10-06,Night,Walk-in,471.96,374.07,6,Returning,Megan Grant,Heritage Bakes
+2023-11-10,Afternoon,Instagram,464.31,213.55,6,New,Karen Hughes,Heritage Bakes
+2023-05-26,Morning,Google Ads,312.04,102.1,5,New,Bradley Phillips,Heritage Bakes
+2023-01-04,Morning,Google Ads,352.09,208.69,4,New,Robert Roberts,Heritage Bakes
+2023-07-30,Evening,Email,443.39,406.5,8,New,Cynthia Tran,Heritage Bakes
+2023-09-11,Evening,Facebook,391.01,383.34,23,New,Marie Davidson,Heritage Bakes
+2023-09-27,Afternoon,Facebook,84.89,26.56,1,New,Jordan Williams,Heritage Bakes
+2023-12-23,Afternoon,Referral,136.76,32.27,1,Returning,Mr. Paul Chase,Heritage Bakes
+2023-08-16,Morning,Facebook,26.24,5.96,0,New,Chloe Parker,Heritage Bakes
+2023-09-29,Afternoon,Referral,159.72,64.26,11,New,Leah Collier,Heritage Bakes
+2023-12-06,Morning,Instagram,67.09,34.44,1,Returning,Amanda Gonzalez,Heritage Bakes
+2023-06-12,Night,Walk-in,11.6,10.85,0,New,Alice Conley,Heritage Bakes
+2023-05-20,Evening,Instagram,379.37,114.11,14,Returning,Clarence Wood,Heritage Bakes
+2023-06-04,Afternoon,Referral,265.17,65.77,3,New,Terri Cisneros,Heritage Bakes
+2023-07-18,Morning,Referral,389.39,354.7,5,Returning,Jessica Jones,Heritage Bakes
+2023-04-02,Night,Google Ads,180.85,42.53,2,Returning,Michael Graham,Heritage Bakes
+2023-05-02,Night,Google Ads,479.72,128.96,4,New,Mary Henderson,Heritage Bakes
+2023-01-22,Evening,Walk-in,26.14,6.64,0,New,Adam Holland,Heritage Bakes
+2023-07-07,Afternoon,Google Ads,438.53,202.01,7,Returning,Elizabeth Miller,Heritage Bakes
+2023-07-03,Night,Walk-in,210.17,116.85,2,Returning,Ryan Kaiser,Heritage Bakes
+2023-06-08,Morning,Walk-in,293.87,197.7,16,Returning,Douglas Morton,Heritage Bakes
+2023-05-31,Afternoon,Facebook,429.78,140.24,5,Returning,Ashlee Mendez,Heritage Bakes
+2023-03-02,Morning,Referral,204.34,92.82,7,Returning,Leslie Barton,Heritage Bakes
+2023-05-19,Evening,Instagram,421.42,109.68,4,Returning,Joseph Smith,Heritage Bakes
+2023-06-14,Afternoon,Walk-in,236.25,193.39,2,New,Paige Jordan,Heritage Bakes
+2023-09-02,Night,Email,362.32,230.08,3,New,Elizabeth Taylor,Heritage Bakes
+2023-03-18,Night,Referral,378.86,81.62,4,New,Latoya Howell,Heritage Bakes
+2023-03-16,Evening,Instagram,390.49,83.01,7,Returning,Lawrence Glover,Heritage Bakes
+2023-05-13,Afternoon,Google Ads,338.65,230.38,12,New,Kimberly Grant,Heritage Bakes
+2023-09-18,Night,Email,317.84,143.74,3,New,Madison Wilson,Heritage Bakes
+2023-04-20,Night,Walk-in,364,80.9,5,Returning,Melanie Davidson,Heritage Bakes
+2023-07-24,Morning,Instagram,488.7,107.18,15,Returning,Angel Johnson,Heritage Bakes
+2023-08-31,Night,Email,78.09,25.49,0,Returning,Jessica Cox,Heritage Bakes
+2023-12-23,Afternoon,Facebook,276.28,60.24,3,Returning,Laura Mosley,Heritage Bakes
+2023-07-23,Afternoon,Instagram,427.99,147.98,6,Returning,Kurt Martinez,Heritage Bakes
+2023-02-09,Night,Google Ads,401.05,392.83,8,Returning,Brandi Ibarra,Heritage Bakes
+2023-06-08,Night,Referral,102.47,63.08,1,Returning,Heather Sweeney,Heritage Bakes
+2023-09-07,Afternoon,Referral,197.12,54.7,6,Returning,Laura Guerra,Heritage Bakes
+2023-12-23,Afternoon,Instagram,58.64,24.35,1,New,Adrian Levine,Heritage Bakes
+2023-03-16,Night,Facebook,244.47,112.88,4,Returning,Abigail Acevedo,Heritage Bakes
+2023-10-06,Afternoon,Google Ads,436.21,92.58,4,New,Isabella Taylor,Heritage Bakes
+2023-10-13,Morning,Referral,146.96,67.88,7,New,Joel Rogers,Heritage Bakes
+2023-01-05,Morning,Facebook,199.08,47.08,4,Returning,Tyler Murray,Heritage Bakes
+2023-07-10,Morning,Instagram,404.37,102.7,6,New,Michael Lambert,Heritage Bakes
+2023-02-04,Night,Referral,282.28,56.54,13,Returning,Edward Guzman,Heritage Bakes
+2023-08-25,Evening,Facebook,201.22,79.76,5,New,Anne Chambers,Heritage Bakes
+2023-01-18,Night,Email,139.34,111.15,9,New,Kristen Ramirez,Heritage Bakes
+2023-01-27,Night,Email,296.7,90.21,3,Returning,Leslie Case,Heritage Bakes
+2023-02-11,Morning,Walk-in,51.03,35.93,0,Returning,Christopher Thomas,Heritage Bakes
+2023-01-05,Morning,Email,392.72,318.88,25,New,Felicia Matthews,Heritage Bakes
+2023-09-08,Morning,Google Ads,50.5,10.75,0,New,Robert Keith,Heritage Bakes
+2023-08-01,Morning,Email,235.33,50.17,7,Returning,Deborah Simon,Heritage Bakes
+2023-09-19,Morning,Email,211.94,174.78,2,Returning,Carlos Morrow,Heritage Bakes
+2023-07-09,Afternoon,Email,299.24,113.55,20,New,Edward Tucker,Heritage Bakes
+2023-10-27,Afternoon,Walk-in,496.66,131.11,9,Returning,Emma Chan,Heritage Bakes
+2023-08-30,Evening,Instagram,83.33,40.02,1,New,Ryan Thomas,Heritage Bakes
+2023-10-18,Night,Referral,429.57,117.48,12,Returning,Holly Rivas,Heritage Bakes
+2023-04-05,Morning,Walk-in,311.73,294.97,4,New,Alicia Navarro,Heritage Bakes
+2023-02-11,Afternoon,Email,99.83,20.99,2,Returning,James Schaefer,Heritage Bakes
+2023-01-01,Night,Walk-in,84.11,34.97,1,New,Jennifer Sampson,Heritage Bakes
+2023-10-29,Evening,Instagram,212.92,121.9,3,New,Daniel Taylor,Heritage Bakes
+2023-02-08,Morning,Email,183.12,54.99,2,Returning,Julie Thompson,Heritage Bakes
+2023-09-13,Evening,Referral,180.09,48.02,3,Returning,Justin Murphy,Heritage Bakes
+2023-11-17,Afternoon,Walk-in,187.78,70.28,3,Returning,Rachel Smith,Heritage Bakes
+2023-09-21,Night,Google Ads,364.07,305.59,4,New,Joseph Dougherty,Heritage Bakes
+2023-04-29,Morning,Google Ads,209.43,43.28,2,Returning,Catherine Barker,Heritage Bakes
+2023-03-23,Afternoon,Referral,437.18,366.21,8,Returning,Cynthia Taylor,Heritage Bakes
+2023-12-30,Afternoon,Walk-in,35.79,10.88,1,New,James Peck,Heritage Bakes
+2023-10-29,Afternoon,Facebook,48.97,20.64,2,New,Rebecca Brooks,Heritage Bakes
+2023-07-11,Morning,Referral,22.91,5.07,0,New,Mr. Gregory Hart,Heritage Bakes
+2023-03-10,Night,Instagram,416.04,134.06,4,Returning,Tiffany Davis,Heritage Bakes
+2023-10-30,Evening,Email,498.12,160.76,7,Returning,Vanessa Bishop,Heritage Bakes
+2023-03-18,Evening,Referral,149.19,42.36,2,Returning,Stacey Rodriguez,Heritage Bakes
+2023-05-11,Afternoon,Walk-in,149.6,38.58,1,Returning,Angelica Lopez,Heritage Bakes
+2023-05-24,Afternoon,Instagram,206.89,44,2,New,Spencer Manning,Heritage Bakes
+2023-02-07,Night,Facebook,324.07,181.15,19,Returning,Robert Bauer,Heritage Bakes
+2023-04-12,Evening,Facebook,110.47,55.58,3,Returning,Keith Gonzalez,Heritage Bakes
+2023-01-30,Afternoon,Email,161.55,79.2,7,Returning,Benjamin Jordan,Heritage Bakes
+2023-12-03,Morning,Email,13.78,4.14,0,Returning,Adrian Krueger,Heritage Bakes
+2023-03-01,Night,Email,421.73,316.47,11,New,Michael Travis,Heritage Bakes
+2023-08-09,Morning,Google Ads,492.32,104.87,12,New,Jonathan Glover,Heritage Bakes
+2023-01-27,Night,Walk-in,230.55,52.98,2,New,Erin Carter,Heritage Bakes
+2023-09-29,Afternoon,Instagram,69.48,14.75,1,Returning,Brenda Bradley,Heritage Bakes
+2023-05-21,Evening,Google Ads,340.36,121.51,29,Returning,Kevin Berry,Heritage Bakes
+2023-07-23,Morning,Instagram,173.28,112.08,6,New,Jennifer Anderson,Heritage Bakes
+2023-11-06,Afternoon,Facebook,406.76,83.68,5,New,Tyler Miranda,Heritage Bakes
+2023-10-07,Morning,Facebook,58.27,13.91,0,New,Nicholas Chung,Heritage Bakes
+2023-10-03,Afternoon,Google Ads,487.2,141.64,11,Returning,Kayla Thomas,Heritage Bakes
+2023-08-15,Night,Walk-in,439.69,106.12,4,Returning,Robert Shepherd,Heritage Bakes
+2023-11-01,Morning,Facebook,436.11,161.73,41,Returning,Steven Swanson,Heritage Bakes
+2023-09-06,Night,Referral,419.11,87.26,4,Returning,David Williams,Heritage Bakes
+2023-07-28,Night,Referral,135.92,33.55,1,Returning,Justin Bishop,Heritage Bakes
+2023-09-04,Night,Walk-in,39.19,13.71,0,New,Clifford Mcdonald,Heritage Bakes
+2023-11-23,Evening,Email,157.28,122.07,2,New,Wesley Bowers,Heritage Bakes
+2023-03-15,Afternoon,Walk-in,172.02,42.01,10,Returning,Jessica Warren,Heritage Bakes
+2023-02-06,Evening,Instagram,44.51,10.43,0,Returning,Dana Savage,Heritage Bakes
+2023-01-05,Night,Facebook,121.03,31.4,2,Returning,Joseph Sullivan,Heritage Bakes
+2023-11-27,Morning,Referral,129.05,54.49,2,Returning,Joshua Williams,Heritage Bakes
+2023-10-11,Afternoon,Facebook,464.88,99.42,9,New,Cory Kelley,Heritage Bakes
+2023-12-26,Morning,Instagram,67.6,23.54,3,Returning,Whitney Macdonald DVM,Heritage Bakes
+2023-03-19,Afternoon,Google Ads,212.95,69.42,5,New,Kimberly Ponce,Heritage Bakes
+2023-03-21,Morning,Email,282.94,84.44,3,Returning,Darren Morse,Heritage Bakes
+2023-03-28,Night,Facebook,106.01,22.33,1,Returning,Lydia Horn,Heritage Bakes
+2023-04-10,Evening,Walk-in,224.01,62.65,2,New,Chad Williams,Heritage Bakes
+2023-05-15,Evening,Google Ads,76.07,32.42,0,New,Jeremy Wallace,Heritage Bakes
+2023-02-09,Night,Google Ads,80.17,38.73,4,New,Anthony Ward,Heritage Bakes
+2023-04-30,Afternoon,Facebook,214.79,123.98,3,Returning,Heather Diaz,Heritage Bakes
+2023-12-03,Evening,Walk-in,371.68,305.63,8,Returning,Daniel White,Heritage Bakes
+2023-10-16,Night,Email,322.1,116.18,9,New,Linda Fernandez,Heritage Bakes
+2023-03-26,Evening,Facebook,226.44,122.34,4,New,Ralph Rodriguez,Heritage Bakes
+2023-08-22,Morning,Google Ads,481.74,135.87,9,New,Michael Cross DDS,Heritage Bakes
+2023-09-04,Afternoon,Facebook,396.24,164.98,4,Returning,Stacy Garcia,Heritage Bakes
+2023-11-07,Morning,Referral,235.06,93.14,3,New,Brett Maxwell,Heritage Bakes
+2023-07-13,Evening,Google Ads,468.4,103.08,15,New,Anna Andersen,Heritage Bakes
+2023-10-21,Morning,Email,353.36,76.91,10,Returning,Gary Phillips,Heritage Bakes
+2023-08-23,Afternoon,Facebook,257.19,114.53,2,New,Melanie Brown,Heritage Bakes
+2023-04-30,Morning,Facebook,332.22,66.64,3,New,Carol Johnson,Heritage Bakes
+2023-08-26,Night,Instagram,93.07,32.17,1,Returning,Jacqueline Hall,Heritage Bakes
+2023-10-02,Evening,Instagram,147.28,33.63,1,Returning,Tara Hale,Heritage Bakes
+2023-03-29,Afternoon,Instagram,143.63,36.53,2,New,Christopher Smith,Heritage Bakes
+2023-10-27,Afternoon,Referral,478.41,106.41,10,Returning,Chad Kim,Heritage Bakes
+2023-02-22,Afternoon,Google Ads,263.36,146.94,4,New,Riley Knight,Heritage Bakes
+2023-04-29,Morning,Walk-in,236.8,118.01,22,New,Amy Moore,Heritage Bakes
+2023-06-14,Night,Instagram,496.54,211.88,5,New,Robert Ellison,Heritage Bakes
+2023-04-21,Afternoon,Email,492.57,220.96,11,New,Brian Lewis,Heritage Bakes
+2023-05-22,Night,Email,477.43,134.4,7,New,Catherine Johns,Heritage Bakes
+2023-09-27,Morning,Walk-in,490.2,397.77,11,Returning,Mary Parks,Heritage Bakes
+2023-08-02,Night,Referral,343.69,134.09,10,Returning,Mark Williamson,Heritage Bakes
+2023-08-31,Morning,Walk-in,116.18,44.12,2,New,Douglas Blanchard,Heritage Bakes
+2023-12-20,Afternoon,Google Ads,204.42,73.69,3,New,Phillip Padilla PhD,Heritage Bakes
+2023-08-27,Afternoon,Instagram,74.31,15.54,1,New,Juan Galvan,Heritage Bakes
+2023-09-08,Afternoon,Facebook,417.28,358.39,4,New,Leslie Diaz,Heritage Bakes
+2023-09-04,Afternoon,Instagram,446.9,128.68,13,Returning,David Potter,Heritage Bakes
+2023-04-29,Morning,Instagram,215.5,182.85,3,New,Adam Long,Heritage Bakes
+2023-05-01,Night,Referral,326.8,133.01,4,New,Lisa Booker,Heritage Bakes
+2023-06-03,Evening,Referral,451.95,127.33,7,Returning,Alexandria Vaughn,Heritage Bakes
+2023-08-23,Morning,Instagram,408.2,83.33,14,New,April Bailey,Heritage Bakes
+2023-09-14,Afternoon,Google Ads,29.93,6.14,1,Returning,Sherry Patterson,Heritage Bakes
+2023-08-30,Morning,Instagram,247.43,54.78,6,New,Melissa Wolf,Heritage Bakes
+2023-04-10,Morning,Referral,470.61,112.78,11,Returning,Joshua Sims,Heritage Bakes
+2023-01-11,Evening,Walk-in,292.92,99.21,5,New,Tina Mooney,Heritage Bakes
+2023-05-04,Morning,Instagram,71.11,52.63,1,Returning,Luis Mcclain,Heritage Bakes
+2023-02-07,Evening,Instagram,12.37,2.6,0,Returning,Heather Wolf,Heritage Bakes
+2023-12-04,Evening,Instagram,46.02,33.91,2,New,James Bradley,Heritage Bakes
+2023-09-27,Morning,Referral,134.44,37.06,1,Returning,Isaiah Jones,Heritage Bakes
+2023-08-19,Evening,Referral,32.96,12.37,0,Returning,Victor Hudson,Heritage Bakes
+2023-09-18,Night,Facebook,162.54,84.47,2,Returning,Maria Sanders,Heritage Bakes
+2023-12-08,Evening,Walk-in,108.31,36.13,1,Returning,Thomas Holloway,Heritage Bakes
+2023-08-10,Morning,Instagram,341.16,72.29,13,New,Joshua Love,Heritage Bakes
+2023-09-06,Afternoon,Referral,453.01,162.89,6,Returning,Andrew Dominguez,Heritage Bakes
+2023-06-18,Evening,Google Ads,498.36,254.35,6,Returning,John Adams,Heritage Bakes
+2023-01-11,Morning,Google Ads,148.61,52.8,5,New,Michelle Huber,Heritage Bakes
+2023-07-24,Morning,Email,328.04,127.58,4,New,Laura Roberts,Heritage Bakes
+2023-11-26,Afternoon,Facebook,441.04,136.26,7,Returning,Tracey Brooks,Heritage Bakes
+2023-09-08,Morning,Email,275.28,59.65,3,Returning,Aaron Henry,Heritage Bakes
+2023-05-02,Evening,Facebook,41,31.09,1,Returning,Ryan Moore,Heritage Bakes
+2023-02-07,Morning,Google Ads,347.38,90.35,4,Returning,Daniel Chen,Heritage Bakes
+2023-09-02,Evening,Walk-in,454.13,158.08,10,Returning,Angel Lewis,Heritage Bakes
+2023-03-29,Afternoon,Instagram,221.51,57.27,7,New,David Nolan,Heritage Bakes
+2023-06-02,Morning,Google Ads,154.97,33.21,1,Returning,Brian Medina,Heritage Bakes
+2023-10-16,Afternoon,Facebook,432.37,101.35,14,Returning,Antonio Lopez,Heritage Bakes
+2023-07-25,Night,Walk-in,354.99,98.24,4,Returning,Michaela Hernandez,Heritage Bakes
+2023-08-12,Night,Instagram,91.39,27.26,1,Returning,Elizabeth Chase,Heritage Bakes
+2023-01-09,Night,Facebook,492.94,205.04,29,Returning,Omar Johnson,Heritage Bakes
+2023-10-24,Afternoon,Google Ads,367.85,196.84,18,Returning,Steven Fisher,Heritage Bakes
+2023-02-04,Night,Walk-in,74.2,20.48,6,Returning,Heather Smith,Heritage Bakes
+2023-11-01,Night,Walk-in,253.24,92,3,Returning,Kimberly Mcintyre,Heritage Bakes
+2023-01-03,Afternoon,Walk-in,272.25,94.65,4,Returning,Dana Hernandez,Heritage Bakes
+2023-06-22,Evening,Facebook,92.04,18.79,4,New,Anita Long,Heritage Bakes
+2023-03-25,Night,Referral,497.37,131.42,6,Returning,Chad Pennington,Heritage Bakes
+2023-03-13,Morning,Email,240.41,104.27,3,Returning,Michael Rosario,Heritage Bakes
+2023-03-05,Evening,Walk-in,220.95,57.61,2,Returning,Joyce Webster,Heritage Bakes
+2023-12-08,Evening,Walk-in,248.65,68.6,3,New,Kristie Hendrix MD,Heritage Bakes
+2023-01-25,Afternoon,Referral,367.41,140.67,3,Returning,Shannon Miller,Heritage Bakes
+2023-08-10,Night,Email,451.56,422.54,6,New,Linda Henderson,Heritage Bakes
+2023-05-18,Night,Facebook,112.8,23.7,5,Returning,Anthony Ashley,Heritage Bakes
+2023-01-24,Night,Referral,292.15,67.13,3,New,Michael Khan,Heritage Bakes
+2023-12-12,Night,Instagram,472.95,364.97,6,Returning,Stacey Thomas,Heritage Bakes
+2023-09-09,Evening,Google Ads,156.85,138.93,3,New,Joseph Jones,Heritage Bakes
+2023-05-10,Afternoon,Referral,98.51,29.9,1,New,John Johnson,Heritage Bakes
+2023-01-28,Afternoon,Facebook,333.12,182.35,6,New,April Wallace,Heritage Bakes
+2023-01-28,Afternoon,Referral,336.36,123.8,33,New,Gregory Martin,Heritage Bakes
+2023-12-30,Afternoon,Email,490.43,480.28,6,Returning,Krista White,Heritage Bakes
+2023-03-13,Morning,Walk-in,127.72,52.3,1,New,Tyler Garcia,Heritage Bakes
+2023-10-04,Night,Email,249.98,228.04,3,Returning,Molly Jackson,Heritage Bakes
+2023-11-12,Afternoon,Walk-in,379.51,87.8,5,Returning,Thomas Floyd,Heritage Bakes
+2023-09-06,Night,Google Ads,494.65,214.87,8,Returning,Susan Sharp,Heritage Bakes
+2023-09-11,Afternoon,Walk-in,184.65,128.28,3,Returning,Krystal Hamilton,Heritage Bakes
+2023-08-14,Morning,Walk-in,177.36,71.02,1,Returning,Kathy Lewis,Heritage Bakes
+2023-05-21,Evening,Walk-in,111.36,40.67,3,Returning,Joshua Miller,Heritage Bakes
+2023-10-10,Evening,Facebook,447.17,113.66,43,New,Emily Brady,Heritage Bakes
+2023-03-26,Evening,Instagram,73.67,31.74,1,New,Julie Padilla,Heritage Bakes
+2023-12-03,Morning,Facebook,458.89,95.26,4,Returning,Justin Williams,Heritage Bakes
+2023-02-02,Morning,Referral,296.33,152.43,3,Returning,Willie Morgan,Heritage Bakes
+2023-10-18,Morning,Facebook,342.53,114.42,5,New,Joseph Stokes,Heritage Bakes
+2023-08-04,Night,Facebook,234.59,62.48,7,Returning,Cindy Kelley,Heritage Bakes
+2023-08-18,Night,Referral,226.38,202.74,11,Returning,Tommy Romero,Heritage Bakes
+2023-02-26,Evening,Facebook,424.99,123.12,30,Returning,Stephanie Lara,Heritage Bakes
+2023-12-01,Evening,Referral,197.63,118.68,3,Returning,Tyrone Collins,Heritage Bakes
+2023-12-13,Night,Walk-in,473.24,229.65,11,New,Brendan Palmer,Heritage Bakes
+2023-03-17,Afternoon,Instagram,116.77,62.36,1,Returning,Paul Martin,Heritage Bakes
+2023-01-19,Morning,Email,82.23,24.8,0,Returning,Juan Gilbert,Heritage Bakes
+2023-05-01,Morning,Walk-in,237.02,150.58,12,Returning,Lori Roberson,Heritage Bakes
+2023-09-06,Evening,Email,65.94,14.6,2,New,Matthew Moore,Heritage Bakes
+2023-06-23,Night,Email,330.78,124.85,10,New,Donald Freeman,Heritage Bakes
+2023-03-13,Morning,Email,497.9,106.46,6,Returning,Daniel Anderson,Heritage Bakes
+2023-02-09,Night,Email,205.55,61.78,3,Returning,Kelly Rodriguez,Heritage Bakes
+2023-11-09,Night,Facebook,403.44,182.04,4,Returning,Troy Ward,Heritage Bakes
+2023-10-19,Night,Instagram,95.75,20.13,2,New,Christina Smith,Heritage Bakes
+2023-04-23,Evening,Google Ads,386.95,191.91,4,Returning,Mark Smith,Heritage Bakes
+2023-09-13,Night,Instagram,351.56,88.92,4,New,Daniel Williams,Heritage Bakes
+2023-11-05,Evening,Google Ads,257.93,88.68,14,New,Melissa Robinson,Heritage Bakes
+2023-02-05,Afternoon,Walk-in,449.07,158.54,5,Returning,Mitchell Jimenez,Heritage Bakes
+2023-02-12,Evening,Facebook,385,93.96,6,Returning,Bethany Liu,Heritage Bakes
+2023-09-06,Evening,Facebook,328.98,239.54,4,New,Mitchell Williams,Heritage Bakes
+2023-10-28,Evening,Google Ads,403.09,188.98,27,Returning,Bianca Davis,Heritage Bakes
+2023-11-27,Evening,Instagram,367.86,170.7,4,Returning,Anthony King,Heritage Bakes
+2023-07-23,Night,Google Ads,130.83,80.7,5,Returning,Michael Summers,Heritage Bakes
+2023-03-10,Afternoon,Google Ads,420.5,92.27,6,Returning,Ricky Hall,Heritage Bakes
+2023-06-14,Afternoon,Google Ads,88.35,21.36,8,Returning,Joyce Kelly,Heritage Bakes
+2023-06-06,Night,Referral,388.27,133.05,15,New,Anne Medina,Heritage Bakes
+2023-03-13,Morning,Email,328.49,70.5,8,Returning,Benjamin Johnson,Heritage Bakes
+2023-03-05,Evening,Email,474.79,181.02,7,New,Kyle Perry,Heritage Bakes
+2023-09-09,Night,Google Ads,301.18,107.85,18,New,Melissa Newton,Heritage Bakes
+2023-02-12,Morning,Instagram,411.94,147.42,9,Returning,James Franklin,Heritage Bakes
+2023-02-07,Morning,Instagram,41.42,9.84,0,Returning,Caitlin Curry,Heritage Bakes
+2023-10-31,Night,Email,98.34,58.95,1,New,Barbara Glover,Heritage Bakes
+2023-08-21,Night,Facebook,436.15,370.67,28,Returning,Ryan Harmon,Heritage Bakes
+2023-10-02,Afternoon,Email,419.57,104.91,5,Returning,Andrea Hughes,Heritage Bakes
+2023-10-15,Afternoon,Walk-in,213.69,68.59,2,New,Keith Solis,Heritage Bakes
+2023-02-14,Night,Facebook,79.12,28.91,1,New,Bryan Tucker,Heritage Bakes
+2023-06-18,Afternoon,Walk-in,214.67,68.26,2,Returning,Holly Grant,Heritage Bakes
+2023-08-25,Afternoon,Facebook,462.3,112.21,5,Returning,Ryan Skinner,Heritage Bakes
+2023-03-21,Morning,Google Ads,131.22,84.39,7,New,Julia Mullins,Heritage Bakes
+2023-02-01,Afternoon,Instagram,191.73,95.54,3,New,Janet Graves,Heritage Bakes
+2023-08-22,Night,Facebook,332.53,205.59,4,New,Angela Hunt,Heritage Bakes
+2023-08-18,Evening,Walk-in,327.21,94.74,7,New,Isaiah Turner,Heritage Bakes
+2023-05-31,Night,Referral,462.45,243.23,24,Returning,Phillip Scott,Heritage Bakes
+2023-05-19,Evening,Walk-in,116.8,42.46,10,New,Jessica Reynolds,Heritage Bakes
+2023-10-25,Evening,Facebook,304.36,100.53,3,Returning,Melinda Jacobs,Heritage Bakes
+2023-06-14,Evening,Instagram,59.8,38.31,1,Returning,Danny Butler,Heritage Bakes
+2023-03-20,Afternoon,Email,176.09,66.02,11,Returning,Matthew Bennett,Heritage Bakes
+2023-09-15,Evening,Email,166.66,45.59,2,Returning,Carl Jackson,Heritage Bakes
+2023-12-13,Afternoon,Referral,81.54,16.5,3,Returning,Stephen Wilson,Heritage Bakes
+2023-06-24,Morning,Google Ads,103.65,62.73,3,Returning,Charles Robinson,Heritage Bakes
+2023-05-07,Afternoon,Walk-in,419.8,169.36,13,New,Chad Poole,Heritage Bakes
+2023-10-29,Evening,Email,92.23,47.07,1,Returning,Matthew Dominguez,Heritage Bakes
+2023-09-29,Evening,Instagram,292.35,188.27,15,New,Christian Shelton,Heritage Bakes
+2023-05-09,Evening,Facebook,256.27,152.05,3,New,Makayla Friedman,Heritage Bakes
+2023-09-26,Morning,Facebook,401.45,341.31,31,Returning,Katherine Downs,Heritage Bakes
+2023-03-24,Morning,Facebook,351.19,110.32,3,Returning,Lisa Singh,Heritage Bakes
+2023-05-15,Evening,Facebook,53.02,12.27,0,New,Brittany Allen,Heritage Bakes
+2023-02-09,Night,Facebook,226.31,66.09,4,New,Robert Miller,Heritage Bakes
+2023-10-26,Evening,Email,87.94,28.95,3,New,Melanie Baker,Heritage Bakes
+2023-07-27,Afternoon,Instagram,194.07,83.42,5,Returning,Gerald Allen,Heritage Bakes
+2023-04-06,Night,Facebook,59.86,29.85,1,New,Vincent Hays,Heritage Bakes
+2023-03-25,Evening,Instagram,323.72,100.35,13,New,Valerie Lopez,Heritage Bakes
+2023-01-05,Afternoon,Google Ads,465.47,123.14,5,Returning,Anthony Schmidt,Heritage Bakes
+2023-11-17,Night,Google Ads,498.64,353.97,7,Returning,Dean Harris,Heritage Bakes
+2023-03-20,Night,Walk-in,127.14,44.85,6,New,Rhonda Allen,Heritage Bakes
+2023-06-13,Afternoon,Referral,81.83,25.58,5,Returning,Ruben Charles,Heritage Bakes
+2023-12-31,Morning,Email,488.72,102.58,26,Returning,Jennifer Brooks,Heritage Bakes
+2023-03-31,Afternoon,Instagram,246.32,91.99,8,Returning,Jacqueline Owens,Heritage Bakes
+2023-06-22,Morning,Email,44.76,42.23,0,Returning,Sydney Elliott,Heritage Bakes
+2023-05-03,Evening,Instagram,129.54,50.24,2,New,Gary Chavez,Heritage Bakes
+2023-01-09,Morning,Walk-in,449.73,138.05,6,New,Stephanie Salinas,Heritage Bakes
+2023-03-03,Evening,Facebook,26.12,12.56,0,Returning,Raymond Valenzuela,Heritage Bakes
+2023-02-09,Afternoon,Facebook,193.9,73.14,2,New,Theresa Ward,Heritage Bakes
+2023-10-30,Evening,Instagram,63.62,22.49,1,New,Jacob Kennedy,Heritage Bakes
+2023-02-14,Night,Referral,271.22,104.74,4,New,Jenna Velazquez,Heritage Bakes
+2023-02-11,Afternoon,Google Ads,79.52,18.43,0,New,Kathryn Rivers,Heritage Bakes
+2023-08-21,Night,Google Ads,367.98,247.55,13,New,Daniel Ramirez,Heritage Bakes
+2023-12-13,Afternoon,Email,11.53,3.55,0,Returning,Greg Wood,Heritage Bakes
+2023-12-11,Afternoon,Instagram,226.49,139.46,2,New,Susan Armstrong,Heritage Bakes
+2023-12-21,Morning,Walk-in,397.03,110.89,14,New,Taylor Stark,Heritage Bakes
+2023-01-21,Morning,Facebook,248.57,106.92,5,New,Brandon Peterson,Heritage Bakes
+2023-03-08,Afternoon,Walk-in,349.56,111.53,6,Returning,Linda Morris,Heritage Bakes
+2023-04-20,Afternoon,Walk-in,286.53,155.82,5,New,Laura Sanders,Heritage Bakes
+2023-12-25,Evening,Walk-in,340.51,170.63,5,Returning,Catherine Castaneda,Heritage Bakes
+2023-11-10,Evening,Instagram,129.02,66.09,4,New,Jesse Pollard,Heritage Bakes
+2023-11-08,Afternoon,Google Ads,62.49,31.44,1,New,Jacob Love,Heritage Bakes
+2023-10-23,Evening,Referral,162.96,45.97,5,New,Mrs. Janice Fitzpatrick,Heritage Bakes
+2023-02-10,Afternoon,Facebook,417.94,100.66,12,Returning,Zachary Mckay,Heritage Bakes
+2023-03-12,Night,Email,147.82,39.02,1,New,Lauren Wright,Heritage Bakes
+2023-01-14,Evening,Facebook,112.18,67.05,3,New,Teresa Velasquez,Heritage Bakes
+2023-11-10,Afternoon,Facebook,365.4,263.03,6,New,Eugene Parker,Heritage Bakes
+2023-01-03,Night,Instagram,227.98,81.29,3,Returning,Amy Knight,Heritage Bakes
+2023-10-15,Afternoon,Instagram,301.21,86.73,6,New,Randy Perez,Heritage Bakes
+2023-07-28,Morning,Referral,49.6,17.38,0,New,Melanie Smith,Heritage Bakes
+2023-08-24,Evening,Walk-in,76.87,40.68,1,Returning,Melissa Martinez,Heritage Bakes
+2023-11-09,Afternoon,Facebook,176,84.62,2,New,Samantha Gillespie,Heritage Bakes
+2023-05-16,Night,Email,21.31,9.08,0,Returning,Bryan Richardson,Heritage Bakes
+2023-06-29,Night,Email,148.23,30.51,12,New,Anna Cantu,Heritage Bakes
+2023-11-26,Evening,Facebook,215.8,47.55,5,New,Christopher Cox,Heritage Bakes
+2023-11-08,Morning,Referral,99.06,52.64,1,New,Diana Kemp,Heritage Bakes
+2023-10-11,Evening,Email,487.79,207.67,17,Returning,Taylor Salinas,Heritage Bakes
+2023-08-19,Morning,Facebook,223.51,81.76,12,New,Ryan Santos,Heritage Bakes
+2023-03-20,Afternoon,Walk-in,42.91,23.02,0,Returning,Amber Crawford,Heritage Bakes
+2023-07-30,Evening,Facebook,305.56,89.37,4,Returning,Carla Wong,Heritage Bakes
+2023-03-22,Morning,Google Ads,116.18,37.02,2,Returning,Allison Rice,Heritage Bakes
+2023-02-03,Morning,Walk-in,156.89,35.01,2,Returning,Sheri Hoover,Heritage Bakes
+2023-03-22,Afternoon,Walk-in,212.46,159.05,3,New,Jeremy Chavez,Heritage Bakes
+2023-02-05,Night,Referral,88.83,19.63,2,New,Jennifer Nguyen,Heritage Bakes
+2023-08-06,Evening,Facebook,400.53,194.37,4,New,John Rodriguez,Heritage Bakes
+2023-05-29,Night,Walk-in,195.31,151.07,2,New,Maria Williams,Heritage Bakes
+2023-12-29,Morning,Email,44.79,12.73,0,Returning,Melody Ochoa,Heritage Bakes
+2023-03-28,Afternoon,Google Ads,414.74,266.33,22,Returning,Tara Brown,Heritage Bakes
+2023-05-05,Morning,Referral,330.83,98.18,17,New,Holly Banks,Heritage Bakes
+2023-11-03,Night,Instagram,318.39,111.83,3,New,Amber Johnson,Heritage Bakes
+2023-05-23,Evening,Email,203.58,112.55,2,New,Scott Thompson,Heritage Bakes
+2023-07-11,Evening,Email,335.2,78.85,5,Returning,Eric Flores,Heritage Bakes
+2023-09-10,Afternoon,Facebook,148.69,79.11,1,New,Theresa Wilson,Heritage Bakes
+2023-06-13,Night,Walk-in,28.31,16.44,0,New,Eric Ponce,Heritage Bakes
+2023-09-24,Evening,Referral,167.33,40.13,6,Returning,Becky Sellers,Heritage Bakes
+2023-08-06,Evening,Email,378.11,126.33,4,Returning,Kendra Burton,Heritage Bakes
+2023-09-16,Afternoon,Referral,445.82,160.7,12,Returning,Wyatt Kerr,Heritage Bakes
+2023-04-05,Afternoon,Google Ads,183.89,89.56,15,New,Craig Dean,Heritage Bakes
+2023-06-28,Night,Facebook,365.69,97.81,3,Returning,Christian Rowe,Heritage Bakes
+2023-03-27,Morning,Instagram,123.02,24.73,2,New,Nathan Burke,Heritage Bakes
+2023-02-24,Night,Referral,153.34,40.66,1,Returning,Nicholas Chase,Heritage Bakes
+2023-01-01,Night,Instagram,46.95,14.96,0,Returning,Hailey Ball,Heritage Bakes
+2023-08-16,Morning,Facebook,170.98,48.77,2,New,Heather Barry,Heritage Bakes
+2023-07-23,Night,Referral,199.53,44.91,2,New,Cindy Young,Heritage Bakes
+2023-04-22,Afternoon,Email,80.8,19.67,2,New,Mark Townsend,Heritage Bakes
+2023-03-04,Night,Facebook,57.15,15.63,1,New,Michael Lee,Heritage Bakes
+2023-03-03,Night,Walk-in,356.18,115.89,9,New,Lisa Smith,Heritage Bakes
+2023-12-18,Afternoon,Referral,219.01,153.41,8,Returning,John Steele,Heritage Bakes
+2023-02-25,Night,Walk-in,174.68,101.59,4,New,Sandra Casey,Heritage Bakes
+2023-07-01,Afternoon,Instagram,279.86,71.14,8,Returning,Darrell Simmons,Heritage Bakes
+2023-05-18,Afternoon,Facebook,371.18,155.82,4,New,Valerie Harrison,Heritage Bakes
+2023-07-13,Evening,Instagram,143.3,41.36,1,New,Anthony Cherry,Heritage Bakes
+2023-12-10,Night,Facebook,100.5,44.15,1,New,Cody Lawson,Heritage Bakes
+2023-05-20,Afternoon,Email,68.23,31.15,0,Returning,Barbara Wagner,Heritage Bakes
+2023-03-28,Morning,Facebook,56.81,11.37,1,Returning,Scott James,Heritage Bakes
+2023-12-16,Morning,Referral,288.51,270.85,3,New,John Moore,Heritage Bakes
+2023-12-08,Night,Google Ads,310.53,73.06,4,New,Matthew Farley,Heritage Bakes
+2023-01-18,Evening,Email,213.07,65.76,3,Returning,Mrs. Tonya Byrd,Heritage Bakes
+2023-03-10,Morning,Email,197.12,56.91,4,Returning,Catherine Davis,Heritage Bakes
+2023-04-27,Evening,Google Ads,338.63,83.33,17,New,Mary Wilkinson,Heritage Bakes
+2023-01-15,Morning,Referral,179.05,46.64,4,New,Michael Baker,Heritage Bakes
+2023-06-16,Afternoon,Instagram,243.31,206.59,6,New,Peggy Mendoza,Heritage Bakes
+2023-03-20,Evening,Google Ads,395.41,86.9,15,New,Paul Anderson,Heritage Bakes
+2023-11-13,Morning,Facebook,312.84,135.63,3,Returning,Wayne Robinson,Heritage Bakes
+2023-07-05,Night,Walk-in,386,132.44,10,New,Brittany Farley,Heritage Bakes
+2023-11-02,Evening,Instagram,237.91,51.01,2,New,Katie Walters,Heritage Bakes
+2023-06-06,Morning,Facebook,46.56,25.9,0,New,Dorothy Osborn,Heritage Bakes
+2023-10-01,Afternoon,Walk-in,381.1,80.84,5,New,William Hodge,Heritage Bakes
+2023-10-21,Evening,Facebook,185.66,94.6,2,New,Michelle Ortega,Heritage Bakes
+2023-07-24,Night,Facebook,48.94,18.2,4,New,Shannon White,Heritage Bakes
+2023-10-26,Evening,Google Ads,96.71,20.76,1,New,Jennifer Bennett,Heritage Bakes
+2023-02-15,Afternoon,Referral,304.34,187.89,16,New,Lisa Kaiser,Heritage Bakes
+2023-04-26,Afternoon,Email,46.24,18.58,1,New,Matthew Mccullough,Heritage Bakes
+2023-04-09,Night,Walk-in,493.12,458.96,6,New,Steven Tyler,Heritage Bakes
+2023-05-01,Afternoon,Referral,121.56,26.33,2,Returning,Robert Jones,Heritage Bakes
+2023-12-03,Night,Instagram,448.34,263.95,6,New,Kim Nelson,Heritage Bakes
+2023-02-08,Morning,Email,378.03,314.07,12,New,Katherine Garcia,Heritage Bakes
+2023-02-15,Night,Facebook,294.09,187.1,17,Returning,John Stewart,Heritage Bakes
+2023-06-17,Evening,Facebook,157.72,72.25,1,New,Tiffany Barton,Heritage Bakes
+2023-07-22,Evening,Referral,290.77,105.57,26,Returning,Erica Smith,Heritage Bakes
+2023-11-30,Evening,Email,440.7,111.62,7,New,Colleen Cruz,Heritage Bakes
+2023-05-31,Afternoon,Facebook,257.57,61.02,5,Returning,Anthony Mueller,Heritage Bakes
+2023-06-15,Afternoon,Google Ads,317.61,128.07,11,Returning,Crystal Clayton,Heritage Bakes
+2023-12-13,Evening,Walk-in,67.03,15.45,0,New,Jacob Brown,Heritage Bakes
+2023-02-19,Afternoon,Email,88.04,29.6,2,Returning,Rachel Williams,Heritage Bakes
+2023-05-21,Night,Facebook,242.5,85.47,4,Returning,Keith Lloyd,Heritage Bakes
+2023-08-09,Night,Referral,378.26,253.12,3,Returning,Mary Richardson,Heritage Bakes
+2023-07-24,Afternoon,Instagram,61.36,12.71,1,New,Nathan Jones,Heritage Bakes
+2023-01-10,Morning,Referral,280.23,96.9,3,Returning,Tamara Peterson,Heritage Bakes
+2023-01-08,Morning,Facebook,116.63,35.07,1,New,Alan Mahoney,Heritage Bakes
+2023-09-30,Afternoon,Google Ads,228.24,52.28,2,Returning,Nathan Vargas,Heritage Bakes
+2023-05-31,Morning,Walk-in,447.85,150.69,16,New,Frank Payne,Heritage Bakes
+2023-10-30,Morning,Referral,427.61,167.79,8,Returning,Cody Woods,Heritage Bakes
+2023-08-21,Morning,Facebook,434.56,162.31,8,Returning,Chad King,Heritage Bakes
+2023-01-03,Afternoon,Walk-in,162.12,33.67,5,New,Christopher Smith,Heritage Bakes
+2023-08-31,Morning,Referral,222,57.92,12,Returning,Marissa Davis,Heritage Bakes
+2023-05-15,Evening,Walk-in,61.39,16.01,1,Returning,Ann Parker,Heritage Bakes
+2023-07-18,Night,Email,262.14,63.05,8,New,Laura Walton,Heritage Bakes
+2023-08-21,Night,Email,491.83,106.72,5,New,Travis Powell,Heritage Bakes
+2023-07-05,Morning,Google Ads,432.29,100.61,10,New,Maria Sullivan,Heritage Bakes
+2023-11-01,Evening,Walk-in,492.61,104.4,7,New,Kelly Lewis,Heritage Bakes
+2023-11-16,Afternoon,Google Ads,308.05,173.57,3,New,John Webb,Heritage Bakes
+2023-12-15,Morning,Email,344.07,88.41,6,New,Lance Townsend,Heritage Bakes
+2023-11-02,Afternoon,Referral,99.14,25.88,0,New,Matthew Leonard,Heritage Bakes
+2023-11-29,Evening,Facebook,413.51,247.43,8,Returning,Tyler Dominguez,Heritage Bakes
+2023-03-25,Evening,Walk-in,68.2,23.38,0,New,Kimberly Alvarez,Heritage Bakes
+2023-10-07,Evening,Email,362.16,88.96,4,Returning,Heather Pittman,Heritage Bakes
+2023-08-30,Evening,Email,209.39,53.05,2,Returning,Teresa Cohen,Heritage Bakes
+2023-12-28,Evening,Facebook,128.66,25.79,1,Returning,Melissa Parker,Heritage Bakes
+2023-12-06,Night,Email,391.39,135.26,7,New,Brandon Carrillo,Heritage Bakes
+2023-03-01,Morning,Instagram,372.26,334.19,8,Returning,Colin Mckay,Heritage Bakes
+2023-04-24,Afternoon,Instagram,350.45,70.23,4,New,Rachel Walsh,Heritage Bakes
+2023-02-28,Afternoon,Facebook,16.07,7.47,0,New,Caleb Williams,Heritage Bakes
+2023-11-02,Morning,Google Ads,492.11,184.31,12,Returning,Benjamin Wilkinson,Heritage Bakes
+2023-01-25,Morning,Google Ads,62.8,16.52,1,Returning,Katelyn Gray,Heritage Bakes
+2023-09-17,Evening,Google Ads,168.07,144.06,3,Returning,Kristine Bryant DVM,Heritage Bakes
+2023-07-26,Morning,Walk-in,183.55,52.39,2,Returning,Michael Smith,Heritage Bakes
+2023-05-25,Afternoon,Email,145.61,51.96,2,Returning,Justin Foster,Heritage Bakes
+2023-05-23,Afternoon,Google Ads,492.91,144.13,5,New,Maurice Graham,Heritage Bakes
+2023-03-27,Night,Email,222.7,58.86,2,New,Kenneth Watkins,Heritage Bakes
+2023-11-12,Morning,Email,405.58,126.98,16,New,Stacey Davis,Heritage Bakes
+2023-01-12,Night,Referral,65.15,14.04,3,New,Janice Bailey,Heritage Bakes
+2023-09-19,Night,Google Ads,429.93,166.67,15,Returning,Amanda Hodge,Heritage Bakes
+2023-07-13,Evening,Instagram,475.7,118.17,4,New,Jason Gomez,Heritage Bakes
+2023-06-27,Afternoon,Facebook,405.22,119.16,4,Returning,Julie Johnson,Heritage Bakes
+2023-07-07,Night,Walk-in,15.98,4.74,0,New,Vanessa Cunningham,Heritage Bakes
+2023-11-23,Morning,Instagram,58.2,12.83,2,New,Tonya Alexander,Heritage Bakes
+2023-02-24,Night,Google Ads,115.82,28.66,1,Returning,Mark Santos,Heritage Bakes
+2023-07-04,Night,Referral,277.47,103.37,4,New,Michael Walker,Heritage Bakes
+2023-06-30,Evening,Instagram,367.93,97.88,31,Returning,Michael Watkins,Heritage Bakes
+2023-06-06,Afternoon,Google Ads,243.93,49.57,2,Returning,Cassidy Bailey,Heritage Bakes
+2023-11-18,Afternoon,Walk-in,11.62,4.09,1,New,Christopher Gutierrez,Heritage Bakes
+2023-11-05,Night,Instagram,107.39,36.68,3,Returning,Elijah Archer,Heritage Bakes
+2023-12-09,Afternoon,Google Ads,80.55,26.22,0,Returning,Lisa Hendricks,Heritage Bakes
+2023-11-15,Night,Instagram,135.59,117.21,1,New,Kristin Hudson,Heritage Bakes
+2023-03-23,Night,Email,299.82,76.2,3,Returning,James Livingston,Heritage Bakes
+2023-06-22,Evening,Email,167.31,135.73,4,New,Jeffrey Evans,Heritage Bakes
+2023-12-08,Evening,Google Ads,83.02,50.53,3,New,Dennis Santana,Heritage Bakes
+2023-05-10,Afternoon,Instagram,58.17,21.63,0,New,Nichole Parker,Heritage Bakes
+2023-10-05,Night,Email,243.82,81.52,2,New,Benjamin Mosley,Heritage Bakes
+2023-06-12,Night,Instagram,327.64,78.13,5,Returning,Jennifer Reilly,Heritage Bakes
+2023-02-07,Evening,Instagram,478.16,357.63,5,New,Nicole Sanchez,Heritage Bakes
+2023-07-02,Night,Email,151.77,44.28,1,Returning,Shannon Hill,Heritage Bakes
+2023-11-11,Night,Facebook,17.91,7.06,0,Returning,Darrell Ibarra,Heritage Bakes
+2023-12-05,Morning,Referral,221.27,118,6,New,Deborah Fox,Heritage Bakes
+2023-11-04,Afternoon,Referral,209.36,82.42,2,Returning,Mary Hoffman,Heritage Bakes
+2023-01-24,Afternoon,Google Ads,381.87,139.12,11,New,Anthony Murphy,Heritage Bakes
+2023-09-20,Afternoon,Facebook,215.05,62.61,2,New,Larry Woods,Heritage Bakes
+2023-08-29,Evening,Facebook,46.41,18.22,0,New,Virginia Caldwell,Heritage Bakes
+2023-01-31,Morning,Email,227.56,65.15,4,Returning,Patricia Boyd,Heritage Bakes
+2023-11-02,Morning,Instagram,194.5,48.35,2,Returning,Debra Wright,Heritage Bakes
+2023-09-30,Afternoon,Walk-in,429.41,88.63,8,Returning,Adam Shannon,Heritage Bakes
+2023-03-08,Evening,Google Ads,476.19,127.62,12,New,Betty Vazquez,Heritage Bakes
+2023-11-22,Afternoon,Email,159.8,32.28,15,New,John Williams,Heritage Bakes
+2023-03-07,Night,Referral,314.67,239.28,3,Returning,Steven Stone,Heritage Bakes
+2023-06-30,Evening,Google Ads,300.94,61.47,6,New,Mark Mueller,Heritage Bakes
+2023-11-21,Night,Email,126.08,27.03,1,New,John Richards,Heritage Bakes
+2023-01-29,Night,Referral,148.76,65.4,8,New,Beth Sanchez,Heritage Bakes
+2023-03-18,Afternoon,Facebook,427.78,87.52,6,Returning,Donald Reynolds,Heritage Bakes
+2023-05-22,Night,Referral,188.3,83.58,6,Returning,Timothy Hernandez,Heritage Bakes
+2023-05-22,Morning,Instagram,99.54,26.29,1,New,Lacey Morrow,Heritage Bakes
+2023-06-12,Afternoon,Referral,193.52,156.47,2,Returning,Omar Kelly,Heritage Bakes
+2023-11-04,Afternoon,Email,315.35,106.53,7,New,Brian Gross,Heritage Bakes
+2023-04-10,Morning,Facebook,245.72,130.81,19,Returning,Scott Lin,Heritage Bakes
+2023-01-27,Afternoon,Instagram,243.26,111.9,2,Returning,Linda Lee,Heritage Bakes
+2023-01-13,Morning,Google Ads,60.81,32.29,0,Returning,Lori Franco,Heritage Bakes
+2023-04-03,Afternoon,Facebook,243.63,53.89,4,Returning,Kristi Jordan,Heritage Bakes
+2023-09-18,Afternoon,Facebook,413.04,85.52,9,Returning,Tammy Lynch,Heritage Bakes
+2023-04-02,Evening,Instagram,364.07,130.66,14,New,Debbie Ward,Heritage Bakes
+2023-01-02,Afternoon,Facebook,484.82,102.1,7,Returning,David Murphy,Heritage Bakes
+2023-09-19,Night,Google Ads,93.02,88.3,2,New,Bradley Walker,Heritage Bakes
+2023-08-10,Afternoon,Instagram,346.76,125.32,6,New,Jacqueline Dyer,Heritage Bakes
+2023-04-18,Night,Facebook,284.11,121.25,6,New,Clifford Poole,Heritage Bakes
+2023-12-15,Morning,Walk-in,329.1,84.4,6,Returning,Michael Taylor,Heritage Bakes
+2023-11-16,Night,Facebook,202.44,45.68,2,Returning,Chloe Ellis,Heritage Bakes
+2023-06-09,Morning,Facebook,44.84,9.23,1,New,Jason Douglas,Heritage Bakes
+2023-06-11,Morning,Google Ads,186.81,59.89,4,New,David Hayes,Heritage Bakes
+2023-01-07,Morning,Walk-in,108.19,43.27,1,New,Kathy Steele,Heritage Bakes
+2023-01-19,Evening,Email,48.78,26.43,0,Returning,Jennifer Underwood,Heritage Bakes
+2023-01-05,Evening,Facebook,326.81,187.4,3,Returning,Amanda Moody,Heritage Bakes
+2023-06-14,Afternoon,Instagram,328.66,87.22,4,Returning,Marilyn Page DVM,Heritage Bakes
+2023-05-15,Morning,Walk-in,108.55,36.84,1,New,Diana Mullins,Heritage Bakes
+2023-05-27,Morning,Walk-in,221.59,49.82,2,New,Brittany Ballard,Heritage Bakes
+2023-04-01,Morning,Instagram,396.45,201.96,16,Returning,Matthew Freeman,Heritage Bakes
+2023-11-25,Afternoon,Walk-in,107.62,38.38,1,New,Amy Baker,Heritage Bakes
+2023-12-17,Night,Referral,42.41,15.71,0,Returning,Elizabeth Skinner MD,Heritage Bakes
+2023-04-13,Morning,Referral,391.97,154.73,8,Returning,Riley Davenport,Heritage Bakes
+2023-02-23,Evening,Referral,492.05,127.53,5,New,Carla Briggs,Heritage Bakes
+2023-08-08,Afternoon,Email,146.54,37.84,1,Returning,Diana Myers,Heritage Bakes
+2023-01-14,Night,Instagram,283.64,75.77,13,Returning,Paul Blair,Heritage Bakes
+2023-05-01,Afternoon,Referral,65.42,59.05,1,Returning,Olivia Gonzalez,Heritage Bakes
+2023-12-11,Evening,Email,252.1,105.05,2,Returning,Xavier Hanson,Heritage Bakes
+2023-07-15,Afternoon,Email,61.39,35.23,0,New,Chad Taylor,Heritage Bakes
+2023-06-23,Evening,Referral,159.74,145.2,2,Returning,William Lewis,Heritage Bakes
+2023-10-25,Afternoon,Instagram,427.64,119.89,4,New,Crystal Robinson,Heritage Bakes
+2023-09-24,Afternoon,Walk-in,353.19,72.69,12,Returning,John Jones,Heritage Bakes
+2023-02-10,Night,Email,134.82,61.55,1,Returning,Meagan Patterson,Heritage Bakes
+2023-11-07,Evening,Walk-in,87.16,22.39,1,Returning,Timothy Smith,Heritage Bakes
+2023-10-27,Evening,Google Ads,122.03,42.89,3,New,Brenda Mendoza,Heritage Bakes
+2023-12-09,Afternoon,Referral,11.72,2.46,0,New,Nicole Edwards,Heritage Bakes
+2023-04-27,Evening,Google Ads,66.98,19.68,0,Returning,Amy Ramirez,Heritage Bakes
+2023-02-23,Evening,Instagram,15.36,12.07,0,New,Anthony David,Heritage Bakes
+2023-10-26,Night,Instagram,135.4,90.15,1,New,David Perkins,Heritage Bakes
+2023-10-16,Evening,Walk-in,24.03,8.15,0,Returning,Rose Jackson,Heritage Bakes
+2023-04-19,Morning,Instagram,326.38,147.5,6,New,Devin Hardin,Heritage Bakes
+2023-09-08,Night,Referral,379.1,92.32,8,Returning,Amber Fernandez,Heritage Bakes
+2023-06-27,Morning,Referral,470.02,373.3,16,Returning,Travis Marsh,Heritage Bakes
+2023-11-24,Evening,Walk-in,350.86,84.05,3,New,Rebecca Lowery,Heritage Bakes
+2023-03-30,Night,Instagram,417.8,178.28,7,New,Jesse Martin,Heritage Bakes
+2023-01-01,Morning,Walk-in,58.96,29.86,1,New,Robert Carter,Heritage Bakes
+2023-09-03,Night,Google Ads,22.04,9.17,0,Returning,Amy Olsen,Heritage Bakes
+2023-07-01,Evening,Email,193.75,72.73,6,New,Sydney Green,Heritage Bakes
+2023-05-14,Afternoon,Email,313.33,253.86,3,New,Julia Parsons,Heritage Bakes
+2023-04-04,Morning,Facebook,123.52,25.1,10,New,Thomas May,Heritage Bakes
+2023-06-01,Night,Google Ads,375.13,76.35,17,Returning,Erica Green,Heritage Bakes
+2023-07-15,Night,Facebook,448.29,216.06,6,Returning,Richard Burke,Heritage Bakes
+2023-04-29,Afternoon,Instagram,390.24,221.76,5,New,Tammy Williams,Heritage Bakes
+2023-02-10,Morning,Google Ads,476.23,147.84,15,New,Joshua Herrera,Heritage Bakes
+2023-03-31,Evening,Facebook,297.05,137.38,5,New,Brittany Byrd,Heritage Bakes
+2023-07-25,Night,Referral,19.18,5.24,0,New,Gina Brennan,Heritage Bakes
+2023-03-31,Afternoon,Email,417.4,194.56,32,New,Christopher George,Heritage Bakes
+2023-01-21,Afternoon,Referral,334.84,134.42,7,Returning,Lauren Watts,Heritage Bakes
+2023-04-21,Afternoon,Walk-in,43.21,13.03,1,Returning,Peter Campbell,Heritage Bakes
+2023-10-05,Morning,Facebook,369.54,110.76,3,Returning,Jonathon Stevenson,Heritage Bakes
+2023-10-26,Evening,Google Ads,476.24,113.75,27,New,Karla Burton,Heritage Bakes
+2023-02-07,Afternoon,Instagram,82.05,23.72,2,Returning,Randy Jones,Heritage Bakes
+2023-05-02,Night,Google Ads,148.86,49.19,8,Returning,Carlos Miller,Heritage Bakes
+2023-10-17,Afternoon,Google Ads,255.79,66.14,9,Returning,Joseph Church,Heritage Bakes
+2023-10-10,Afternoon,Facebook,459.35,368.71,40,New,Michael Haas,Heritage Bakes
+2023-08-25,Morning,Facebook,288.98,100.03,6,New,Renee Newton,Heritage Bakes
+2023-09-29,Afternoon,Referral,391.08,144.15,4,Returning,Thomas Daugherty,Heritage Bakes
+2023-11-05,Evening,Google Ads,70.29,54.14,4,Returning,Scott Roy,Heritage Bakes
+2023-04-10,Morning,Walk-in,119.02,25.03,1,New,Mr. Robert Cantu,Heritage Bakes
+2023-06-20,Morning,Facebook,112.61,41.11,1,Returning,Heather Matthews,Heritage Bakes
+2023-10-05,Evening,Email,434.69,106.64,26,New,Darlene Kelly,Heritage Bakes
+2023-08-14,Night,Walk-in,78.29,18.66,1,New,Nancy Merritt,Heritage Bakes
+2023-04-06,Afternoon,Facebook,338.97,82.69,6,New,Brian Thompson,Heritage Bakes
+2023-11-18,Morning,Referral,471.18,258.37,5,Returning,Theresa Goodman,Heritage Bakes
+2023-03-06,Afternoon,Referral,94.5,27.98,1,New,Justin White,Heritage Bakes
+2023-02-09,Evening,Walk-in,384.42,103.49,5,Returning,Scott Hernandez,Heritage Bakes
+2023-12-09,Evening,Walk-in,312.41,223.16,5,Returning,Christopher Shelton,Heritage Bakes
+2023-02-15,Evening,Walk-in,33.37,7.77,0,New,Debbie Koch,Heritage Bakes
+2023-12-21,Evening,Email,267.21,142.23,7,New,Tyler Stout,Heritage Bakes
+2023-09-20,Morning,Facebook,380.61,124.1,4,Returning,April Ryan,Heritage Bakes
+2023-01-24,Night,Facebook,395.84,86.97,12,New,William Phillips,Heritage Bakes
+2023-06-08,Afternoon,Walk-in,458.28,239.13,44,Returning,Taylor Smith,Heritage Bakes
+2023-03-08,Evening,Google Ads,365.77,179.08,7,New,Kelly Romero,Heritage Bakes
+2023-01-28,Afternoon,Facebook,186.44,44.87,2,New,Erin Nelson,Heritage Bakes
+2023-03-07,Evening,Referral,194.86,136.44,8,Returning,Christopher Dalton,Heritage Bakes
+2023-09-15,Night,Google Ads,170.77,41.09,1,New,Jamie Romero,Heritage Bakes
+2023-02-02,Afternoon,Google Ads,39.64,12.07,2,Returning,Logan Golden,Heritage Bakes
+2023-04-01,Night,Facebook,90.38,19.55,2,New,Michael Crawford,Heritage Bakes
+2023-09-17,Morning,Email,322.53,305.4,6,New,Stephanie Sanders,Heritage Bakes
+2023-08-03,Evening,Google Ads,74.5,58.79,0,New,Christine Meza,Heritage Bakes
+2023-06-20,Night,Instagram,227.52,84.31,2,New,Emily Hall,Heritage Bakes
+2023-12-29,Evening,Google Ads,51.4,25.31,0,Returning,Thomas Wells,Heritage Bakes
+2023-04-11,Afternoon,Facebook,83.42,29.95,1,New,Caitlin Howard,Heritage Bakes
+2023-04-18,Morning,Email,71.22,62.37,0,New,Jason Blackwell,Heritage Bakes
+2023-07-15,Morning,Facebook,355.53,113.09,20,New,Bradley Pacheco,Heritage Bakes
+2023-05-24,Evening,Facebook,250.77,51.14,3,New,Matthew Armstrong,Heritage Bakes
+2023-10-23,Morning,Email,206.82,72.48,3,Returning,Brittany Mitchell,Heritage Bakes
+2023-01-05,Afternoon,Google Ads,470.16,213.83,5,Returning,Thomas Friedman,Heritage Bakes
+2023-03-05,Night,Walk-in,469.57,196.25,9,New,Colleen Hernandez,Heritage Bakes
+2023-11-28,Morning,Walk-in,272.2,59.54,6,Returning,Peter Haynes,Heritage Bakes
+2023-07-02,Evening,Email,473.46,213.61,5,New,Jeffrey Ford,Heritage Bakes
